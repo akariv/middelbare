@@ -142,7 +142,8 @@
     "links": [
       "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/cheider-vo/",
       "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=280878",
-      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/3135/stichting-joodse-kindergemeenschap-cheider-mavo-havo-vwo/"
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/3135/stichting-joodse-kindergemeenschap-cheider-mavo-havo-vwo/",
+      "https://www.onderwijsconsument.nl/scholenoverzicht/vo/school/07AD"
     ],
     "admission_info": [
       "Voorrangsregels: geen voorrangsregels, geen centrale loting en matching",
@@ -178,7 +179,8 @@
       "Schools list",
       "onderwijsconsument.nl API",
       "DUO exam results",
-      "onderwijsconsument.nl jaren/vo"
+      "onderwijsconsument.nl jaren/vo",
+      "onderwijsconsument.nl"
     ],
     "completeness_score": 0.45,
     "google_maps_enriched": true

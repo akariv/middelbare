@@ -284,6 +284,12 @@ def render_school_details(school):
         if contact.get('website'):
             st.write(f"🌐 [{contact['website']}]({contact['website']})")
 
+        # onderwijsconsument.nl link
+        links = school.get('practical_info', {}).get('links', [])
+        oc_links = [link for link in links if 'onderwijsconsument.nl/scholenoverzicht' in str(link)]
+        if oc_links:
+            st.write(f"📊 [School Profile (onderwijsconsument.nl)]({oc_links[0]})")
+
         st.markdown("**Address**")
         address = school['basic_info'].get('address', 'N/A')
         postal = school['basic_info'].get('postal_code', '')

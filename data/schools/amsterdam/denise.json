@@ -138,7 +138,8 @@
     "links": [
       "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/de-nieuwe-internationale-school-esprit",
       "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=277936",
-      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/1267/denise/"
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/1267/denise/",
+      "https://www.onderwijsconsument.nl/scholenoverzicht/vo/school/31LK"
     ],
     "admission_info": [
       "Voorrangsregels: geen voorrangsregels",
@@ -169,7 +170,8 @@
       "Schools list",
       "onderwijsconsument.nl API",
       "schoolkeuze020.nl open dagen 2026",
-      "onderwijsconsument.nl jaren/vo"
+      "onderwijsconsument.nl jaren/vo",
+      "onderwijsconsument.nl"
     ],
     "completeness_score": 0.35,
     "google_maps_enriched": true

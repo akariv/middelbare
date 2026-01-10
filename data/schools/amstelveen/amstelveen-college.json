@@ -170,7 +170,8 @@
     "links": [
       "https://amstelveencollege.nl/",
       "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=279144",
-      "https://www.scholenopdekaart.nl/Middelbare-scholen/2823/Amstelveen-College---Stichting-openbaar-voortgezet-onderwijs-Amstelveen"
+      "https://www.scholenopdekaart.nl/Middelbare-scholen/2823/Amstelveen-College---Stichting-openbaar-voortgezet-onderwijs-Amstelveen",
+      "https://www.onderwijsconsument.nl/scholenoverzicht/vo/school/19XY"
     ]
   },
   "ai_analysis": {
@@ -203,7 +204,8 @@
       "School website",
       "onderwijsconsument.nl API",
       "DUO exam results",
-      "onderwijsconsument.nl jaren/vo"
+      "onderwijsconsument.nl jaren/vo",
+      "onderwijsconsument.nl"
     ],
     "completeness_score": 0.6,
     "google_maps_enriched": true

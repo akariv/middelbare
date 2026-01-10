@@ -152,7 +152,8 @@
     "links": [
       "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/gerrit-van-der-veen-college/",
       "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=279912",
-      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/4393/gerrit-van-der-veen-college/"
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/4393/gerrit-van-der-veen-college/",
+      "https://www.onderwijsconsument.nl/scholenoverzicht/vo/school/21ET"
     ],
     "admission_info": [
       "Voorrangsregels: voorrang voor broertjes en/of zusjes van zittende leerlingen die op 1 oktober 2016 ingeschreven stonden, voorrang voor leerlingen van de Nationale Balletacademie(HKA), Lucia Marthas Institute for performing Arts en Conservatorium van Amsterdam"
@@ -182,7 +183,8 @@
       "Schools list",
       "onderwijsconsument.nl API",
       "schoolkeuze020.nl open dagen 2026",
-      "onderwijsconsument.nl jaren/vo"
+      "onderwijsconsument.nl jaren/vo",
+      "onderwijsconsument.nl"
     ],
     "completeness_score": 0.4,
     "google_maps_enriched": true

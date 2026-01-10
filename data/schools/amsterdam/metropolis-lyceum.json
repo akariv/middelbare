@@ -135,7 +135,9 @@
     ],
     "information_sessions": [],
     "application_deadlines": [],
-    "links": []
+    "links": [
+      "https://www.onderwijsconsument.nl/scholenoverzicht/vo/school/0000AA"
+    ]
   },
   "ai_analysis": {
     "strengths": [
@@ -160,7 +162,8 @@
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",
-      "schoolkeuze020.nl open dagen 2026"
+      "schoolkeuze020.nl open dagen 2026",
+      "onderwijsconsument.nl"
     ],
     "completeness_score": 0.35,
     "google_maps_enriched": true

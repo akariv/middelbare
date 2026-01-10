@@ -223,7 +223,8 @@
       "https://hlw.leerlingaanmelden.nl",
       "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/hervormd-lyceum-west/",
       "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=302998",
-      "https://hlw.nl"
+      "https://hlw.nl",
+      "https://www.onderwijsconsument.nl/scholenoverzicht/vo/school/01TC"
     ],
     "admission_info": [
       "Voorrangsregels: voorrang voor leerlingen die uitstromen uit de Koplas op HLW"
@@ -262,7 +263,8 @@
       "onderwijsconsument.nl API",
       "DUO exam results",
       "schoolkeuze020.nl open dagen 2026",
-      "onderwijsconsument.nl jaren/vo"
+      "onderwijsconsument.nl jaren/vo",
+      "onderwijsconsument.nl"
     ],
     "completeness_score": 0.6,
     "google_maps_enriched": true

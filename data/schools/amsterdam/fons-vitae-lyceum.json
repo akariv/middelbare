@@ -174,7 +174,8 @@
       "https://www.fonsvitae.nl/",
       "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/fons-vitae-lyceum/",
       "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=304170",
-      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/1435/fons-vitae-lyceum/"
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/1435/fons-vitae-lyceum/",
+      "https://www.onderwijsconsument.nl/scholenoverzicht/vo/school/02AN"
     ],
     "admission_info": [
       "Voorrangsregels: voorrang voor broertjes en/of zusjes van zittende leerlingen die op 1 oktober 2016 ingeschreven stonden"
@@ -212,7 +213,8 @@
       "onderwijsconsument.nl API",
       "DUO exam results",
       "schoolkeuze020.nl open dagen 2026",
-      "onderwijsconsument.nl jaren/vo"
+      "onderwijsconsument.nl jaren/vo",
+      "onderwijsconsument.nl"
     ],
     "completeness_score": 0.5,
     "google_maps_enriched": true

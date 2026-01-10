@@ -132,7 +132,8 @@
     "information_sessions": [],
     "application_deadlines": [],
     "links": [
-      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/25731/montessori-lyceum-amsterdam-c-van-eesterenlaan/"
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/25731/montessori-lyceum-amsterdam-c-van-eesterenlaan/",
+      "https://www.onderwijsconsument.nl/scholenoverzicht/vo/school/16PS18"
     ]
   },
   "ai_analysis": {
@@ -163,7 +164,8 @@
       "Schools list",
       "onderwijsconsument.nl API",
       "schoolkeuze020.nl open dagen 2026",
-      "onderwijsconsument.nl jaren/vo"
+      "onderwijsconsument.nl jaren/vo",
+      "onderwijsconsument.nl"
     ],
     "completeness_score": 0.45,
     "google_maps_enriched": true

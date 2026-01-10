@@ -154,7 +154,8 @@
     "links": [
       "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/xplore-agora-amsterdam",
       "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=1775760",
-      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/25398/damstede-2-agora/"
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/25398/damstede-2-agora/",
+      "https://www.onderwijsconsument.nl/scholenoverzicht/vo/school/17VF08"
     ],
     "admission_info": [
       "Voorrangsregels: geen voorrangsregels"
@@ -193,7 +194,8 @@
       "Agora education model knowledge",
       "onderwijsconsument.nl API",
       "schoolkeuze020.nl open dagen 2026",
-      "onderwijsconsument.nl jaren/vo"
+      "onderwijsconsument.nl jaren/vo",
+      "onderwijsconsument.nl"
     ],
     "completeness_score": 0.5,
     "google_maps_enriched": true

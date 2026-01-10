@@ -165,7 +165,8 @@
     "links": [
       "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/spinoza20first/",
       "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=1782877&name=havo&page=2",
-      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/24187/spinoza20first/"
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/24187/spinoza20first/",
+      "https://www.onderwijsconsument.nl/scholenoverzicht/vo/school/21BH01"
     ],
     "admission_info": [
       "Toelating: leerlingen moeten bewust kiezen voor onderzoekend en ontwerpend leren"
@@ -200,7 +201,8 @@
       "onderwijsconsument.nl API",
       "DUO exam results",
       "schoolkeuze020.nl open dagen 2026",
-      "onderwijsconsument.nl jaren/vo"
+      "onderwijsconsument.nl jaren/vo",
+      "onderwijsconsument.nl"
     ],
     "completeness_score": 0.4,
     "google_maps_enriched": true

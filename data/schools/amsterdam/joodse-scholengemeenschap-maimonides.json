@@ -151,7 +151,8 @@
     "links": [
       "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/joodse-scholengemeenschap-maimonides/",
       "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=304698",
-      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/675/joodse-sgm-maimonides/"
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/675/joodse-sgm-maimonides/",
+      "https://www.onderwijsconsument.nl/scholenoverzicht/vo/school/16PN"
     ],
     "admission_info": [
       "Voorrangsregels: geen voorrangsregels",
@@ -187,7 +188,8 @@
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",
-      "onderwijsconsument.nl jaren/vo"
+      "onderwijsconsument.nl jaren/vo",
+      "onderwijsconsument.nl"
     ],
     "completeness_score": 0.45,
     "google_maps_enriched": true

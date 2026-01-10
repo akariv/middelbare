@@ -175,7 +175,8 @@
     "links": [
       "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/Ir.%20LelyLyceum",
       "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=279930",
-      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/1641/ir-lely-lyceum/"
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/1641/ir-lely-lyceum/",
+      "https://www.onderwijsconsument.nl/scholenoverzicht/vo/school/21FF"
     ],
     "admission_info": [
       "Voorrangsregels: geen voorrangsregels"
@@ -205,7 +206,8 @@
       "onderwijsconsument.nl API",
       "DUO exam results",
       "schoolkeuze020.nl open dagen 2026",
-      "onderwijsconsument.nl jaren/vo"
+      "onderwijsconsument.nl jaren/vo",
+      "onderwijsconsument.nl"
     ],
     "completeness_score": 0.4,
     "google_maps_enriched": true

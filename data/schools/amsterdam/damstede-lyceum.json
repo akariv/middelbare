@@ -180,7 +180,8 @@
       "https://www.damstedelyceum.nl/",
       "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/damstede/",
       "https://toezichtresultaten.onderwijsinspectie.nl/detail?q=amsterdam%2520&page=1&id=277796&pseudocode=17VF%257C00",
-      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/4437/damstede-lyceum/"
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/4437/damstede-lyceum/",
+      "https://www.onderwijsconsument.nl/scholenoverzicht/vo/school/17VF"
     ],
     "admission_info": [
       "Voorrangsregels: geen voorrangsregels "
@@ -211,7 +212,8 @@
       "Limited web access",
       "onderwijsconsument.nl API",
       "schoolkeuze020.nl open dagen 2026",
-      "onderwijsconsument.nl jaren/vo"
+      "onderwijsconsument.nl jaren/vo",
+      "onderwijsconsument.nl"
     ],
     "completeness_score": 0.4,
     "google_maps_enriched": true

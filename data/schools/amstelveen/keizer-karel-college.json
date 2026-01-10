@@ -170,7 +170,8 @@
     "information_sessions": [],
     "application_deadlines": [],
     "links": [
-      "http://www.keizerkarelcollege.nl"
+      "http://www.keizerkarelcollege.nl",
+      "https://www.onderwijsconsument.nl/scholenoverzicht/vo/school/02QZ"
     ],
     "admission_info": [
       "Voorrangsregels: leerlingen uit Amstelveen, Ouderkerk a/d Amstel, Badhoevedorp en Aalsmeer, en kinderen van oud-leerlingen"
@@ -214,7 +215,8 @@
       "User-provided school information",
       "http://www.keizerkarelcollege.nl",
       "School contact details and open days 2026",
-      "Enrollment data 2024-2025"
+      "Enrollment data 2024-2025",
+      "onderwijsconsument.nl"
     ],
     "completeness_score": 0.7,
     "google_maps_enriched": false
