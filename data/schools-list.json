@@ -1,0 +1,279 @@
+{
+  "metadata": {
+    "last_updated": "2026-01-09",
+    "total_schools": 45,
+    "sources": ["https://schoolwijzer.amsterdam.nl/nl/vo", "Web search"]
+  },
+  "schools": [
+    {
+      "name": "Ignatiusgymnasium",
+      "city": "Amsterdam",
+      "types": ["VWO"],
+      "status": "completed"
+    },
+    {
+      "name": "Het Amsterdams Lyceum",
+      "city": "Amsterdam",
+      "types": ["VWO"],
+      "status": "completed"
+    },
+    {
+      "name": "Montessori Lyceum Amsterdam (MLA)",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO-T"],
+      "status": "completed"
+    },
+    {
+      "name": "Amstelveen College",
+      "city": "Amstelveen",
+      "types": ["VWO", "HAVO", "MAVO"],
+      "status": "completed"
+    },
+    {
+      "name": "Hermann Wesselink College",
+      "city": "Amstelveen",
+      "types": ["VWO", "HAVO", "VMBO-T"],
+      "status": "completed"
+    },
+    {
+      "name": "Hervormd Lyceum West",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO-T"],
+      "status": "completed"
+    },
+    {
+      "name": "Fons Vitae Lyceum",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO"],
+      "status": "completed"
+    },
+    {
+      "name": "HLZ (Hervormd Lyceum Zuid)",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO"],
+      "status": "completed"
+    },
+    {
+      "name": "Open Schoolgemeenschap Bijlmer",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO"],
+      "status": "completed"
+    },
+    {
+      "name": "Pieter Nieuwland College",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO"],
+      "status": "completed"
+    },
+    {
+      "name": "Cygnus Gymnasium",
+      "city": "Amsterdam",
+      "types": ["VWO"],
+      "status": "completed"
+    },
+    {
+      "name": "St. Nicolaaslyceum",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO"],
+      "status": "completed"
+    },
+    {
+      "name": "CSB",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO-T"],
+      "status": "completed"
+    },
+    {
+      "name": "Joodse Scholengemeenschap Maimonides",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO"],
+      "status": "completed"
+    },
+    {
+      "name": "Montessori Lyceum Oostpoort",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO"],
+      "status": "completed"
+    },
+    {
+      "name": "Metis Montessori Lyceum",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO"],
+      "status": "completed"
+    },
+    {
+      "name": "Geert Groote College Amsterdam",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO-T"],
+      "status": "completed"
+    },
+    {
+      "name": "Comenius Lyceum Amsterdam",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO"],
+      "status": "completed"
+    },
+    {
+      "name": "Damstede Lyceum",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO"],
+      "status": "completed"
+    },
+    {
+      "name": "Berlage Lyceum",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO-T"],
+      "status": "completed"
+    },
+    {
+      "name": "Barlaeus Gymnasium",
+      "city": "Amsterdam",
+      "types": ["VWO"],
+      "status": "completed"
+    },
+    {
+      "name": "Vossius Gymnasium",
+      "city": "Amsterdam",
+      "types": ["VWO"],
+      "status": "completed"
+    },
+    {
+      "name": "Hyperion Lyceum",
+      "city": "Amsterdam",
+      "types": ["VWO"],
+      "status": "completed"
+    },
+    {
+      "name": "De nieuwe Havo",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO"],
+      "status": "completed"
+    },
+    {
+      "name": "Spinoza Lyceum",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO-T"],
+      "status": "completed"
+    },
+    {
+      "name": "Gerrit van der Veen College",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO"],
+      "status": "completed"
+    },
+    {
+      "name": "Ir. Lely Lyceum",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO-T"],
+      "status": "completed"
+    },
+    {
+      "name": "Calandlyceum",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO-T"],
+      "status": "completed"
+    },
+    {
+      "name": "Lumion",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO-T"],
+      "status": "completed"
+    },
+    {
+      "name": "Het 4e Gymnasium",
+      "city": "Amsterdam",
+      "types": ["VWO"],
+      "status": "completed"
+    },
+    {
+      "name": "Cartesius Lyceum",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO"],
+      "status": "completed"
+    },
+    {
+      "name": "Cheider (vo)",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO"],
+      "status": "completed"
+    },
+    {
+      "name": "Vinse School",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO-T"],
+      "status": "completed"
+    },
+    {
+      "name": "DENISE",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO-T"],
+      "status": "completed"
+    },
+    {
+      "name": "ALASCA",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO"],
+      "status": "completed"
+    },
+    {
+      "name": "Cornelius Haga Lyceum",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO-T"],
+      "status": "completed"
+    },
+    {
+      "name": "Spring High",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO-T"],
+      "status": "completed"
+    },
+    {
+      "name": "Vox College",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO"],
+      "status": "completed"
+    },
+    {
+      "name": "Xplore - Agora Amsterdam",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO-T"],
+      "status": "completed"
+    },
+    {
+      "name": "Vechtstede College",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO-T"],
+      "status": "completed"
+    },
+    {
+      "name": "Montessori Lyceum Terra Nova",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO"],
+      "status": "completed"
+    },
+    {
+      "name": "Metropolis Lyceum",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO-T"],
+      "status": "completed"
+    },
+    {
+      "name": "Montessori Lyceum Pax",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO-T"],
+      "status": "completed"
+    },
+    {
+      "name": "Kairos Tienercollege",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO-T"],
+      "status": "completed"
+    },
+    {
+      "name": "Spinoza20first",
+      "city": "Amsterdam",
+      "types": ["VWO", "HAVO", "VMBO-T"],
+      "status": "completed"
+    }
+  ]
+}
