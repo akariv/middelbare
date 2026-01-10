@@ -132,9 +132,7 @@
     "alumni_stories": []
   },
   "practical_info": {
-    "open_days": [
-      "Open days and lesson sessions scheduled for Grade 8 students"
-    ],
+    "open_days": [],
     "information_sessions": [],
     "application_deadlines": [],
     "links": [
@@ -176,7 +174,7 @@
     "summary": "Hermann Wesselink College is a large, modern Christian school in Amstelveen offering comprehensive education from VMBO-T through Gymnasium, including bilingual options. Located very close to the student's home, it features a new energy-neutral building with excellent facilities. With its motto 'everyone is equal, but nobody is the same,' the school balances Christian values with inclusive individuality. Strong support systems and international orientation make it suitable for diverse learners."
   },
   "metadata": {
-    "last_updated": "2026-01-09T18:47:51.301332",
+    "last_updated": "2026-01-10T17:09:51.220953",
     "data_sources": [
       "https://www.hethwc.nl/",
       "Wikipedia",
