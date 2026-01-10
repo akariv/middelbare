@@ -32,7 +32,26 @@
     "formatted_address": "Amsterdam, Netherlands"
   },
   "academic_performance": {
-    "exam_scores": {},
+    "exam_scores": {
+      "vmbo": {
+        "pass_rate_2024_2025": 92.0,
+        "candidates_2024_2025": 237,
+        "passed_2024_2025": 218,
+        "average_pass_rate_5yr": 93.7
+      },
+      "havo": {
+        "pass_rate_2024_2025": 78.2,
+        "candidates_2024_2025": 310,
+        "passed_2024_2025": 242,
+        "average_pass_rate_5yr": 83.0
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 86.4,
+        "candidates_2024_2025": 257,
+        "passed_2024_2025": 222,
+        "average_pass_rate_5yr": 87.1
+      }
+    },
     "graduation_rates": {},
     "student_teacher_ratio": null,
     "special_programs": [
@@ -159,13 +178,14 @@
     "summary": "Montessori Lyceum Pax is a Montessori secondary school in Amsterdam offering VMBO-T, HAVO, and VWO education using the Montessori methodology. With 'Pax' meaning peace, the school emphasizes self-directed learning and individual development in a peaceful, harmonious environment."
   },
   "metadata": {
-    "last_updated": "2026-01-10T17:10:16.975799",
+    "last_updated": "2026-01-10T18:49:24.460444",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",
       "schoolkeuze020.nl open dagen 2026",
       "onderwijsconsument.nl jaren/vo",
-      "onderwijsconsument.nl"
+      "onderwijsconsument.nl",
+      "DUO exam results"
     ],
     "completeness_score": 0.45,
     "google_maps_enriched": true

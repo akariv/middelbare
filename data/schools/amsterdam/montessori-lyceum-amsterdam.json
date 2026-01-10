@@ -34,7 +34,24 @@
   },
   "academic_performance": {
     "exam_scores": {
-      "note": "Scores at or around benchmark for all departments (recent year)"
+      "vmbo": {
+        "pass_rate_2024_2025": 92.0,
+        "candidates_2024_2025": 237,
+        "passed_2024_2025": 218,
+        "average_pass_rate_5yr": 93.7
+      },
+      "havo": {
+        "pass_rate_2024_2025": 78.2,
+        "candidates_2024_2025": 310,
+        "passed_2024_2025": 242,
+        "average_pass_rate_5yr": 83.0
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 86.4,
+        "candidates_2024_2025": 257,
+        "passed_2024_2025": 222,
+        "average_pass_rate_5yr": 87.1
+      }
     },
     "graduation_rates": {},
     "student_teacher_ratio": 11.1,
@@ -176,7 +193,7 @@
     "summary": "Montessori Lyceum Amsterdam (MLA) is the world's first Montessori secondary school, offering education from VMBO-T through Gymnasium using the renowned Montessori methodology. With 1526 students and a good teacher ratio, MLA provides a student-centered, self-directed learning environment in Amsterdam-Zuid. The school is currently undergoing renovations to improve facilities."
   },
   "metadata": {
-    "last_updated": "2026-01-10T17:10:15.308941",
+    "last_updated": "2026-01-10T18:49:24.443269",
     "data_sources": [
       "https://montessorilyceumamsterdam.nl/",
       "Web search results",
@@ -184,7 +201,8 @@
       "AlleCijfers.nl",
       "onderwijsconsument.nl API",
       "onderwijsconsument.nl jaren/vo",
-      "onderwijsconsument.nl"
+      "onderwijsconsument.nl",
+      "DUO exam results"
     ],
     "completeness_score": 0.55,
     "google_maps_enriched": true

@@ -32,7 +32,26 @@
     "formatted_address": "Amsterdam, Netherlands"
   },
   "academic_performance": {
-    "exam_scores": {},
+    "exam_scores": {
+      "vmbo": {
+        "pass_rate_2024_2025": 100.0,
+        "candidates_2024_2025": 7,
+        "passed_2024_2025": 7,
+        "average_pass_rate_5yr": 100.0
+      },
+      "havo": {
+        "pass_rate_2024_2025": 100.0,
+        "candidates_2024_2025": 10,
+        "passed_2024_2025": 10,
+        "average_pass_rate_5yr": 96.9
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 87.2,
+        "candidates_2024_2025": 19,
+        "passed_2024_2025": 17,
+        "average_pass_rate_5yr": 89.2
+      }
+    },
     "graduation_rates": {},
     "student_teacher_ratio": null,
     "special_programs": [
@@ -184,12 +203,13 @@
     "summary": "Joodse Scholengemeenschap Maimonides is a Jewish school in Amsterdam offering VMBO, HAVO, and VWO education rooted in Jewish values, culture, and tradition. The school combines secular education with Jewish studies, Hebrew language instruction, and cultural activities, providing a strong Jewish community identity and values-based education for students."
   },
   "metadata": {
-    "last_updated": "2026-01-10T17:10:11.213816",
+    "last_updated": "2026-01-10T18:49:24.370949",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",
       "onderwijsconsument.nl jaren/vo",
-      "onderwijsconsument.nl"
+      "onderwijsconsument.nl",
+      "DUO exam results"
     ],
     "completeness_score": 0.45,
     "google_maps_enriched": true

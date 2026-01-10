@@ -33,7 +33,20 @@
     }
   },
   "academic_performance": {
-    "exam_scores": {},
+    "exam_scores": {
+      "havo": {
+        "pass_rate_2024_2025": 90.4,
+        "candidates_2024_2025": 94,
+        "passed_2024_2025": 85,
+        "average_pass_rate_5yr": 89.6
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 91.5,
+        "candidates_2024_2025": 175,
+        "passed_2024_2025": 160,
+        "average_pass_rate_5yr": 93.2
+      }
+    },
     "graduation_rates": {},
     "student_teacher_ratio": null,
     "special_programs": [
@@ -210,13 +223,14 @@
     "summary": "Keizer Karel College is a distinguished Roman Catholic secondary school in Amstelveen offering HAVO and VWO education with multiple specialized tracks. With UNESCO school status and Begaafdheidsprofielschool certification, the school combines academic excellence with a strong commitment to global citizenship, peace, human rights, and sustainability. The school offers diverse pathways including Gymnasium, Technasium, and standard tracks, all enhanced by ICT integration and Cambridge English programs. With approximately 1,900 students, it provides a robust educational environment while maintaining its motto 'Met oog voor jou' - emphasizing individual attention and care. The comprehensive student support system includes remedial teachers, school psychologists, and specialized programs for test anxiety and social skills. Best suited for academically strong students living in the Amstelveen region who value both traditional academic rigor and progressive global citizenship education."
   },
   "metadata": {
-    "last_updated": "2026-01-10T17:09:52.034395",
+    "last_updated": "2026-01-10T18:49:24.019154",
     "data_sources": [
       "User-provided school information",
       "http://www.keizerkarelcollege.nl",
       "School contact details and open days 2026",
       "Enrollment data 2024-2025",
-      "onderwijsconsument.nl"
+      "onderwijsconsument.nl",
+      "DUO exam results"
     ],
     "completeness_score": 0.7,
     "google_maps_enriched": false

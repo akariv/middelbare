@@ -32,7 +32,26 @@
     "formatted_address": "Amsterdam, Netherlands"
   },
   "academic_performance": {
-    "exam_scores": {},
+    "exam_scores": {
+      "vmbo": {
+        "pass_rate_2024_2025": 95.3,
+        "candidates_2024_2025": 171,
+        "passed_2024_2025": 163,
+        "average_pass_rate_5yr": 92.5
+      },
+      "havo": {
+        "pass_rate_2024_2025": 64.3,
+        "candidates_2024_2025": 78,
+        "passed_2024_2025": 50,
+        "average_pass_rate_5yr": 74.9
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 70.1,
+        "candidates_2024_2025": 43,
+        "passed_2024_2025": 30,
+        "average_pass_rate_5yr": 74.4
+      }
+    },
     "graduation_rates": {},
     "student_teacher_ratio": null,
     "special_programs": [
@@ -188,14 +207,15 @@
     "summary": "Xplore - Agora Amsterdam is an innovative school offering VMBO-T, HAVO, and VWO education using the Agora education model. The school emphasizes student autonomy, self-directed learning, and exploration through self-chosen challenges and projects. With coaches instead of traditional teachers, Xplore provides a non-traditional learning environment focused on discovery, independence, and project-based learning for highly motivated students."
   },
   "metadata": {
-    "last_updated": "2026-01-10T17:10:26.644265",
+    "last_updated": "2026-01-10T18:49:24.625154",
     "data_sources": [
       "Schools list",
       "Agora education model knowledge",
       "onderwijsconsument.nl API",
       "schoolkeuze020.nl open dagen 2026",
       "onderwijsconsument.nl jaren/vo",
-      "onderwijsconsument.nl"
+      "onderwijsconsument.nl",
+      "DUO exam results"
     ],
     "completeness_score": 0.5,
     "google_maps_enriched": true

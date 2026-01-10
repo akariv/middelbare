@@ -34,7 +34,26 @@
     }
   },
   "academic_performance": {
-    "exam_scores": {},
+    "exam_scores": {
+      "vmbo": {
+        "pass_rate_2024_2025": 92.6,
+        "candidates_2024_2025": 67,
+        "passed_2024_2025": 62,
+        "average_pass_rate_5yr": 93.7
+      },
+      "havo": {
+        "pass_rate_2024_2025": 86.3,
+        "candidates_2024_2025": 124,
+        "passed_2024_2025": 107,
+        "average_pass_rate_5yr": 90.6
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 91.3,
+        "candidates_2024_2025": 138,
+        "passed_2024_2025": 126,
+        "average_pass_rate_5yr": 95.2
+      }
+    },
     "graduation_rates": {},
     "student_teacher_ratio": null,
     "special_programs": [
@@ -175,14 +194,15 @@
     "summary": "Hermann Wesselink College is a large, modern Christian school in Amstelveen offering comprehensive education from VMBO-T through Gymnasium, including bilingual options. Located very close to the student's home, it features a new energy-neutral building with excellent facilities. With its motto 'everyone is equal, but nobody is the same,' the school balances Christian values with inclusive individuality. Strong support systems and international orientation make it suitable for diverse learners."
   },
   "metadata": {
-    "last_updated": "2026-01-10T17:09:51.220953",
+    "last_updated": "2026-01-10T18:49:24.012312",
     "data_sources": [
       "https://www.hethwc.nl/",
       "Wikipedia",
       "Web search results",
       "onderwijsconsument.nl API",
       "onderwijsconsument.nl jaren/vo",
-      "onderwijsconsument.nl"
+      "onderwijsconsument.nl",
+      "DUO exam results"
     ],
     "completeness_score": 0.7,
     "google_maps_enriched": true

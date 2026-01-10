@@ -32,7 +32,26 @@
     "formatted_address": "Amsterdam, Netherlands"
   },
   "academic_performance": {
-    "exam_scores": {},
+    "exam_scores": {
+      "vmbo": {
+        "pass_rate_2024_2025": 81.5,
+        "candidates_2024_2025": 338,
+        "passed_2024_2025": 275,
+        "average_pass_rate_5yr": 85.6
+      },
+      "havo": {
+        "pass_rate_2024_2025": 67.4,
+        "candidates_2024_2025": 207,
+        "passed_2024_2025": 139,
+        "average_pass_rate_5yr": 72.2
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 73.7,
+        "candidates_2024_2025": 188,
+        "passed_2024_2025": 138,
+        "average_pass_rate_5yr": 81.6
+      }
+    },
     "graduation_rates": {},
     "student_teacher_ratio": null,
     "special_programs": [],
@@ -150,12 +169,13 @@
     "summary": "Spring High is a secondary school in Amsterdam offering VMBO-T, HAVO, and VWO education, with a name suggesting emphasis on fresh starts, growth, and student development."
   },
   "metadata": {
-    "last_updated": "2026-01-10T17:10:21.815195",
+    "last_updated": "2026-01-10T18:49:24.541266",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",
       "onderwijsconsument.nl jaren/vo",
-      "onderwijsconsument.nl"
+      "onderwijsconsument.nl",
+      "DUO exam results"
     ],
     "completeness_score": 0.35,
     "google_maps_enriched": true

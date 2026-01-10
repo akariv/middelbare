@@ -33,7 +33,26 @@
     }
   },
   "academic_performance": {
-    "exam_scores": {},
+    "exam_scores": {
+      "vmbo": {
+        "pass_rate_2024_2025": 83.9,
+        "candidates_2024_2025": 84,
+        "passed_2024_2025": 70,
+        "average_pass_rate_5yr": 89.4
+      },
+      "havo": {
+        "pass_rate_2024_2025": 78.9,
+        "candidates_2024_2025": 194,
+        "passed_2024_2025": 153,
+        "average_pass_rate_5yr": 83.1
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 91.2,
+        "candidates_2024_2025": 136,
+        "passed_2024_2025": 124,
+        "average_pass_rate_5yr": 91.1
+      }
+    },
     "graduation_rates": {},
     "student_teacher_ratio": null,
     "special_programs": [
@@ -209,14 +228,15 @@
     "summary": "Het Dalton Spinoza Lyceum is an arts and cultural education school in Amsterdam Zuid offering VMBO-T, HAVO, VWO, and Gymnasium with the motto 'de kunst van het leren' (the art of learning). Operating under the Dalton education philosophy, the school emphasizes individualized learning, student autonomy, and global citizenship. Special programs include Erasmus+ international exchanges, visual arts (KuBv), and comprehensive arts and cultural education. Part of Stichting Spinoza Lyceum, the school provides comprehensive student guidance while developing independent, globally-minded learners."
   },
   "metadata": {
-    "last_updated": "2026-01-10T17:10:20.195785",
+    "last_updated": "2026-01-10T18:49:24.525488",
     "data_sources": [
       "https://www.spinozalyceum.nl/",
       "School website",
       "onderwijsconsument.nl API",
       "schoolkeuze020.nl open dagen 2026",
       "onderwijsconsument.nl jaren/vo",
-      "onderwijsconsument.nl"
+      "onderwijsconsument.nl",
+      "DUO exam results"
     ],
     "completeness_score": 0.6,
     "google_maps_enriched": true

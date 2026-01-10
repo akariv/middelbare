@@ -30,7 +30,26 @@
     "formatted_address": "Amsterdam, Netherlands"
   },
   "academic_performance": {
-    "exam_scores": {},
+    "exam_scores": {
+      "vmbo": {
+        "pass_rate_2024_2025": 81.5,
+        "candidates_2024_2025": 338,
+        "passed_2024_2025": 275,
+        "average_pass_rate_5yr": 85.6
+      },
+      "havo": {
+        "pass_rate_2024_2025": 67.4,
+        "candidates_2024_2025": 207,
+        "passed_2024_2025": 139,
+        "average_pass_rate_5yr": 72.2
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 73.7,
+        "candidates_2024_2025": 188,
+        "passed_2024_2025": 138,
+        "average_pass_rate_5yr": 81.6
+      }
+    },
     "graduation_rates": {},
     "student_teacher_ratio": null,
     "special_programs": [],
@@ -183,13 +202,14 @@
     "summary": "Cartesius Lyceum is a secondary school in Amsterdam offering HAVO and VWO education, named after philosopher René Descartes, likely emphasizing critical thinking, analytical skills, rational thought, and the scientific method."
   },
   "metadata": {
-    "last_updated": "2026-01-10T17:09:55.956641",
+    "last_updated": "2026-01-10T18:49:24.059053",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",
       "schoolkeuze020.nl open dagen 2026",
       "onderwijsconsument.nl jaren/vo",
-      "onderwijsconsument.nl"
+      "onderwijsconsument.nl",
+      "DUO exam results"
     ],
     "completeness_score": 0.4,
     "google_maps_enriched": true

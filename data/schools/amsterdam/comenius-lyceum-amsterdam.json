@@ -32,7 +32,26 @@
     "formatted_address": "Amsterdam, Netherlands"
   },
   "academic_performance": {
-    "exam_scores": {},
+    "exam_scores": {
+      "vmbo": {
+        "pass_rate_2024_2025": 88.1,
+        "candidates_2024_2025": 188,
+        "passed_2024_2025": 166,
+        "average_pass_rate_5yr": 90.2
+      },
+      "havo": {
+        "pass_rate_2024_2025": 88.0,
+        "candidates_2024_2025": 50,
+        "passed_2024_2025": 44,
+        "average_pass_rate_5yr": 87.9
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 83.3,
+        "candidates_2024_2025": 21,
+        "passed_2024_2025": 17,
+        "average_pass_rate_5yr": 91.9
+      }
+    },
     "graduation_rates": {},
     "student_teacher_ratio": null,
     "special_programs": [
@@ -219,14 +238,15 @@
     "summary": "Comenius Lyceum Amsterdam is one of Amsterdam's most sought-after secondary schools, celebrating 25 years of educational excellence in Nieuw-West. Offering MAVO, HAVO, and VWO education with a strong foundation and highly engaged staff, the school emphasizes comprehensive student development. Unique features include an official Youth Court (Jongerenrechtbank) appointed by Amsterdam's district court, a VWO+ accelerated program for advanced students, and an IT/Technology Lab focused on innovation. The school provides language support, guidance programs, and student voice through participation structures, creating a pleasant atmosphere for learning and growth."
   },
   "metadata": {
-    "last_updated": "2026-01-10T17:09:57.488432",
+    "last_updated": "2026-01-10T18:49:24.106737",
     "data_sources": [
       "https://www.comeniuslyceum.nl/",
       "School website",
       "onderwijsconsument.nl API",
       "schoolkeuze020.nl open dagen 2026",
       "onderwijsconsument.nl jaren/vo",
-      "onderwijsconsument.nl"
+      "onderwijsconsument.nl",
+      "DUO exam results"
     ],
     "completeness_score": 0.6,
     "google_maps_enriched": true

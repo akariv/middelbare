@@ -31,7 +31,26 @@
     }
   },
   "academic_performance": {
-    "exam_scores": {},
+    "exam_scores": {
+      "vmbo": {
+        "pass_rate_2024_2025": 92.0,
+        "candidates_2024_2025": 188,
+        "passed_2024_2025": 173,
+        "average_pass_rate_5yr": 91.3
+      },
+      "havo": {
+        "pass_rate_2024_2025": 63.8,
+        "candidates_2024_2025": 74,
+        "passed_2024_2025": 47,
+        "average_pass_rate_5yr": 77.7
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 49.4,
+        "candidates_2024_2025": 39,
+        "passed_2024_2025": 19,
+        "average_pass_rate_5yr": 72.4
+      }
+    },
     "graduation_rates": {},
     "student_teacher_ratio": null,
     "special_programs": [
@@ -207,14 +226,15 @@
     "summary": "Open Schoolgemeenschap Bijlmer (OSB) is a challenging public school in Amsterdam Bijlmer offering VMBO, HAVO, and VWO education with a unique 'Willen is kunnen' (willing is being able) motto. The school creates a mini-society learning environment with strong emphasis on practical experience, workplace exposure, and early career exploration. Through its OSB Extra program, students can engage in sport, arts, culture, and music while following customized learning paths. OSB prepares students not just academically but for resilience and adaptability in a changing world."
   },
   "metadata": {
-    "last_updated": "2026-01-10T17:10:18.536646",
+    "last_updated": "2026-01-10T18:49:24.509529",
     "data_sources": [
       "https://osbijlmer.nl/",
       "School website",
       "onderwijsconsument.nl API",
       "schoolkeuze020.nl open dagen 2026",
       "onderwijsconsument.nl jaren/vo",
-      "onderwijsconsument.nl"
+      "onderwijsconsument.nl",
+      "DUO exam results"
     ],
     "completeness_score": 0.55,
     "google_maps_enriched": true

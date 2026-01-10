@@ -113,7 +113,21 @@ def find_brin_code(school_data, duo_data):
     """Try to find BRIN code for a school."""
     school_name = school_data['basic_info']['name']
 
-    # Search in DUO data by name matching
+    # First, try to extract BRIN from onderwijsconsument.nl link
+    links = school_data.get('practical_info', {}).get('links', [])
+    for link in links:
+        if 'onderwijsconsument.nl/scholenoverzicht' in str(link):
+            # Extract BRIN code from URL (e.g., 16PN, 17YS21, etc.)
+            brin_from_url = link.split('/')[-1]
+            # Try the full BRIN code first
+            if brin_from_url in duo_data['INSTELLINGSCODE'].values:
+                return brin_from_url
+            # If not found, try the first 4 characters (base BRIN without vestiging)
+            base_brin = brin_from_url[:4]
+            if base_brin in duo_data['INSTELLINGSCODE'].values:
+                return base_brin
+
+    # Fallback: Search in DUO data by name matching
     for brin in duo_data['INSTELLINGSCODE'].unique():
         duo_names = duo_data[duo_data['INSTELLINGSCODE'] == brin]['INSTELLINGSNAAM VESTIGING'].unique()
 
