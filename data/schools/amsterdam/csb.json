@@ -32,7 +32,26 @@
     "formatted_address": "Amsterdam, Netherlands"
   },
   "academic_performance": {
-    "exam_scores": {},
+    "exam_scores": {
+      "vmbo": {
+        "pass_rate_2024_2025": 97.3,
+        "candidates_2024_2025": 74,
+        "passed_2024_2025": 72,
+        "average_pass_rate_5yr": 90.4
+      },
+      "havo": {
+        "pass_rate_2024_2025": 78.4,
+        "candidates_2024_2025": 44,
+        "passed_2024_2025": 34,
+        "average_pass_rate_5yr": 83.6
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 94.7,
+        "candidates_2024_2025": 19,
+        "passed_2024_2025": 18,
+        "average_pass_rate_5yr": 77.2
+      }
+    },
     "graduation_rates": {},
     "student_teacher_ratio": null,
     "special_programs": [],
@@ -156,11 +175,12 @@
     "summary": "CSB (Christelijke Scholengemeenschap Buitenveldert) is a Christian Protestant school in Amsterdam Zuid offering VMBO-T, HAVO, and VWO education with values-based approach in the Buitenveldert area."
   },
   "metadata": {
-    "last_updated": "2026-01-10T17:09:59.116002",
+    "last_updated": "2026-01-10T18:53:53.257199",
     "data_sources": [
       "Schools list",
       "schoolkeuze020.nl open dagen 2026",
-      "onderwijsconsument.nl jaren/vo"
+      "onderwijsconsument.nl jaren/vo",
+      "DUO exam results"
     ],
     "completeness_score": 0.4,
     "google_maps_enriched": true

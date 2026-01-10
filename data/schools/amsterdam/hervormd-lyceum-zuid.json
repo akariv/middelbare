@@ -29,7 +29,20 @@
     }
   },
   "academic_performance": {
-    "exam_scores": {},
+    "exam_scores": {
+      "havo": {
+        "pass_rate_2024_2025": 82.5,
+        "candidates_2024_2025": 71,
+        "passed_2024_2025": 59,
+        "average_pass_rate_5yr": 85.4
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 89.6,
+        "candidates_2024_2025": 67,
+        "passed_2024_2025": 60,
+        "average_pass_rate_5yr": 93.6
+      }
+    },
     "graduation_rates": {},
     "student_teacher_ratio": null,
     "special_programs": [
@@ -178,12 +191,13 @@
     "summary": "HLZ (Hervormd Lyceum Zuid) is a pleasant and committed Protestant school in Amsterdam Zuid offering HAVO and VWO education in small, atmospheric buildings. Part of the Cedergroep network and designated as a Rosa Training School, HLZ provides an intimate learning environment where students can explore their talents, weaknesses, and possibilities. The school welcomes diverse student personalities and emphasizes both personal and academic growth in a supportive community setting."
   },
   "metadata": {
-    "last_updated": "2026-01-10T17:10:06.396593",
+    "last_updated": "2026-01-10T18:53:53.248790",
     "data_sources": [
       "https://www.hlz.nl/",
       "School website",
       "schoolkeuze020.nl open dagen 2026",
-      "onderwijsconsument.nl jaren/vo"
+      "onderwijsconsument.nl jaren/vo",
+      "DUO exam results"
     ],
     "completeness_score": 0.55,
     "google_maps_enriched": true
