@@ -1,0 +1,222 @@
+{
+  "id": "keizer-karel-college-amstelveen",
+  "basic_info": {
+    "name": "Keizer Karel College",
+    "official_name": "Keizer Karel College",
+    "address": "Elegast 5",
+    "city": "Amstelveen",
+    "postal_code": "1185 AA",
+    "contact": {
+      "phone": "020-641 57 00",
+      "email": "kkc@keizerkarelcollege.nl",
+      "website": "http://www.keizerkarelcollege.nl"
+    },
+    "type": [
+      "HAVO",
+      "VWO (Atheneum)",
+      "VWO (Gymnasium)",
+      "VWO (Technasium)"
+    ],
+    "religious_affiliation": "Roman Catholic (rooms-katholiek)",
+    "enrollment": {
+      "total": 1900,
+      "by_program": {
+        "havo": null,
+        "vwo_atheneum": null,
+        "vwo_gymnasium": null,
+        "vwo_technasium": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": "08:30-"
+    }
+  },
+  "academic_performance": {
+    "exam_scores": {},
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [
+      "UNESCO school (vrede & mensenrechten, intercultureel leren, wereldburgerschap, duurzaamheid)",
+      "Begaafdheidsprofielschool (gifted education)",
+      "Technasium (HAVO and VWO)",
+      "Cambridge English certificates",
+      "ICT curriculum integration"
+    ],
+    "subjects_offered": [
+      "handvaardigheid",
+      "science",
+      "levensbeschouwing",
+      "onderzoek en wetenschap",
+      "onderzoek en ontwerpen",
+      "denken en doen",
+      "UNESCO-thema's"
+    ],
+    "exam_subjects": [
+      "literatuur",
+      "bedrijfseconomie",
+      "Spaans",
+      "informatica",
+      "muziek",
+      "tekenen",
+      "beeldende vorming",
+      "kunst algemeen",
+      "wiskunde C",
+      "wiskunde D"
+    ],
+    "extracurricular_activities": []
+  },
+  "facilities": {
+    "classrooms_labs_quality": "Modern facilities with ICT integration throughout curriculum",
+    "sports_facilities": [],
+    "library": {},
+    "technology": {
+      "description": "ICT curriculum integration across all subjects"
+    }
+  },
+  "student_support": {
+    "counseling": null,
+    "newcomers_class": null,
+    "language_support": [
+      "Cambridge English certificates"
+    ],
+    "special_education": [
+      "remedial teacher",
+      "school psychologist",
+      "faalangstreductie (test anxiety reduction)",
+      "sociale vaardigheid training (social skills training)"
+    ],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [],
+    "diversity": {
+      "description": "UNESCO school with focus on intercultural learning and global citizenship"
+    },
+    "parent_involvement": null,
+    "culture_values": "School motto: 'Met oog voor jou' (With an eye for you). As a UNESCO school, emphasizes peace & human rights, intercultural learning, global citizenship, and sustainability. Focus on individual attention and developing well-rounded students through academic excellence, gifted education programs, and technological innovation."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.302299,
+      "lon": 4.8498301
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Binnenhof (BUS: 171)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 22,
+        "duration_text": "23 mins",
+        "transfers": 0,
+        "routes": [
+          {
+            "line": "171",
+            "vehicle": "BUS",
+            "from": "Amstelveen, Binnenhof",
+            "to": "Amstelveen, Keizer Karelplein"
+          }
+        ],
+        "departure_time": "8:09 AM",
+        "arrival_time": "8:32 AM"
+      },
+      "accessibility_info": null
+    },
+    "bike_accessibility": {
+      "distance_km": 1.93,
+      "duration_minutes": 6,
+      "distance_text": "1.9 km",
+      "duration_text": "7 mins",
+      "route_quality": "Very short distance, local biking"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [],
+    "student_reviews": [],
+    "awards": [
+      "UNESCO school status",
+      "Begaafdheidsprofielschool certification"
+    ],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-01-28",
+        "time": null,
+        "type": "Open House (parents and students)",
+        "registration_required": false
+      },
+      {
+        "date": "2026-02-11",
+        "time": null,
+        "type": "Lesson afternoon (group 8 students)",
+        "registration_required": true
+      },
+      {
+        "date": "2026-03-04",
+        "time": null,
+        "type": "Lesson afternoon (group 8 students)",
+        "registration_required": true
+      },
+      {
+        "date": "2026-03-11",
+        "time": null,
+        "type": "Lesson afternoon (group 8 students)",
+        "registration_required": true
+      }
+    ],
+    "information_sessions": [],
+    "application_deadlines": [],
+    "links": [
+      "http://www.keizerkarelcollege.nl"
+    ],
+    "admission_info": [
+      "Voorrangsregels: leerlingen uit Amstelveen, Ouderkerk a/d Amstel, Badhoevedorp en Aalsmeer, en kinderen van oud-leerlingen"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "UNESCO school with strong focus on global citizenship, peace, human rights, and sustainability",
+      "Certified Begaafdheidsprofielschool offering specialized gifted education programs",
+      "Multiple VWO tracks including Gymnasium and Technasium for diverse academic interests",
+      "Strong technology integration with Technasium and ICT curriculum",
+      "Cambridge English certificates for international language credentials",
+      "Comprehensive student support including psychologist, remedial teacher, and specialized programs",
+      "Large enrollment (~1,900 students) providing diverse peer community and extensive program offerings",
+      "Located in Amstelveen with priority admission for local students",
+      "Personal approach with motto 'Met oog voor jou' (With an eye for you)"
+    ],
+    "considerations": [
+      "Roman Catholic affiliation may influence school culture and values",
+      "Large school size may not suit students preferring intimate environments",
+      "HAVO/VWO only - no VMBO tracks available",
+      "Priority given to students from specific municipalities (Amstelveen, Ouderkerk a/d Amstel, Badhoevedorp, Aalsmeer)",
+      "Multiple specialized tracks may require early decision-making about academic direction"
+    ],
+    "best_fit_for": [
+      "Students with strong academic performance interested in HAVO or VWO education",
+      "Gifted students who would benefit from Begaafdheidsprofielschool programs",
+      "Students interested in science, technology, and innovation (Technasium track)",
+      "Students interested in classical education (Gymnasium)",
+      "Students who value global citizenship, intercultural learning, and sustainability (UNESCO focus)",
+      "Students from Amstelveen, Ouderkerk a/d Amstel, Badhoevedorp, or Aalsmeer",
+      "Children of alumni who qualify for priority admission",
+      "Students seeking internationally recognized English qualifications (Cambridge certificates)",
+      "Students who appreciate both academic excellence and personal attention in a larger school setting"
+    ],
+    "summary": "Keizer Karel College is a distinguished Roman Catholic secondary school in Amstelveen offering HAVO and VWO education with multiple specialized tracks. With UNESCO school status and Begaafdheidsprofielschool certification, the school combines academic excellence with a strong commitment to global citizenship, peace, human rights, and sustainability. The school offers diverse pathways including Gymnasium, Technasium, and standard tracks, all enhanced by ICT integration and Cambridge English programs. With approximately 1,900 students, it provides a robust educational environment while maintaining its motto 'Met oog voor jou' - emphasizing individual attention and care. The comprehensive student support system includes remedial teachers, school psychologists, and specialized programs for test anxiety and social skills. Best suited for academically strong students living in the Amstelveen region who value both traditional academic rigor and progressive global citizenship education."
+  },
+  "metadata": {
+    "last_updated": "2026-01-10T17:09:52.034395",
+    "data_sources": [
+      "User-provided school information",
+      "http://www.keizerkarelcollege.nl",
+      "School contact details and open days 2026",
+      "Enrollment data 2024-2025"
+    ],
+    "completeness_score": 0.7,
+    "google_maps_enriched": false
+  }
+}
