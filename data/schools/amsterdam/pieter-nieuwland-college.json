@@ -1,0 +1,230 @@
+{
+  "id": "pieter-nieuwland-college-amsterdam",
+  "basic_info": {
+    "name": "Pieter Nieuwland College",
+    "official_name": "Pieter Nieuwland College",
+    "address": "Nobelweg 6",
+    "city": "Amsterdam",
+    "postal_code": "1097 AR",
+    "contact": {
+      "phone": "020-665 47 30",
+      "email": "info@pieternieuwland.nl",
+      "website": "https://www.pieternieuwland.nl/"
+    },
+    "type": [
+      "VWO",
+      "HAVO",
+      "VWO-plus"
+    ],
+    "religious_affiliation": "interconfessioneel",
+    "enrollment": {
+      "total": 846,
+      "by_program": {
+        "havo": null,
+        "vwo": null,
+        "vwo_plus": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    }
+  },
+  "academic_performance": {
+    "exam_scores": {},
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [
+      "VWO-plus (enhanced VWO program)",
+      "Zij-instroom (mid-year entry program)",
+      "Art and creative expression opportunities"
+    ],
+    "extracurricular_activities": [
+      "Art programs",
+      "Creative expression projects",
+      "Student artwork galleries",
+      "Topscore: badminton",
+      "streetdance",
+      "basketbal",
+      "roeien; toneel",
+      "muziek"
+    ]
+  },
+  "facilities": {
+    "classrooms_labs_quality": "vernieuwd in 2011, Wubbo Ockels Regiolab, auditorium/theaterzaal",
+    "sports_facilities": [],
+    "library": {},
+    "technology": {
+      "description": "alle leerlingen werken met iPad of tablet, draadloos internet, computerwerkplekken in mediatheek, smartboards"
+    }
+  },
+  "student_support": {
+    "counseling": null,
+    "newcomers_class": "Zij-instroom (mid-year entry available)",
+    "language_support": [],
+    "special_education": [
+      "counselor",
+      "verzuimbegeleiding GGD",
+      "Remedial teaching",
+      "Toetstijd",
+      "Aangepaste toetsen",
+      "Digitale hulpmiddelen",
+      "Schriftelijke hulpmiddelen"
+    ],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [
+      "camera's",
+      "kluisjes",
+      "werkgroep",
+      "veiligheidscoördinator"
+    ],
+    "diversity": {},
+    "parent_involvement": null,
+    "culture_values": "Motto: 'Helder en Afwisselend' (Clear and Varied). Emphasizes transparent, diverse educational approaches. Tagline: 'Je bent bij de juiste school aanbeland' (You've landed at the right school)."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3478,
+      "lon": 4.9436
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Oranjebaan (TRAM: 5)",
+        "Zuid (SUBWAY: 51)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 47,
+        "duration_text": "47 mins",
+        "transfers": 1,
+        "routes": [
+          {
+            "line": "5",
+            "vehicle": "TRAM",
+            "from": "Amstelveen, Oranjebaan",
+            "to": "Station Zuid"
+          },
+          {
+            "line": "51",
+            "vehicle": "SUBWAY",
+            "from": "Zuid",
+            "to": "Amstelstation"
+          }
+        ],
+        "departure_time": "8:03 AM",
+        "arrival_time": "8:50 AM"
+      },
+      "accessibility_info": "trein, metro 54 en 50, tram 12, bus 37, 40, 62, 65, 79, 320 halte Amstelstation"
+    },
+    "bike_accessibility": {
+      "distance_km": 8.99,
+      "duration_minutes": 29,
+      "distance_text": "9.0 km",
+      "duration_text": "30 mins",
+      "route_quality": "Moderate distance, typical bike commute"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 6.9,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 6.5
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 6.1,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 5.5
+      }
+    ],
+    "awards": [],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-01-29",
+        "time": "16:00-20:00",
+        "type": "Open day",
+        "registration_required": false
+      },
+      {
+        "date": "2026-01-30",
+        "time": "16:00-20:00",
+        "type": "Open day",
+        "registration_required": false
+      },
+      {
+        "date": "2026-02-04",
+        "time": "15:40-17:00",
+        "type": "Sample lesson afternoon",
+        "registration_required": false
+      },
+      {
+        "date": "2026-02-04",
+        "time": "14:00-15:20",
+        "type": "Sample lesson afternoon",
+        "registration_required": false
+      }
+    ],
+    "information_sessions": [
+      "Information for group 8 students available",
+      "Important dates calendar available"
+    ],
+    "application_deadlines": [],
+    "links": [
+      "https://www.pieternieuwland.nl/",
+      "Facebook: PieterNieuwlandAmsterdam",
+      "Instagram: pieternieuwlandcollege",
+      "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/pieter-nieuwland-college-1/",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=299572",
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/4434/pieter-nieuwland-college/"
+    ],
+    "admission_info": [
+      "Voorrangsregels: voorrang voor broertjes en/of zusjes van zittende leerlingen die op 1 oktober 2016 ingeschreven stonden en ook voorrang voor leerlingen die uitstromen uit de Kopklas op deze school ",
+      "Toelating: motivatiegesprek voor vwo+ profielklas (Art of Science), eventueel aanvullende toets"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "VWO-plus enhanced program for high-achieving students",
+      "Located in Amsterdam Oost near Watergraafsmeer",
+      "Zij-instroom (mid-year entry) offering flexibility",
+      "Strong emphasis on art and creative expression",
+      "Clear and varied educational approach",
+      "Active social media presence and modern communication",
+      "Offers both HAVO and VWO tracks"
+    ],
+    "considerations": [
+      "Located in Amsterdam Oost - significant commute from Amstelveen",
+      "Limited publicly available information about specific facilities and programs",
+      "No VMBO options, HAVO/VWO only"
+    ],
+    "best_fit_for": [
+      "High-achieving students interested in VWO-plus program",
+      "Students with creative and artistic interests",
+      "Families seeking clear, transparent educational approach",
+      "Students who value varied, diverse learning experiences",
+      "Students needing mid-year entry flexibility"
+    ],
+    "summary": "Pieter Nieuwland College is a HAVO/VWO school in Amsterdam Oost with the motto 'Helder en Afwisselend' (Clear and Varied). The school offers an enhanced VWO-plus program for high-achieving students and emphasizes art and creative expression. With its transparent educational approach and diverse learning experiences, the school provides flexible entry options including mid-year admission. The school maintains an active online presence and welcomes students with the message 'You've landed at the right school.'"
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.401811",
+    "data_sources": [
+      "https://www.pieternieuwland.nl/",
+      "School website",
+      "onderwijsconsument.nl API",
+      "schoolkeuze020.nl open dagen 2026",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.55,
+    "google_maps_enriched": true
+  }
+}

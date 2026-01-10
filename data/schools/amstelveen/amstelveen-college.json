@@ -1,0 +1,211 @@
+{
+  "id": "amstelveen-college",
+  "basic_info": {
+    "name": "Amstelveen College",
+    "official_name": "Amstelveen College",
+    "address": "Sportlaan 27",
+    "city": "Amstelveen",
+    "postal_code": "1185 TB",
+    "contact": {
+      "phone": "020-303 99 99",
+      "email": "info@amstelveencollege.nl",
+      "website": "https://amstelveencollege.nl/"
+    },
+    "type": [
+      "VWO",
+      "HAVO",
+      "MAVO"
+    ],
+    "religious_affiliation": "Public (openbaar onderwijs)",
+    "enrollment": {
+      "total": 1655,
+      "by_program": {
+        "mavo": null,
+        "havo": null,
+        "vwo": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    }
+  },
+  "academic_performance": {
+    "exam_scores": {
+      "vmbo": {
+        "pass_rate_2024_2025": 96.4,
+        "candidates_2024_2025": 82,
+        "passed_2024_2025": 79,
+        "average_pass_rate_5yr": 91.4
+      },
+      "havo": {
+        "pass_rate_2024_2025": 80.1,
+        "candidates_2024_2025": 130,
+        "passed_2024_2025": 104,
+        "average_pass_rate_5yr": 81.1
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 95.6,
+        "candidates_2024_2025": 90,
+        "passed_2024_2025": 86,
+        "average_pass_rate_5yr": 89.0
+      }
+    },
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [
+      "Plusprofielen (Enhanced Tracks) - 90 min/week extra:",
+      "Sport",
+      "Expressie (Creative Expression)",
+      "Bètatalent (STEM Talent)",
+      "Ondernemerschap (Entrepreneurship)"
+    ],
+    "extracurricular_activities": [
+      "Sport programs",
+      "Creative expression programs",
+      "jaarlijks toneelstuk",
+      "om het jaar musical"
+    ]
+  },
+  "facilities": {
+    "classrooms_labs_quality": "Building reorganized into learning areas for 2025/2026",
+    "sports_facilities": [
+      "Sport plusprofiel program available"
+    ],
+    "library": {},
+    "technology": {}
+  },
+  "student_support": {
+    "counseling": null,
+    "newcomers_class": null,
+    "language_support": [],
+    "special_education": [
+      "leerlingbegeleider"
+    ],
+    "after_school_programs": [
+      "Plusprofielen programs"
+    ]
+  },
+  "environment": {
+    "safety_measures": [
+      "kluisjes",
+      "pestprotocol en aandacht voor cyberpesten"
+    ],
+    "diversity": {},
+    "parent_involvement": null,
+    "culture_values": "A pleasant school where you can be yourself and feel at home quickly. Focus on personalized learning through plusprofielen."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3007,
+      "lon": 4.8647
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Heemraadschapslaan (BUS: 178)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 23,
+        "duration_text": "23 mins",
+        "transfers": 0,
+        "routes": [
+          {
+            "line": "178",
+            "vehicle": "BUS",
+            "from": "Amstelveen, Heemraadschapslaan",
+            "to": "Amstelveen, Sportlaan"
+          }
+        ],
+        "departure_time": "8:00 AM",
+        "arrival_time": "8:23 AM"
+      },
+      "accessibility_info": "bus 242, 347, 348, 357, 358 halte Sportlaan"
+    },
+    "bike_accessibility": {
+      "distance_km": 3.08,
+      "duration_minutes": 10,
+      "distance_text": "3.1 km",
+      "duration_text": "11 mins",
+      "route_quality": "Short distance, easy bike commute"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 7.6,
+        "year": "2017-2018",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 7.4
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 6.1,
+        "year": "2017-2018",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 5.5
+      }
+    ],
+    "awards": [],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-01-22",
+        "time": null,
+        "type": "Open House"
+      },
+      {
+        "date": "2026-01-23",
+        "time": null,
+        "type": "Open House"
+      }
+    ],
+    "information_sessions": [
+      "Trial lessons (lesjesmiddagen) available"
+    ],
+    "application_deadlines": [],
+    "links": [
+      "https://amstelveencollege.nl/",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=279144",
+      "https://www.scholenopdekaart.nl/Middelbare-scholen/2823/Amstelveen-College---Stichting-openbaar-voortgezet-onderwijs-Amstelveen"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "Located in Amstelveen - very close to student home address",
+      "Offers all three main tracks (MAVO, HAVO, VWO)",
+      "Innovative Plusprofielen system for personalized enrichment",
+      "Public school (openbaar) - diverse and inclusive",
+      "Positive student testimonials about welcoming atmosphere",
+      "Active social media presence and modern approach",
+      "Recent feature in NOS Jeugdjournaal"
+    ],
+    "considerations": [
+      "Less focused on VWO-only compared to some Amsterdam gymnasiums",
+      "Newer building/learning area organization still settling in"
+    ],
+    "best_fit_for": [
+      "Students living in Amstelveen seeking short commute",
+      "Students who want personalized enrichment through plusprofielen",
+      "Students interested in sport, STEM, entrepreneurship, or creative arts",
+      "Families valuing inclusive, public education",
+      "Students who prefer staying close to home community"
+    ],
+    "summary": "Amstelveen College is a welcoming public school offering MAVO, HAVO, and VWO education with innovative plusprofielen programs for personalized enrichment. Located very close to the student's home address, it provides excellent proximity advantage while offering quality education across multiple tracks. The school emphasizes creating a comfortable, inclusive environment where students can be themselves."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.297703",
+    "data_sources": [
+      "https://amstelveencollege.nl/",
+      "School website",
+      "onderwijsconsument.nl API",
+      "DUO exam results",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.6,
+    "google_maps_enriched": true
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "id": "open-schoolgemeenschap-bijlmer-amsterdam",
+  "basic_info": {
+    "name": "Open Schoolgemeenschap Bijlmer",
+    "official_name": "Open Schoolgemeenschap Bijlmer (OSB)",
+    "address": "Gulden Kruis 5",
+    "city": "Amsterdam",
+    "postal_code": "1103 BE",
+    "contact": {
+      "phone": "0206909050",
+      "email": "info@openschoolgemeenschapbijlmer.nl",
+      "website": "https://osbijlmer.nl/"
+    },
+    "type": [
+      "VWO",
+      "HAVO",
+      "VMBO"
+    ],
+    "religious_affiliation": "Public (openbaar onderwijs)",
+    "enrollment": {
+      "total": 1279,
+      "by_program": {
+        "vmbo": null,
+        "havo": null,
+        "vwo": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    }
+  },
+  "academic_performance": {
+    "exam_scores": {},
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [
+      "OSB Extra program",
+      "Early exposure to companies, professions and future technologies",
+      "Stages and workplace encounters",
+      "Customized learning paths with elective subjects",
+      "Enrichment opportunities"
+    ],
+    "extracurricular_activities": [
+      "Sport programs (OSB Extra)",
+      "Arts and culture programs (OSB Extra)",
+      "Music programs (OSB Extra)",
+      "OSBbreed: Topscore",
+      "leerorkest",
+      "samenwerking met Muziekschool Zuidoost en Jeugdtheaterschool",
+      "toneelgroep Amsterdam"
+    ]
+  },
+  "facilities": {
+    "classrooms_labs_quality": "Mini-maatschappij (mini-society) learning environment",
+    "sports_facilities": [
+      "Sport programs available"
+    ],
+    "library": {},
+    "technology": {
+      "digital_platforms": "SharePoint portal for staff, students, and parents",
+      "description": "smartboards, computerwerkplekken in mediatheek, computerlokalen"
+    }
+  },
+  "student_support": {
+    "counseling": "Mentors and dedicated educators focused on individual student development",
+    "newcomers_class": null,
+    "language_support": [],
+    "special_education": [
+      "orthopedagoog",
+      "OSB wisselklas (kortdurend traject versterking schoolse vaardigheden)",
+      "verzuimbegeleiding GGD",
+      "Remedial teaching",
+      "Schriftelijke hulpmiddelen",
+      "Toetstijd",
+      "Aangepaste toetsen",
+      "Digitale hulpmiddelen"
+    ],
+    "after_school_programs": [
+      "OSB Extra program including sport, arts, culture, and music"
+    ]
+  },
+  "environment": {
+    "safety_measures": [
+      "zes kleine deelscholen"
+    ],
+    "diversity": {},
+    "parent_involvement": "Dedicated parent section on website and portal access",
+    "culture_values": "Motto: 'Willen is kunnen' (willing is being able). A challenging school that believes in student potential and growth. Creates a mini-society learning environment preparing students for their futures beyond academics. Emphasizes resilience and adaptability for a changing world."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3137,
+      "lon": 4.9484
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Busstation (BUS: 356)",
+        "Station Bijlmer ArenA (BUS: 66)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 44,
+        "duration_text": "44 mins",
+        "transfers": 0,
+        "routes": [
+          {
+            "line": "356",
+            "vehicle": "BUS",
+            "from": "Amstelveen, Busstation",
+            "to": "Station Bijlmer ArenA"
+          },
+          {
+            "line": "66",
+            "vehicle": "BUS",
+            "from": "Station Bijlmer ArenA",
+            "to": "Tulastraat"
+          }
+        ],
+        "departure_time": "8:05 AM",
+        "arrival_time": "8:50 AM"
+      },
+      "accessibility_info": "metro 53 halte Ganzenhoef, bus 41, 47 en 66 halte Tulastraat"
+    },
+    "bike_accessibility": {
+      "distance_km": 8.6,
+      "duration_minutes": 29,
+      "distance_text": "8.6 km",
+      "duration_text": "29 mins",
+      "route_quality": "Moderate distance, typical bike commute"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 8.3,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 8.5
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 6.7,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 6.1
+      }
+    ],
+    "awards": [],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-01-22",
+        "time": "16:00-20:00",
+        "type": "Open Day",
+        "note": "Everyone is warmly welcome, also without registration"
+      },
+      {
+        "date": "2026-01-23",
+        "time": "16:00-20:00",
+        "type": "Open Day",
+        "note": "Everyone is warmly welcome, also without registration"
+      }
+    ],
+    "information_sessions": [],
+    "application_deadlines": [],
+    "links": [
+      "https://osbijlmer.nl/",
+      "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/open-schoolgemeenschap-bijlmer/",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=297830",
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/3300/open-schoolgemeenschap-bijlmer/"
+    ],
+    "admission_info": [
+      "Voorrangsregels: voorrang voor broertjes en/of  zusjes van zittende leerlingen die op 1 oktober 2016 ingeschreven stonden, voorrang voor kinderen van personeelsleden die op 1 oktober 2016 in dienst van het schoolbestuur waren ",
+      "Toelating: school streeft naar evenwichtige verdeling adviezen per klas; in bijzondere gevallen overleg over geschiktheid voor onderwijs in heterogene groep"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "All three educational tracks (VMBO, HAVO, VWO) under one roof",
+      "Innovative mini-society learning environment",
+      "Strong focus on practical experience and workplace exposure",
+      "OSB Extra enrichment program with sport, arts, culture, and music",
+      "Customized learning paths with elective subjects",
+      "Located in Bijlmer with good metro and train connections",
+      "Public (openbaar) school - inclusive and diverse",
+      "Emphasis on developing resilience and adaptability",
+      "Welcoming atmosphere - open days without registration required"
+    ],
+    "considerations": [
+      "Located in Bijlmer - significant commute from Amstelveen",
+      "Limited publicly available information about specific facilities and contact details",
+      "Distance may impact participation in after-school activities"
+    ],
+    "best_fit_for": [
+      "Students who benefit from practical, real-world learning experiences",
+      "Students interested in early career exploration",
+      "Families seeking comprehensive educational options (VMBO through VWO)",
+      "Students who thrive in diverse, inclusive environments",
+      "Students interested in arts, culture, music, and sports programs",
+      "Students who want customized learning paths with enrichment opportunities"
+    ],
+    "summary": "Open Schoolgemeenschap Bijlmer (OSB) is a challenging public school in Amsterdam Bijlmer offering VMBO, HAVO, and VWO education with a unique 'Willen is kunnen' (willing is being able) motto. The school creates a mini-society learning environment with strong emphasis on practical experience, workplace exposure, and early career exploration. Through its OSB Extra program, students can engage in sport, arts, culture, and music while following customized learning paths. OSB prepares students not just academically but for resilience and adaptability in a changing world."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.399143",
+    "data_sources": [
+      "https://osbijlmer.nl/",
+      "School website",
+      "onderwijsconsument.nl API",
+      "schoolkeuze020.nl open dagen 2026",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.55,
+    "google_maps_enriched": true
+  }
+}

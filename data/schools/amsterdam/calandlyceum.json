@@ -1,0 +1,256 @@
+{
+  "id": "calandlyceum-amsterdam",
+  "basic_info": {
+    "name": "Calandlyceum",
+    "official_name": "Calandlyceum",
+    "address": "Pieter Calandlaan 182",
+    "city": "Amsterdam",
+    "postal_code": "1068 NT",
+    "contact": {
+      "phone": "0206675353",
+      "email": "info@calandlyceum.nl",
+      "website": "https://www.calandlyceum.nl/",
+      "postal_address": "Postbus 96051, 1006 EB Amsterdam"
+    },
+    "type": [
+      "VWO",
+      "HAVO",
+      "VMBO-T"
+    ],
+    "religious_affiliation": "Public (openbaar onderwijs)",
+    "enrollment": {
+      "total": 1652,
+      "by_program": {
+        "vmbo_t": null,
+        "havo": null,
+        "vwo": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    }
+  },
+  "academic_performance": {
+    "exam_scores": {
+      "vmbo": {
+        "pass_rate_2024_2025": 74.2,
+        "candidates_2024_2025": 215,
+        "passed_2024_2025": 160,
+        "average_pass_rate_5yr": 77.5
+      },
+      "havo": {
+        "pass_rate_2024_2025": 71.4,
+        "candidates_2024_2025": 251,
+        "passed_2024_2025": 179,
+        "average_pass_rate_5yr": 67.1
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 61.5,
+        "candidates_2024_2025": 109,
+        "passed_2024_2025": 67,
+        "average_pass_rate_5yr": 72.8
+      }
+    },
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [
+      "Technasium - technology-focused program with hands-on learning and research",
+      "Topsport Talentschool - athletic development with integrated sports training",
+      "Kunstatelier - arts-focused curriculum",
+      "Passend Onderwijs - tailored support including dyslexia and gifted students",
+      "Blended learning approach"
+    ],
+    "extracurricular_activities": [
+      "Theater production",
+      "Kart racing",
+      "Football",
+      "Basketball",
+      "Debate team",
+      "Topscore",
+      "natuurexcursies",
+      "toneel",
+      "debatteam",
+      "Computerclub"
+    ]
+  },
+  "facilities": {
+    "classrooms_labs_quality": "Separate facilities and study areas for first and second-year students",
+    "sports_facilities": [
+      "Topsport Talentschool facilities",
+      "Football",
+      "Basketball"
+    ],
+    "library": {
+      "school_library": "On-campus library available"
+    },
+    "technology": {
+      "blended_learning": "Laptops and digital materials integrated with textbooks",
+      "technasium": "Technology labs and research facilities",
+      "description": "smartboards"
+    },
+    "canteen": "On-campus canteen offering healthy options",
+    "arts_facilities": "Kunstatelier for arts programs"
+  },
+  "student_support": {
+    "counseling": "Mentor system for student guidance",
+    "newcomers_class": null,
+    "language_support": [],
+    "special_education": [
+      "Passend Onderwijs - dyslexia support",
+      "Gifted student programs",
+      "talentbegeleider hoogbegaafde leerlingen",
+      "lokaal 334 (interne trajectvoorziening)",
+      "Remedial teaching",
+      "Toetstijd",
+      "Schriftelijke hulpmiddelen"
+    ],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [
+      "camera's",
+      "hekken",
+      "toezichthouders",
+      "surveillance",
+      "veiligheidscoördinator"
+    ],
+    "diversity": {},
+    "parent_involvement": null,
+    "culture_values": "Nearly 60-year institutional history. Part of Stichting Progresso. Emphasizes technology, sports, and arts through specialized programs. Blended learning approach combining traditional and digital methods."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3547,
+      "lon": 4.7953
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Oranjebaan (BUS: 300)",
+        "Knooppunt Schiphol Nrd (BUS: 369)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 38,
+        "duration_text": "39 mins",
+        "transfers": 0,
+        "routes": [
+          {
+            "line": "300",
+            "vehicle": "BUS",
+            "from": "Amstelveen, Oranjebaan",
+            "to": "Knooppunt Schiphol Nrd"
+          },
+          {
+            "line": "369",
+            "vehicle": "BUS",
+            "from": "Knooppunt Schiphol Nrd",
+            "to": "Louis Davidsstraat"
+          }
+        ],
+        "departure_time": "8:03 AM",
+        "arrival_time": "8:42 AM"
+      },
+      "accessibility_info": "tram 1, 17, bus 61, 63 en 69 halte Meer en Vaart of Louis Davidsstraat "
+    },
+    "bike_accessibility": {
+      "distance_km": 9.55,
+      "duration_minutes": 32,
+      "distance_text": "9.6 km",
+      "duration_text": "33 mins",
+      "route_quality": "Moderate distance, typical bike commute"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 7.4,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 6.8
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 6.7,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 5.4
+      }
+    ],
+    "awards": [
+      "Nearly 60 years of educational history"
+    ],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-02-03",
+        "time": "18:30-21:00",
+        "type": "Open Day"
+      },
+      {
+        "date": "2026-02-17",
+        "time": "18:30-21:00",
+        "type": "Open Day"
+      }
+    ],
+    "information_sessions": [],
+    "application_deadlines": [],
+    "links": [
+      "https://www.calandlyceum.nl/",
+      "LinkedIn, Instagram, YouTube, Facebook: Calandlyceum Amsterdam",
+      "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/calandlyceum-1",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=303854",
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/2689/calandlyceum/"
+    ],
+    "admission_info": [
+      "Voorrangsregels: voorrang voor kinderen van personeelsleden die op 1 oktober 2016 in dienst waren van het schoolbestuur, voor leerlingen van een daltonbasisschool en/of topsportleerlingen met een LOOT-status",
+      "Toelating: sporttest voor sportklas, beoordeling creatieve vaardigheden, samenwerking, motivatie en gedrag voor kunstklas, gesprek met basisschool over motivatie voor technasiumklas"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "Three specialized programs: Technasium (technology), Topsport Talentschool (athletics), Kunstatelier (arts)",
+      "Nearly 60 years of educational experience",
+      "Part of Stichting Progresso",
+      "Passend Onderwijs with support for dyslexia and gifted students",
+      "Blended learning with digital and traditional methods",
+      "Mentor system for personalized guidance",
+      "Separate facilities for younger students",
+      "On-campus library and healthy canteen",
+      "Diverse extracurricular activities",
+      "Multiple educational tracks (VMBO-T through VWO)",
+      "Active social media presence"
+    ],
+    "considerations": [
+      "Located in Amsterdam Nieuw-West - commute from Amstelveen required",
+      "Multiple specialized programs may make choosing track complex",
+      "Topsport program requires significant athletic commitment"
+    ],
+    "best_fit_for": [
+      "Students interested in technology and research (Technasium)",
+      "Student athletes seeking integrated sports training (Topsport)",
+      "Artistically talented students (Kunstatelier)",
+      "Students with dyslexia or gifted students needing tailored support",
+      "Students wanting diverse extracurricular options",
+      "Families valuing established school with long history",
+      "Students who benefit from blended learning approaches"
+    ],
+    "summary": "Calandlyceum is an established school (nearly 60 years) in Amsterdam Nieuw-West offering VMBO-T, HAVO, and VWO education with three distinctive specialized programs: Technasium (technology focus), Topsport Talentschool (integrated athletic training), and Kunstatelier (arts curriculum). Part of Stichting Progresso, the school provides Passend Onderwijs support for dyslexia and gifted students, uses blended learning approaches, and offers a mentor system for guidance. With separate facilities for younger students, an on-campus library, healthy canteen, and diverse extracurriculars (theater, kart racing, debate, sports), Calandlyceum caters to students with varied interests and abilities."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.311425",
+    "data_sources": [
+      "https://www.calandlyceum.nl/",
+      "School website",
+      "onderwijsconsument.nl API",
+      "DUO exam results",
+      "schoolkeuze020.nl open dagen 2026",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.65,
+    "google_maps_enriched": true
+  }
+}

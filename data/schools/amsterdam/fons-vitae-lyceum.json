@@ -1,0 +1,220 @@
+{
+  "id": "fons-vitae-lyceum-amsterdam",
+  "basic_info": {
+    "name": "Fons Vitae Lyceum",
+    "official_name": "Fons Vitae Lyceum",
+    "address": "Reijnier Vinkeleskade 53",
+    "city": "Amsterdam",
+    "postal_code": "1071 SW",
+    "contact": {
+      "phone": "020-571 24 10",
+      "email": "info@fonsvitae.nl",
+      "website": "https://www.fonsvitae.nl/"
+    },
+    "type": [
+      "VWO",
+      "HAVO",
+      "Gymnasium",
+      "Atheneum"
+    ],
+    "religious_affiliation": "Catholic (SVOAZ foundation)",
+    "enrollment": {
+      "total": 1060,
+      "by_program": {
+        "havo": null,
+        "atheneum": null,
+        "gymnasium": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    }
+  },
+  "academic_performance": {
+    "exam_scores": {
+      "havo": {
+        "pass_rate_2024_2025": 84.9,
+        "candidates_2024_2025": 79,
+        "passed_2024_2025": 67,
+        "average_pass_rate_5yr": 84.7
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 81.5,
+        "candidates_2024_2025": 119,
+        "passed_2024_2025": 97,
+        "average_pass_rate_5yr": 86.8
+      }
+    },
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [
+      "Gymnasium program (classical education)",
+      "Atheneum program",
+      "HAVO program",
+      "Talent development programs"
+    ],
+    "extracurricular_activities": [
+      "interlyceale",
+      "binnen- en buitensportdag",
+      "schaaktoernooi",
+      "culturele avond",
+      "toneel"
+    ]
+  },
+  "facilities": {
+    "classrooms_labs_quality": "monumentaal pand (1924), studiezaal in oude kapel, nieuwe science-vleugel, gymzalen met fitnessruimte, muziek- en technieklokalen; na brandschade wordt gedeelte gebouw gerenoveerd en is tijdelijke tweede locatie in gebruik aan Mr. Treublaan",
+    "sports_facilities": [],
+    "library": {},
+    "technology": {
+      "description": "activboards, mediatheek met computers, eerste vier leerjaren iPad in plaats van schoolboeken"
+    }
+  },
+  "student_support": {
+    "counseling": "twee mentoren per klas",
+    "newcomers_class": null,
+    "language_support": [
+      "Classical languages (Gymnasium)"
+    ],
+    "special_education": [
+      "orthopedagoog",
+      "motorische remedial teaching (extra kosten)",
+      "verzuimbegeleiding GGD",
+      "Remedial teaching",
+      "Toetstijd",
+      "Aangepaste toetsen",
+      "Digitale hulpmiddelen",
+      "Overige ondersteuningsmogelijkheden"
+    ],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [
+      "kluisjes",
+      "surveillance",
+      "veiligheidscoördinator"
+    ],
+    "diversity": {},
+    "parent_involvement": "Strong involvement tradition",
+    "culture_values": "A vibrant school with a long tradition in which involvement and talent development are key concepts. Focus on helping students discover and fully develop their interests, talents, and social and intellectual abilities."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3523,
+      "lon": 4.8816
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Oranjebaan (TRAM: 5)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 28,
+        "duration_text": "29 mins",
+        "transfers": 0,
+        "routes": [
+          {
+            "line": "5",
+            "vehicle": "TRAM",
+            "from": "Amstelveen, Oranjebaan",
+            "to": "Gerrit van der Veenstr"
+          }
+        ],
+        "departure_time": "8:03 AM",
+        "arrival_time": "8:32 AM"
+      },
+      "accessibility_info": "tram 5, 12, 24 halte Roelof Hartplein, schoolbus 612 halte Gerrit vd Veenstraat"
+    },
+    "bike_accessibility": {
+      "distance_km": 6.5,
+      "duration_minutes": 21,
+      "distance_text": "6.5 km",
+      "duration_text": "21 mins",
+      "route_quality": "Moderate distance, typical bike commute"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 8.0,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 8.6
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 6.7,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 5.6
+      }
+    ],
+    "awards": [],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-01-22",
+        "time": "15:00-19:00",
+        "type": "Open day",
+        "registration_required": false
+      },
+      {
+        "date": "2026-01-23",
+        "time": "15:00-19:00",
+        "type": "Open day",
+        "registration_required": false
+      }
+    ],
+    "information_sessions": [],
+    "application_deadlines": [],
+    "links": [
+      "https://www.fonsvitae.nl/",
+      "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/fons-vitae-lyceum/",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=304170",
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/1435/fons-vitae-lyceum/"
+    ],
+    "admission_info": [
+      "Voorrangsregels: voorrang voor broertjes en/of zusjes van zittende leerlingen die op 1 oktober 2016 ingeschreven stonden"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "Located in Amsterdam-Zuid, well-connected area",
+      "Part of SVOAZ foundation alongside other prestigious schools",
+      "Long tradition and established reputation",
+      "Strong focus on talent development and personal growth",
+      "Offers HAVO, Atheneum, and Gymnasium tracks",
+      "Emphasis on involvement and community",
+      "Catholic values-based education"
+    ],
+    "considerations": [
+      "Catholic affiliation may be important factor for some families",
+      "Commute from Amstelveen required",
+      "Limited publicly available information about facilities and programs"
+    ],
+    "best_fit_for": [
+      "Students seeking talent development focus",
+      "Families valuing Catholic education and community involvement",
+      "Students interested in classical education (Gymnasium)",
+      "Students who thrive with personal attention and development",
+      "Families preferring Amsterdam-Zuid location"
+    ],
+    "summary": "Fons Vitae Lyceum is a vibrant Catholic school in Amsterdam-Zuid offering HAVO, Atheneum, and Gymnasium education. Part of the SVOAZ foundation, the school has a long tradition emphasizing involvement and talent development. The school focuses on helping students discover and develop their interests, talents, and intellectual abilities in a supportive, values-based environment."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.325336",
+    "data_sources": [
+      "https://svoaz.nl/onze-scholen",
+      "https://schoolwijzer.amsterdam.nl/nl/vo",
+      "onderwijsconsument.nl API",
+      "DUO exam results",
+      "schoolkeuze020.nl open dagen 2026",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.5,
+    "google_maps_enriched": true
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "id": "ignatiusgymnasium-amsterdam",
+  "basic_info": {
+    "name": "Ignatiusgymnasium",
+    "official_name": "St. Ignatiusgymnasium",
+    "address": "Jan van Eijckstraat 47",
+    "city": "Amsterdam",
+    "postal_code": "1077 LH",
+    "contact": {
+      "phone": "020-676 38 68",
+      "email": "info@ignatius.nl",
+      "absence_email": "verzuim@ignatius.nl",
+      "absence_phone": "020-644 20 70",
+      "website": "https://www.ignatius.nl/"
+    },
+    "type": [
+      "VWO",
+      "Gymnasium"
+    ],
+    "religious_affiliation": "Catholic (SVOAZ foundation)",
+    "enrollment": {
+      "total": 795,
+      "by_program": {
+        "gymnasium": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    }
+  },
+  "academic_performance": {
+    "exam_scores": {
+      "vwo": {
+        "pass_rate_2024_2025": 97.2,
+        "candidates_2024_2025": 107,
+        "passed_2024_2025": 104,
+        "average_pass_rate_5yr": 93.4
+      }
+    },
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [
+      "Classical education (Latin, Greek)",
+      "Ethics and worldview studies",
+      "Honors programs",
+      "Advanced enrichment opportunities"
+    ],
+    "extracurricular_activities": [
+      "Study trips",
+      "Outdoor learning experiences",
+      "Drawing classes",
+      "sport- en culturele activiteiten",
+      "toneelproductie",
+      "muziekavonden en debatclub"
+    ]
+  },
+  "facilities": {
+    "classrooms_labs_quality": "Small-scale gymnasium with personalized attention",
+    "sports_facilities": [],
+    "library": {},
+    "technology": {
+      "description": "smartboards in alle lokalen"
+    }
+  },
+  "student_support": {
+    "counseling": "Student and parent consultation groups",
+    "newcomers_class": null,
+    "language_support": [
+      "Classical languages (Latin, Greek)"
+    ],
+    "special_education": [
+      "schoolpedagoog",
+      "co-mentoren",
+      "Toetstijd",
+      "Aangepaste toetsen",
+      "Digitale hulpmiddelen",
+      "Overige ondersteuningsmogelijkheden"
+    ],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [
+      "incidentenregistratie",
+      "blaastest bij schoolfeesten"
+    ],
+    "diversity": {},
+    "parent_involvement": "Active parent consultation groups",
+    "culture_values": "Three core principles: curiosity, independence, and responsibility. Focus on developing self-conscious adults capable of critical thinking and social engagement. Motto: 'for those who aim higher'"
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3513,
+      "lon": 4.8774
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Oranjebaan (TRAM: 5)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 27,
+        "duration_text": "28 mins",
+        "transfers": 0,
+        "routes": [
+          {
+            "line": "5",
+            "vehicle": "TRAM",
+            "from": "Amstelveen, Oranjebaan",
+            "to": "Gerrit van der Veenstr"
+          }
+        ],
+        "departure_time": "8:03 AM",
+        "arrival_time": "8:30 AM"
+      },
+      "accessibility_info": "tram 5, 24, bus 15, 65, schoolbus 612 halte Gerrit vd Veenstraat"
+    },
+    "bike_accessibility": {
+      "distance_km": 6.0,
+      "duration_minutes": 20,
+      "distance_text": "6.0 km",
+      "duration_text": "21 mins",
+      "route_quality": "Short distance, easy bike commute"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 8.2,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 8.3
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 6.6,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 6.3
+      }
+    ],
+    "awards": [],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-01-14",
+        "time": "14:00-16:00",
+        "type": "Sample lessons",
+        "registration_required": false
+      },
+      {
+        "date": "2026-02-16",
+        "time": "18:00-21:00",
+        "type": "Open Day"
+      },
+      {
+        "date": "2026-02-17",
+        "time": "15:00-18:00",
+        "type": "Open Day"
+      }
+    ],
+    "information_sessions": [],
+    "application_deadlines": [],
+    "links": [
+      "https://www.ignatius.nl/",
+      "Virtual campus tour available on website",
+      "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/ignatiusgymnasium",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=287254",
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/1433/sint-ignatiusgymnasium/"
+    ],
+    "admission_info": [
+      "Voorrangsregels: geen voorrangsregels"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "Classical education with focus on Latin and Greek",
+      "Small-scale, personalized attention",
+      "Strong emphasis on developing critical thinking",
+      "Well-connected by public transport (Tram 5, 24)",
+      "Part of SVOAZ foundation with collaboration opportunities"
+    ],
+    "considerations": [
+      "VWO-only school (Gymnasium), requires high academic aptitude",
+      "Traditional classical education approach may not suit all learning styles",
+      "Located in Amsterdam-South, commute from Amstelveen required"
+    ],
+    "best_fit_for": [
+      "Students with strong academic performance and interest in classical studies",
+      "Students who thrive in small, structured environments",
+      "Families valuing traditional educational approaches with modern critical thinking",
+      "Students interested in Latin, Greek, and classical civilization"
+    ],
+    "summary": "St. Ignatiusgymnasium is a prestigious small-scale gymnasium in Amsterdam-South offering classical education. With its focus on curiosity, independence, and responsibility, it provides rigorous VWO education enriched by Latin, Greek, and classical studies. The school emphasizes personalized attention and developing self-conscious, critically thinking adults. Best suited for academically strong students interested in classical humanities."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.371797",
+    "data_sources": [
+      "https://www.ignatius.nl/",
+      "School website",
+      "onderwijsconsument.nl API",
+      "DUO exam results",
+      "schoolkeuze020.nl open dagen 2026",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.65,
+    "google_maps_enriched": true
+  }
+}

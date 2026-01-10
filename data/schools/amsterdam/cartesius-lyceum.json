@@ -1,0 +1,195 @@
+{
+  "id": "cartesius-lyceum-amsterdam",
+  "basic_info": {
+    "name": "Cartesius Lyceum",
+    "official_name": "Cartesius Lyceum",
+    "address": "Frederik Hendrikplantsoen 7A",
+    "city": "Amsterdam",
+    "postal_code": "1052 XN",
+    "contact": {
+      "phone": "0205849677",
+      "email": "info@cartesius.espritscholen.nl",
+      "website": "https://www.cartesius.espritscholen.nl"
+    },
+    "type": [
+      "VWO",
+      "HAVO"
+    ],
+    "religious_affiliation": "Private non-denominational",
+    "enrollment": {
+      "total": 661,
+      "by_program": {
+        "havo": null,
+        "vwo": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    },
+    "formatted_address": "Amsterdam, Netherlands"
+  },
+  "academic_performance": {
+    "exam_scores": {},
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [],
+    "extracurricular_activities": [
+      "schoolband",
+      "schoolkrant",
+      "cultuurraad",
+      "leerlingenraad"
+    ]
+  },
+  "facilities": {
+    "classrooms_labs_quality": "in 2011 gerenoveerd negentiende-eeuws schoolgebouw",
+    "sports_facilities": [],
+    "library": {},
+    "technology": {
+      "description": "smartboards, computers in mediatheek, laptops met draadloos internet in bètalokalen"
+    }
+  },
+  "student_support": {
+    "counseling": "verbeteren reken- en taalvaardigheid in steungroep, ontwikkelgroep en verrijkingsgroep",
+    "newcomers_class": null,
+    "language_support": [],
+    "special_education": [
+      "remedial teacher",
+      "verzuimbegeleiding GGD",
+      "Remedial teaching",
+      "Toetstijd",
+      "Aangepaste toetsen",
+      "Digitale hulpmiddelen",
+      "Schriftelijke hulpmiddelen"
+    ],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [
+      "kluisjes",
+      "veiligheidsconvenant",
+      "Paarse Vrijdag"
+    ],
+    "diversity": {},
+    "parent_involvement": null,
+    "culture_values": "Named after René Descartes (Cartesius), emphasizing rational thinking, philosophy, and scientific method. Likely focus on critical thinking and analytical skills."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3675734,
+      "lon": 4.9041389
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Oranjebaan (TRAM: 5)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 43,
+        "duration_text": "44 mins",
+        "transfers": 0,
+        "routes": [
+          {
+            "line": "5",
+            "vehicle": "TRAM",
+            "from": "Amstelveen, Oranjebaan",
+            "to": "Marnixplein"
+          }
+        ],
+        "departure_time": "8:03 AM",
+        "arrival_time": "8:47 AM"
+      },
+      "accessibility_info": "tram 3, bus 18 en 21 halte Frederik Hendrikplantsoen "
+    },
+    "bike_accessibility": {
+      "distance_km": 9.97,
+      "duration_minutes": 35,
+      "distance_text": "10.0 km",
+      "duration_text": "35 mins",
+      "route_quality": "Moderate distance, typical bike commute"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 7.3,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 6.7
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 6.6,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 5.2
+      }
+    ],
+    "awards": [],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-01-16",
+        "time": "16:00-19:00",
+        "type": "Open day",
+        "registration_required": false
+      },
+      {
+        "date": "2026-01-18",
+        "time": "10:00-12:00",
+        "type": "Open day",
+        "registration_required": false
+      },
+      {
+        "date": "2026-02-03",
+        "time": "18:30-20:30",
+        "type": "Open day",
+        "registration_required": false
+      }
+    ],
+    "information_sessions": [],
+    "application_deadlines": [],
+    "links": [
+      "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/cartesius-lyceum/",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=277944",
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/1270/het-cartesius-lyceum/"
+    ],
+    "admission_info": [
+      "Voorrangsregels: geen voorrangsregels"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "HAVO and VWO education",
+      "Named after philosopher René Descartes",
+      "Likely emphasis on critical thinking and analytical skills",
+      "Focus on rational thought and scientific method"
+    ],
+    "considerations": [
+      "Limited publicly available information",
+      "HAVO/VWO only",
+      "Commute from Amstelveen required"
+    ],
+    "best_fit_for": [
+      "Students interested in philosophy and critical thinking",
+      "Students seeking HAVO or VWO education",
+      "Families valuing analytical and rational thinking",
+      "Students interested in scientific method and reasoning"
+    ],
+    "summary": "Cartesius Lyceum is a secondary school in Amsterdam offering HAVO and VWO education, named after philosopher René Descartes, likely emphasizing critical thinking, analytical skills, rational thought, and the scientific method."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.314258",
+    "data_sources": [
+      "Schools list",
+      "onderwijsconsument.nl API",
+      "schoolkeuze020.nl open dagen 2026",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.4,
+    "google_maps_enriched": true
+  }
+}

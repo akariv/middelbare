@@ -1,0 +1,177 @@
+{
+  "id": "denise-amsterdam",
+  "basic_info": {
+    "name": "DENISE",
+    "official_name": "DENISE",
+    "address": "Piet Mondriaanstraat 140",
+    "city": "Amsterdam",
+    "postal_code": "1061 TT",
+    "contact": {
+      "phone": "0204802700",
+      "email": "info@denise.espritscholen.nl",
+      "website": "http://denise.espritscholen.nl"
+    },
+    "type": [
+      "VWO",
+      "HAVO",
+      "VMBO-T"
+    ],
+    "religious_affiliation": "Private non-denominational",
+    "enrollment": {
+      "total": 590,
+      "by_program": {
+        "vmbo_t": null,
+        "havo": null,
+        "vwo": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    },
+    "formatted_address": "Amsterdam, Netherlands"
+  },
+  "academic_performance": {
+    "exam_scores": {},
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [],
+    "extracurricular_activities": []
+  },
+  "facilities": {
+    "classrooms_labs_quality": null,
+    "sports_facilities": [],
+    "library": {},
+    "technology": {}
+  },
+  "student_support": {
+    "counseling": null,
+    "newcomers_class": null,
+    "language_support": [],
+    "special_education": [
+      "twee mentoren per klas",
+      "Toetstijd",
+      "Aangepaste toetsen",
+      "Digitale hulpmiddelen"
+    ],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [],
+    "diversity": {},
+    "parent_involvement": null,
+    "culture_values": "Alternative education school with focus on individual learning paths."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3675734,
+      "lon": 4.9041389
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Oranjebaan (TRAM: 5)",
+        "Zuid (SUBWAY: 50)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 46,
+        "duration_text": "46 mins",
+        "transfers": 1,
+        "routes": [
+          {
+            "line": "5",
+            "vehicle": "TRAM",
+            "from": "Amstelveen, Oranjebaan",
+            "to": "Station Zuid"
+          },
+          {
+            "line": "50",
+            "vehicle": "SUBWAY",
+            "from": "Zuid",
+            "to": "Postjesweg"
+          }
+        ],
+        "departure_time": "8:03 AM",
+        "arrival_time": "8:49 AM"
+      },
+      "accessibility_info": "metro 50 en 51 halte Postjesweg, tram 13 halte Jan Voermanstraat"
+    },
+    "bike_accessibility": {
+      "distance_km": 8.79,
+      "duration_minutes": 28,
+      "distance_text": "8.8 km",
+      "duration_text": "28 mins",
+      "route_quality": "Moderate distance, typical bike commute"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 8.2,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 8.4
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 7.2,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 6.4
+      }
+    ],
+    "awards": [],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-01-14",
+        "time": "14:30-16:30",
+        "type": "Info meeting + lesson session",
+        "registration_required": false
+      }
+    ],
+    "information_sessions": [],
+    "application_deadlines": [],
+    "links": [
+      "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/de-nieuwe-internationale-school-esprit",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=277936",
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/1267/denise/"
+    ],
+    "admission_info": [
+      "Voorrangsregels: geen voorrangsregels",
+      "Toelating: intakegesprek na inloting"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "Multiple educational tracks (VMBO-T, HAVO, VWO)",
+      "Alternative education approach",
+      "Individual learning paths"
+    ],
+    "considerations": [
+      "Very limited publicly available information",
+      "Alternative approach may differ from traditional schools",
+      "Commute from Amstelveen required"
+    ],
+    "best_fit_for": [
+      "Students seeking alternative education",
+      "Students wanting individual learning paths",
+      "Students of various academic levels"
+    ],
+    "summary": "DENISE is an alternative education school in Amsterdam offering VMBO-T, HAVO, and VWO education with focus on individual learning paths and non-traditional approaches."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.324176",
+    "data_sources": [
+      "Schools list",
+      "onderwijsconsument.nl API",
+      "schoolkeuze020.nl open dagen 2026",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.35,
+    "google_maps_enriched": true
+  }
+}

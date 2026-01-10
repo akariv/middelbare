@@ -1,0 +1,213 @@
+{
+  "id": "ir-lely-lyceum-amsterdam",
+  "basic_info": {
+    "name": "Ir. Lely Lyceum",
+    "official_name": "Ir. Lely Lyceum",
+    "address": "Ravenswaaipad 3",
+    "city": "Amsterdam",
+    "postal_code": "1106 AW",
+    "contact": {
+      "phone": "0205633050",
+      "email": "info@lelylyceum.nl",
+      "website": "https://www.lelylyceum.nl"
+    },
+    "type": [
+      "VWO",
+      "HAVO",
+      "VMBO-T"
+    ],
+    "religious_affiliation": "Public (openbaar onderwijs)",
+    "enrollment": {
+      "total": 1109,
+      "by_program": {
+        "vmbo_t": null,
+        "havo": null,
+        "vwo": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    },
+    "formatted_address": "Amsterdam, Netherlands"
+  },
+  "academic_performance": {
+    "exam_scores": {
+      "vmbo": {
+        "pass_rate_2024_2025": 73.6,
+        "candidates_2024_2025": 62,
+        "passed_2024_2025": 46,
+        "average_pass_rate_5yr": 79.4
+      },
+      "havo": {
+        "pass_rate_2024_2025": 57.4,
+        "candidates_2024_2025": 54,
+        "passed_2024_2025": 31,
+        "average_pass_rate_5yr": 69.0
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 67.2,
+        "candidates_2024_2025": 32,
+        "passed_2024_2025": 21,
+        "average_pass_rate_5yr": 72.5
+      }
+    },
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [],
+    "extracurricular_activities": [
+      "sportprogramma (waaronder sportgroep en Topscore)",
+      "danstalentklas",
+      "leesclub",
+      "filmclub"
+    ]
+  },
+  "facilities": {
+    "classrooms_labs_quality": "ruim en overzichtelijk, grote lokalen, drie sportzalen, twee buitenplaatsen, vier computerlokalen, studiecentrum",
+    "sports_facilities": [],
+    "library": {},
+    "technology": {
+      "description": "computerborden"
+    }
+  },
+  "student_support": {
+    "counseling": null,
+    "newcomers_class": null,
+    "language_support": [],
+    "special_education": [
+      "verzuimbegeleiding GGD",
+      "vmbo-leerlingbegeleiders (ondersteuning bij gedrags- of motivatieproblemen)",
+      "Remedial teaching",
+      "Toetstijd",
+      "Digitale hulpmiddelen",
+      "Overige ondersteuningsmogelijkheden"
+    ],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [
+      "bewakingscamera's",
+      "kluisjes"
+    ],
+    "diversity": {},
+    "parent_involvement": null,
+    "culture_values": "Named after Ir. Cornelis Lely, engineer and statesman who designed the Afsluitdijk and Zuiderzee Works. Likely emphasis on engineering, innovation, and achievement."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3675734,
+      "lon": 4.9041389
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Busstation (BUS: 300)",
+        "Bijlmer ArenA (SUBWAY: 50)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 47,
+        "duration_text": "47 mins",
+        "transfers": 1,
+        "routes": [
+          {
+            "line": "300",
+            "vehicle": "BUS",
+            "from": "Amstelveen, Busstation",
+            "to": "Station Bijlmer ArenA"
+          },
+          {
+            "line": "50",
+            "vehicle": "SUBWAY",
+            "from": "Bijlmer ArenA",
+            "to": "Reigersbos"
+          }
+        ],
+        "departure_time": "8:04 AM",
+        "arrival_time": "8:52 AM"
+      },
+      "accessibility_info": "metro 50 en 54 en bus 47 halte Reigersbos"
+    },
+    "bike_accessibility": {
+      "distance_km": 10.12,
+      "duration_minutes": 33,
+      "distance_text": "10.1 km",
+      "duration_text": "34 mins",
+      "route_quality": "Long distance, may prefer public transport"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 7.8,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 7.9
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 6.6,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 5.8
+      }
+    ],
+    "awards": [],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-01-15",
+        "time": "18:30-21:00",
+        "type": "Evening session",
+        "registration_required": false
+      },
+      {
+        "date": "2026-01-16",
+        "time": "18:30-21:00",
+        "type": "Evening session",
+        "registration_required": false
+      }
+    ],
+    "information_sessions": [],
+    "application_deadlines": [],
+    "links": [
+      "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/Ir.%20LelyLyceum",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=279930",
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/1641/ir-lely-lyceum/"
+    ],
+    "admission_info": [
+      "Voorrangsregels: geen voorrangsregels"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "Multiple educational tracks (VMBO-T, HAVO, VWO)",
+      "Named after famous Dutch engineer Cornelis Lely",
+      "Likely emphasis on innovation and achievement"
+    ],
+    "considerations": [
+      "Limited publicly available information",
+      "Commute from Amstelveen required"
+    ],
+    "best_fit_for": [
+      "Students of various academic levels (VMBO-T through VWO)",
+      "Students interested in engineering and innovation",
+      "Families valuing achievement and progress"
+    ],
+    "summary": "Ir. Lely Lyceum is a secondary school in Amsterdam offering VMBO-T, HAVO, and VWO education, named after the famous Dutch engineer Cornelis Lely, likely emphasizing innovation, engineering thinking, and achievement."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.376276",
+    "data_sources": [
+      "Schools list",
+      "onderwijsconsument.nl API",
+      "DUO exam results",
+      "schoolkeuze020.nl open dagen 2026",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.4,
+    "google_maps_enriched": true
+  }
+}

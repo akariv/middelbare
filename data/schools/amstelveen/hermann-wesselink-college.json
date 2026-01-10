@@ -1,0 +1,190 @@
+{
+  "id": "hermann-wesselink-college",
+  "basic_info": {
+    "name": "Hermann Wesselink College",
+    "official_name": "Het Hermann Wesselink College",
+    "address": "Startbaan 3",
+    "city": "Amstelveen",
+    "postal_code": "1185 XP",
+    "contact": {
+      "phone": "020-64 59 751",
+      "email": "school@hethwc.nl",
+      "website": "https://www.hethwc.nl/"
+    },
+    "type": [
+      "VWO",
+      "HAVO",
+      "VMBO-T",
+      "Gymnasium",
+      "Atheneum"
+    ],
+    "religious_affiliation": "Christian",
+    "enrollment": {
+      "total": 1862,
+      "by_program": {
+        "vmbo_t": null,
+        "havo": null,
+        "atheneum": null,
+        "gymnasium": null
+      }
+    },
+    "hours": {
+      "school_days": "Weekdays",
+      "school_hours": "8:00-16:30"
+    }
+  },
+  "academic_performance": {
+    "exam_scores": {},
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [
+      "Bilingual Education (TTO - Tweetalig Onderwijs)",
+      "International Crossover Class (ICC)",
+      "International orientation for all students",
+      "Arts and culture programming",
+      "Gymnasium",
+      "Atheneum"
+    ],
+    "extracurricular_activities": [
+      "Arts and culture programs",
+      "Smile at School (Ghana education crowdfunding initiative)"
+    ]
+  },
+  "facilities": {
+    "classrooms_labs_quality": "New building opened end of 2020 - almost energy neutral, no gas, labeled as good acoustic environment",
+    "sports_facilities": [],
+    "library": {},
+    "technology": {}
+  },
+  "student_support": {
+    "counseling": "Mentoring, career guidance, socio-emotional support",
+    "newcomers_class": null,
+    "language_support": [
+      "Bilingual education option"
+    ],
+    "special_education": [
+      "Additional academic assistance",
+      "remedial teacher"
+    ],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [
+      "Trust persons appointed",
+      "Steunpunt Amstel & Meer support center"
+    ],
+    "diversity": {},
+    "parent_involvement": null,
+    "culture_values": "Christian scholastic community with motto: 'A place where everyone is equal, but nobody is the same.' Focus on individuality within community."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.2973,
+      "lon": 4.8632
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Heemraadschapslaan (BUS: 178)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 20,
+        "duration_text": "21 mins",
+        "transfers": 0,
+        "routes": [
+          {
+            "line": "178",
+            "vehicle": "BUS",
+            "from": "Amstelveen, Heemraadschapslaan",
+            "to": "Amstelveen, Startbaan"
+          }
+        ],
+        "departure_time": "8:00 AM",
+        "arrival_time": "8:20 AM"
+      }
+    },
+    "bike_accessibility": {
+      "distance_km": 3.21,
+      "duration_minutes": 10,
+      "distance_text": "3.2 km",
+      "duration_text": "11 mins",
+      "route_quality": "Short distance, easy bike commute"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 7.8,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 8.2
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 6.8,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 6.0
+      }
+    ],
+    "awards": [],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      "Open days and lesson sessions scheduled for Grade 8 students"
+    ],
+    "information_sessions": [],
+    "application_deadlines": [],
+    "links": [
+      "https://www.hethwc.nl/",
+      "https://www.hermannwesselinkcollege.nl/",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=268378",
+      "http://www.scholenopdekaart.nl/Middelbare-scholen/1963/H-Wesselink-College"
+    ],
+    "admission_info": [
+      "Voorrangsregels: 1 broer, zus; 2 Amstelveen, Nes, Ouderkerk; 3 Aalsmeer, Uithoorn, Badhoevedorp; 4 overige plaatsen"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "Located in Amstelveen - very close to student home address",
+      "Large school (1866 students) with comprehensive program offerings",
+      "New, modern, sustainable building (2020) with excellent acoustics",
+      "Bilingual education and international orientation options",
+      "Multiple tracks from VMBO-T through Gymnasium",
+      "Strong student support systems (mentoring, career guidance, socio-emotional)",
+      "Christian values with emphasis on individuality and equality",
+      "Energy-neutral, environmentally conscious facility",
+      "Active community engagement (Smile at School Ghana initiative)"
+    ],
+    "considerations": [
+      "Christian affiliation may be important consideration for some families",
+      "Large school size may not suit students preferring smaller environments",
+      "Serves students from multiple municipalities (Amstelveen, Aalsmeer, Ouderkerk, Uithoorn, Badhoevedorp)"
+    ],
+    "best_fit_for": [
+      "Students living in Amstelveen seeking short commute",
+      "Families valuing Christian education with inclusive motto",
+      "Students interested in bilingual/international education",
+      "Students of various academic levels (VMBO-T through Gymnasium)",
+      "Students who thrive in larger school communities",
+      "Environmentally-conscious families appreciating sustainable building",
+      "Students interested in arts, culture, and global citizenship"
+    ],
+    "summary": "Hermann Wesselink College is a large, modern Christian school in Amstelveen offering comprehensive education from VMBO-T through Gymnasium, including bilingual options. Located very close to the student's home, it features a new energy-neutral building with excellent facilities. With its motto 'everyone is equal, but nobody is the same,' the school balances Christian values with inclusive individuality. Strong support systems and international orientation make it suitable for diverse learners."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.301332",
+    "data_sources": [
+      "https://www.hethwc.nl/",
+      "Wikipedia",
+      "Web search results",
+      "onderwijsconsument.nl API",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.7,
+    "google_maps_enriched": true
+  }
+}

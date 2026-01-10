@@ -1,0 +1,215 @@
+{
+  "id": "barlaeus-gymnasium-amsterdam",
+  "basic_info": {
+    "name": "Barlaeus Gymnasium",
+    "official_name": "Barlaeus Gymnasium",
+    "address": "Weteringschans 29-31",
+    "city": "Amsterdam",
+    "postal_code": "1017 RV",
+    "contact": {
+      "phone": "0206263396",
+      "email": "info@barlaeus.nl",
+      "website": "https://www.barlaeus.nl/"
+    },
+    "type": [
+      "VWO",
+      "Gymnasium"
+    ],
+    "religious_affiliation": "Public (openbaar onderwijs)",
+    "enrollment": {
+      "total": 801,
+      "by_program": {
+        "gymnasium": 800
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    }
+  },
+  "academic_performance": {
+    "exam_scores": {
+      "vwo": {
+        "pass_rate_2024_2025": 92.1,
+        "candidates_2024_2025": 114,
+        "passed_2024_2025": 105,
+        "average_pass_rate_5yr": 95.4
+      }
+    },
+    "graduation_rates": {},
+    "student_teacher_ratio": 8.9,
+    "special_programs": [
+      "Classical education (Latin, Greek)",
+      "Gymnasium program"
+    ],
+    "extracurricular_activities": [
+      "koor",
+      "orkest",
+      "toneel",
+      "dans",
+      "eersteklasmusical (onder begeleiding van vijfde- en zesdeklassers)"
+    ]
+  },
+  "facilities": {
+    "classrooms_labs_quality": "Central Amsterdam location with access to urban cultural and academic resources",
+    "sports_facilities": [],
+    "library": {},
+    "technology": {
+      "description": "beamers, computers in mediatheek en ICT-lab"
+    }
+  },
+  "student_support": {
+    "counseling": "Auxilia HLP: extra hulples Nederlands, wiskunde, begrijpend lezen, spelling en studievaardigheden, plusmentor, hulpmentoren, Barlabijles, huiswerklokaal voor alle jaarlagen, gerichte Auxilia (ondersteuning) voor allerlei vakken door het jaar heen",
+    "newcomers_class": null,
+    "language_support": [
+      "Classical languages (Latin, Greek)"
+    ],
+    "special_education": [
+      "remedial teacher (voor o.a. faalangst en dyslexie)",
+      "voor hoogbegaafden ruimte voor uitdagingen buiten school",
+      "Remedial teaching",
+      "Toetstijd",
+      "Aangepaste toetsen",
+      "Overige ondersteuningsmogelijkheden"
+    ],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [
+      "fatsoensregels en schoolregels",
+      "iedere leraar maakt eigen orde in de klas"
+    ],
+    "diversity": {},
+    "parent_involvement": null,
+    "culture_values": "One of the Netherlands' oldest educational institutions dating to 1342 as a Latin school. Named Barlaeus Gymnasium in the 1930s. Emphasizes being 'smart, flexible, and beautiful' in its educational approach. Nearly seven centuries of sustained educational commitment."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3637,
+      "lon": 4.8907
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Oranjebaan (TRAM: 5)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 38,
+        "duration_text": "38 mins",
+        "transfers": 0,
+        "routes": [
+          {
+            "line": "5",
+            "vehicle": "TRAM",
+            "from": "Amstelveen, Oranjebaan",
+            "to": "Leidseplein"
+          }
+        ],
+        "departure_time": "8:03 AM",
+        "arrival_time": "8:41 AM"
+      },
+      "accessibility_info": "tram 1, 2, 5, 11, 12, halte Leidseplein, tram 1, 7 en 19 halte spiegelgracht, en diverse buslijnen"
+    },
+    "bike_accessibility": {
+      "distance_km": 7.83,
+      "duration_minutes": 26,
+      "distance_text": "7.8 km",
+      "duration_text": "27 mins",
+      "route_quality": "Moderate distance, typical bike commute"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 8.8,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 9.1
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 7.4,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 6.7
+      }
+    ],
+    "awards": [
+      "One of Netherlands' most established academic institutions (founded 1342)"
+    ],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-01-23",
+        "time": "19:00-21:00",
+        "type": "Evening session",
+        "registration_required": false
+      },
+      {
+        "date": "2026-01-24",
+        "time": "10:00-13:00",
+        "type": "Open market + lessons",
+        "registration_required": false
+      },
+      {
+        "date": "2026-01-28",
+        "time": "14:00-16:00",
+        "type": "Lesson afternoon",
+        "registration_required": false
+      }
+    ],
+    "information_sessions": [],
+    "application_deadlines": [],
+    "links": [
+      "https://www.barlaeus.nl/",
+      "Facebook and LinkedIn presence",
+      "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/barlaeus-gymnasium/",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?pseudocode=undefined&id=279846&name=Barlaeus%20Gymnasium&type=School",
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/395/barlaeus-gymnasium/"
+    ],
+    "admission_info": [
+      "Voorrangsregels: voorrang voor broertjes en/of zusjes van zittende leerlingen en kinderen van personeel die op 1 augustus 2010 op de notarieel vastgelegde lijsten staan"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "Prestigious historical institution dating to 1342",
+      "Mid-sized categoraal gymnasium with ~800 students",
+      "Excellent student-teacher ratio (8.9:1)",
+      "Central Amsterdam location with cultural resources",
+      "Smart, flexible, beautiful educational approach",
+      "Nearly 700 years of educational excellence",
+      "VWO-only focus for academic rigor"
+    ],
+    "considerations": [
+      "VWO-only (Gymnasium) requires high academic performance",
+      "Classical focus may not suit all learning styles",
+      "Central Amsterdam location - significant commute from Amstelveen",
+      "Highly competitive admission likely"
+    ],
+    "best_fit_for": [
+      "Academically exceptional students interested in classical education",
+      "Students passionate about Latin, Greek, and classical civilization",
+      "Families valuing historical prestige and tradition",
+      "Students who benefit from small school environment",
+      "Those wanting access to Amsterdam's cultural resources"
+    ],
+    "summary": "Barlaeus Gymnasium is one of the Netherlands' most prestigious and oldest educational institutions, with roots dating to 1342 as a Latin school. This mid-sized categoraal gymnasium serves approximately 800 students with an excellent 8.9:1 student-teacher ratio in central Amsterdam. Emphasizing a 'smart, flexible, and beautiful' approach, Barlaeus provides rigorous classical education with Latin and Greek. The central location offers students unique access to Amsterdam's cultural and academic resources while maintaining nearly 700 years of educational tradition and excellence."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.306533",
+    "data_sources": [
+      "https://www.barlaeus.nl/",
+      "School website",
+      "onderwijsconsument.nl API",
+      "DUO exam results",
+      "schoolkeuze020.nl open dagen 2026",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.55,
+    "google_maps_enriched": true
+  }
+}

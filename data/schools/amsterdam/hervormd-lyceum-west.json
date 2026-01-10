@@ -1,0 +1,270 @@
+{
+  "id": "hervormd-lyceum-west-amsterdam",
+  "basic_info": {
+    "name": "Hervormd Lyceum West",
+    "official_name": "Hervormd Lyceum West (HLW)",
+    "address": "Hemsterhuisstraat 79",
+    "city": "Amsterdam",
+    "postal_code": "1065 JX",
+    "contact": {
+      "phone": "020-615 27 80",
+      "email": "school@hlw.nl",
+      "absence_phone": "020-615 27 80",
+      "website": "https://www.hlw.nl/"
+    },
+    "type": [
+      "VWO",
+      "HAVO",
+      "VMBO-T",
+      "MAVO",
+      "Gymnasium"
+    ],
+    "religious_affiliation": "Protestant (Hervormd)",
+    "enrollment": {
+      "total": 802,
+      "by_program": {
+        "mavo": null,
+        "vmbo_t": null,
+        "havo": null,
+        "vwo": null,
+        "gymnasium": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": "Absence reporting before 08:30 AM"
+    }
+  },
+  "academic_performance": {
+    "exam_scores": {
+      "vmbo": {
+        "pass_rate_2024_2025": 91.0,
+        "candidates_2024_2025": 61,
+        "passed_2024_2025": 55,
+        "average_pass_rate_5yr": 84.3
+      },
+      "havo": {
+        "pass_rate_2024_2025": 92.3,
+        "candidates_2024_2025": 39,
+        "passed_2024_2025": 36,
+        "average_pass_rate_5yr": 79.9
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 100.0,
+        "candidates_2024_2025": 14,
+        "passed_2024_2025": 14,
+        "average_pass_rate_5yr": 90.0
+      }
+    },
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [
+      "Tweetalig Onderwijs (TTO) - Bilingual education with Cambridge certification",
+      "DigiTech - 4 hours weekly covering AI, GameTech, Robotics, and Ethical Hacking",
+      "Blended Learning - Combination of textbooks and laptop-based differentiated instruction",
+      "Gymnasium program - Oldest gymnasium in Nieuw-West (65+ years)",
+      "Profile options: C&M, E&M, N+G, N+T (HAVO/VWO)",
+      "MAVO profiles: Techniek, Zorg & Welzijn, Economie"
+    ],
+    "extracurricular_activities": [
+      "Dublin trips (TTO program)",
+      "International exchange projects",
+      "Startup development projects (DigiTech)",
+      "Topscore",
+      "Sint Nicolaastoernooi",
+      "buitensportdag",
+      "Giving Back",
+      "schoolfeesten"
+    ]
+  },
+  "facilities": {
+    "classrooms_labs_quality": "Blended learning environment with laptop integration",
+    "sports_facilities": [],
+    "library": {},
+    "technology": {
+      "laptops": "Laptop ordering through Signpost partnership",
+      "digital_learning": "Magister portal for teachers, parents, and students",
+      "description": "beamers of smartboard in elk lokaal, computerlokalen"
+    }
+  },
+  "student_support": {
+    "counseling": "Psychological and social-emotional counseling with external referrals when needed",
+    "mentorship": "Individual guidance through mentors and deans",
+    "newcomers_class": null,
+    "language_support": [
+      "Bilingual education (TTO)",
+      "Classical languages (Gymnasium)"
+    ],
+    "special_education": [
+      "Remedial instruction for dyslexia and dyscalculia",
+      "Trajectklas for additional academic support",
+      "counselor",
+      "leerlingbegeleider (zonodig contact met ouders in Arabisch)",
+      "verzuimbegeleiding GGD",
+      "Remedial teaching",
+      "Toetstijd",
+      "Aangepaste toetsen",
+      "Digitale hulpmiddelen",
+      "Overige ondersteuningsmogelijkheden"
+    ],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [
+      "Strict absence monitoring - DUO reporting after 16 unexcused hours in 4 weeks",
+      "kluisjescontrole",
+      "absentielijn",
+      "veiligheidscoördinator"
+    ],
+    "diversity": {},
+    "parent_involvement": "Parent reporting through Magister app, email, or phone",
+    "culture_values": "Views school as a place for growth where students discover their potential and talents through encouragement and challenge. Protestant foundation with focus on personal development."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3674,
+      "lon": 4.7934
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Oranjebaan (TRAM: 5)",
+        "Zuid (SUBWAY: 50)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 51,
+        "duration_text": "51 mins",
+        "transfers": 1,
+        "routes": [
+          {
+            "line": "5",
+            "vehicle": "TRAM",
+            "from": "Amstelveen, Oranjebaan",
+            "to": "Station Zuid"
+          },
+          {
+            "line": "50",
+            "vehicle": "SUBWAY",
+            "from": "Zuid",
+            "to": "Postjesweg"
+          }
+        ],
+        "departure_time": "8:03 AM",
+        "arrival_time": "8:54 AM"
+      },
+      "accessibility_info": "metro 50 en 51 halte Postjesweg of Lelylaan, tram 1 en 17, bus 18 en 63 halte Johan Huizingalaan"
+    },
+    "bike_accessibility": {
+      "distance_km": 9.19,
+      "duration_minutes": 30,
+      "distance_text": "9.2 km",
+      "duration_text": "31 mins",
+      "route_quality": "Moderate distance, typical bike commute"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 7.7,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 7.5
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 6.8,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 5.3
+      }
+    ],
+    "awards": [
+      "Oldest gymnasium in Nieuw-West (65+ years established)"
+    ],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-01-21",
+        "time": "14:45-16:45",
+        "type": "Lesson afternoon",
+        "registration_required": true,
+        "notes": "Registration deadline: Jan 7"
+      },
+      {
+        "date": "2026-01-28",
+        "time": null,
+        "type": "Open Day"
+      },
+      {
+        "date": "2026-01-29",
+        "time": null,
+        "type": "Open Day"
+      },
+      {
+        "date": "2026-02-03",
+        "time": "18:00-21:00",
+        "type": "Evening session",
+        "registration_required": false
+      },
+      {
+        "date": "2026-02-04",
+        "time": "18:00-21:00",
+        "type": "Evening session",
+        "registration_required": false
+      }
+    ],
+    "information_sessions": [],
+    "application_deadlines": [],
+    "links": [
+      "https://www.hlw.nl/",
+      "https://hlw.leerlingaanmelden.nl",
+      "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/hervormd-lyceum-west/",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=302998",
+      "https://hlw.nl"
+    ],
+    "admission_info": [
+      "Voorrangsregels: voorrang voor leerlingen die uitstromen uit de Koplas op HLW"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "Comprehensive educational range from MAVO to Gymnasium",
+      "Innovative DigiTech program covering AI, GameTech, Robotics, and Ethical Hacking",
+      "Bilingual TTO program with Cambridge certification and international exchanges",
+      "Historic gymnasium program (65+ years) - oldest in Nieuw-West",
+      "Strong student support with remedial instruction and trajectklas",
+      "Modern blended learning approach with laptop integration",
+      "Protestant foundation providing values-based education"
+    ],
+    "considerations": [
+      "Located in Amsterdam Nieuw-West, requiring commute from Amstelveen",
+      "Protestant affiliation may be important factor for some families",
+      "Multiple educational tracks may mean less focus on VWO-only compared to categoraal schools"
+    ],
+    "best_fit_for": [
+      "Students interested in technology and innovation (DigiTech program)",
+      "Students seeking bilingual education with international experience",
+      "Families valuing Protestant Christian education",
+      "Students who benefit from comprehensive support systems",
+      "Those interested in classical education through Gymnasium track",
+      "Students wanting modern blended learning environment"
+    ],
+    "summary": "Hervormd Lyceum West is a comprehensive Protestant secondary school in Amsterdam Nieuw-West offering education from MAVO through Gymnasium. With its innovative DigiTech program, bilingual TTO track, and historic gymnasium program (65+ years), HLW combines traditional values with modern educational approaches. The school emphasizes personal growth and provides strong student support including remedial instruction and trajectklas. Its blended learning environment integrates technology while maintaining focus on individual development."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.349039",
+    "data_sources": [
+      "https://www.hlw.nl/",
+      "School website",
+      "onderwijsconsument.nl API",
+      "DUO exam results",
+      "schoolkeuze020.nl open dagen 2026",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.6,
+    "google_maps_enriched": true
+  }
+}

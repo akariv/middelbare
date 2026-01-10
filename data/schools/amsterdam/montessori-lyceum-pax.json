@@ -1,0 +1,171 @@
+{
+  "id": "montessori-lyceum-pax-amsterdam",
+  "basic_info": {
+    "name": "Montessori Lyceum Pax",
+    "official_name": "Montessori Lyceum Pax",
+    "address": "C. Van Eesterenlaan 50",
+    "city": "Amsterdam",
+    "postal_code": "1019 JN",
+    "contact": {
+      "phone": null,
+      "email": null,
+      "website": "https://www.montessorilyceumamsterdam.nl"
+    },
+    "type": [
+      "VWO",
+      "HAVO",
+      "VMBO-T"
+    ],
+    "religious_affiliation": "None (Montessori)",
+    "enrollment": {
+      "total": 75,
+      "by_program": {
+        "vmbo_t": null,
+        "havo": null,
+        "vwo": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    },
+    "formatted_address": "Amsterdam, Netherlands"
+  },
+  "academic_performance": {
+    "exam_scores": {},
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [
+      "Montessori education methodology",
+      "Self-directed learning approach"
+    ],
+    "extracurricular_activities": []
+  },
+  "facilities": {
+    "classrooms_labs_quality": "Montessori learning environment",
+    "sports_facilities": [],
+    "library": {},
+    "technology": {}
+  },
+  "student_support": {
+    "counseling": null,
+    "newcomers_class": null,
+    "language_support": [],
+    "special_education": [],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [],
+    "diversity": {},
+    "parent_involvement": "Active parent involvement typical of Montessori schools",
+    "culture_values": "Montessori pedagogy emphasizing self-directed learning and individual development. 'Pax' (Latin for peace) suggests emphasis on peaceful, harmonious learning environment."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3675734,
+      "lon": 4.9041389
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Oranjebaan (TRAM: 5)",
+        "Roelof Hartplein (TRAM: 3)",
+        "Javaplein (BUS: 65)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 68,
+        "duration_text": "1 hour 9 mins",
+        "transfers": 1,
+        "routes": [
+          {
+            "line": "5",
+            "vehicle": "TRAM",
+            "from": "Amstelveen, Oranjebaan",
+            "to": "Roelof Hartplein"
+          },
+          {
+            "line": "3",
+            "vehicle": "TRAM",
+            "from": "Roelof Hartplein",
+            "to": "Molukkenstraat"
+          },
+          {
+            "line": "65",
+            "vehicle": "BUS",
+            "from": "Javaplein",
+            "to": "C. van Eesterenlaan"
+          }
+        ],
+        "departure_time": "8:03 AM",
+        "arrival_time": "9:11 AM"
+      }
+    },
+    "bike_accessibility": {
+      "distance_km": 12.96,
+      "duration_minutes": 40,
+      "distance_text": "13.0 km",
+      "duration_text": "41 mins",
+      "route_quality": "Long distance, may prefer public transport"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [],
+    "student_reviews": [],
+    "awards": [],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-01-14",
+        "time": "15:30-19:00",
+        "type": "Open day",
+        "registration_required": false
+      },
+      {
+        "date": "2026-01-15",
+        "time": "15:30-19:00",
+        "type": "Open day",
+        "registration_required": false
+      }
+    ],
+    "information_sessions": [],
+    "application_deadlines": [],
+    "links": [
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/25731/montessori-lyceum-amsterdam-c-van-eesterenlaan/"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "Proven Montessori methodology",
+      "Multiple educational tracks (VMBO-T, HAVO, VWO)",
+      "Self-directed learning fostering independence",
+      "'Pax' name suggests peaceful, harmonious environment",
+      "Student-centered education"
+    ],
+    "considerations": [
+      "Montessori approach requires self-motivation",
+      "Self-directed learning may not suit all styles",
+      "Commute from Amstelveen required",
+      "Limited publicly available information"
+    ],
+    "best_fit_for": [
+      "Students thriving with Montessori self-directed learning",
+      "Families valuing peaceful, harmonious learning environment",
+      "Independent, self-motivated learners",
+      "Students of various academic levels (VMBO-T through VWO)"
+    ],
+    "summary": "Montessori Lyceum Pax is a Montessori secondary school in Amsterdam offering VMBO-T, HAVO, and VWO education using the Montessori methodology. With 'Pax' meaning peace, the school emphasizes self-directed learning and individual development in a peaceful, harmonious environment."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.393873",
+    "data_sources": [
+      "Schools list",
+      "onderwijsconsument.nl API",
+      "schoolkeuze020.nl open dagen 2026",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.45,
+    "google_maps_enriched": true
+  }
+}

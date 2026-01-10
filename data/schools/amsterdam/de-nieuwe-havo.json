@@ -1,0 +1,142 @@
+{
+  "id": "de-nieuwe-havo-amsterdam",
+  "basic_info": {
+    "name": "De nieuwe Havo",
+    "official_name": "De nieuwe Havo",
+    "address": "Meeuwenlaan 132",
+    "city": "Amsterdam",
+    "postal_code": "1022 AM",
+    "contact": {
+      "phone": null,
+      "email": null,
+      "website": null
+    },
+    "type": [
+      "VWO",
+      "HAVO"
+    ],
+    "religious_affiliation": "None",
+    "enrollment": {
+      "total": null,
+      "by_program": {
+        "havo": null,
+        "vwo": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    },
+    "formatted_address": "Amsterdam, Netherlands"
+  },
+  "academic_performance": {
+    "exam_scores": {},
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [
+      "Innovative HAVO approach",
+      "Contemporary education methods"
+    ],
+    "extracurricular_activities": []
+  },
+  "facilities": {
+    "classrooms_labs_quality": null,
+    "sports_facilities": [],
+    "library": {},
+    "technology": {}
+  },
+  "student_support": {
+    "counseling": null,
+    "newcomers_class": null,
+    "language_support": [],
+    "special_education": [],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [],
+    "diversity": {},
+    "parent_involvement": null,
+    "culture_values": "Innovative approach to HAVO education with contemporary methods and fresh perspective on secondary education."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3675734,
+      "lon": 4.9041389
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Oranjebaan (TRAM: 5)",
+        "Zuid (SUBWAY: 52)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 56,
+        "duration_text": "57 mins",
+        "transfers": 1,
+        "routes": [
+          {
+            "line": "5",
+            "vehicle": "TRAM",
+            "from": "Amstelveen, Oranjebaan",
+            "to": "Station Zuid"
+          },
+          {
+            "line": "52",
+            "vehicle": "SUBWAY",
+            "from": "Zuid",
+            "to": "Noorderpark"
+          }
+        ],
+        "departure_time": "8:03 AM",
+        "arrival_time": "8:59 AM"
+      }
+    },
+    "bike_accessibility": {
+      "distance_km": 12.84,
+      "duration_minutes": 45,
+      "distance_text": "12.8 km",
+      "duration_text": "45 mins",
+      "route_quality": "Long distance, may prefer public transport"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [],
+    "student_reviews": [],
+    "awards": [],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [],
+    "information_sessions": [],
+    "application_deadlines": [],
+    "links": []
+  },
+  "ai_analysis": {
+    "strengths": [
+      "Innovative approach to HAVO education",
+      "Contemporary education methods",
+      "Fresh perspective on secondary education",
+      "HAVO and VWO tracks"
+    ],
+    "considerations": [
+      "Limited publicly available information",
+      "Relatively new or innovative approach may differ from traditional schools",
+      "Commute from Amstelveen required"
+    ],
+    "best_fit_for": [
+      "Students seeking innovative HAVO education",
+      "Families valuing contemporary education methods",
+      "Students wanting fresh perspective on secondary education",
+      "Students looking for HAVO or VWO tracks"
+    ],
+    "summary": "De nieuwe Havo is an innovative secondary school in Amsterdam offering HAVO and VWO education with contemporary methods and a fresh perspective on secondary education, particularly focused on reinventing the HAVO experience."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T17:56:17.435966",
+    "data_sources": [
+      "Schools list"
+    ],
+    "completeness_score": 0.4,
+    "google_maps_enriched": true
+  }
+}

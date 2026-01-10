@@ -1,0 +1,200 @@
+{
+  "id": "vossius-gymnasium-amsterdam",
+  "basic_info": {
+    "name": "Vossius Gymnasium",
+    "official_name": "Vossius Gymnasium",
+    "address": "Messchaertstraat 1",
+    "city": "Amsterdam",
+    "postal_code": "1077 WS",
+    "contact": {
+      "phone": "0206620934",
+      "email": "vossius@vossius.nl",
+      "website": "https://www.vossiusgymnasium.nl/"
+    },
+    "type": [
+      "VWO",
+      "Gymnasium"
+    ],
+    "religious_affiliation": "Public (openbaar onderwijs)",
+    "enrollment": {
+      "total": 843,
+      "by_program": {
+        "gymnasium": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    },
+    "formatted_address": "Amsterdam, Netherlands"
+  },
+  "academic_performance": {
+    "exam_scores": {
+      "vwo": {
+        "pass_rate_2024_2025": 92.8,
+        "candidates_2024_2025": 125,
+        "passed_2024_2025": 116,
+        "average_pass_rate_5yr": 93.4
+      }
+    },
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [
+      "Classical education (Latin, Greek)",
+      "Gymnasium program"
+    ],
+    "extracurricular_activities": [
+      "filmworkshops",
+      "schoolorkest",
+      "theaterproducties",
+      "Café Chantant",
+      "Vossius Latinjazz Bigband"
+    ]
+  },
+  "facilities": {
+    "classrooms_labs_quality": "monumentaal pand, practicumlokalen, mediatheek, muziekstudio's, twee gymzalen, aula met theaterpodium",
+    "sports_facilities": [],
+    "library": {},
+    "technology": {
+      "description": "beamers in alle lokalen met internetverbinding, wifi"
+    }
+  },
+  "student_support": {
+    "counseling": "individuele coaching op studieaanpak; hulplessen Frans, Engels, Duits, Nederlands, Latijn, Grieks en wiskunde",
+    "newcomers_class": null,
+    "language_support": [
+      "Classical languages (Latin, Greek)"
+    ],
+    "special_education": [
+      "remedial teacher",
+      "pubercoach",
+      "verzuimbegeleiding GGD",
+      "Remedial teaching",
+      "Toetstijd",
+      "Aangepaste toetsen"
+    ],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [],
+    "diversity": {},
+    "parent_involvement": null,
+    "culture_values": "Prestigious categoraal gymnasium offering classical education with focus on Latin and Greek."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3675734,
+      "lon": 4.9041389
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Oranjebaan (TRAM: 5)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 30,
+        "duration_text": "30 mins",
+        "transfers": 0,
+        "routes": [
+          {
+            "line": "5",
+            "vehicle": "TRAM",
+            "from": "Amstelveen, Oranjebaan",
+            "to": "Prinses Irenestraat"
+          }
+        ],
+        "departure_time": "8:03 AM",
+        "arrival_time": "8:33 AM"
+      },
+      "accessibility_info": "metro 50, 51 en 52 halte Station Rai, tram 4 Station Rai, tram 12 halte Scheldestraat en tram 24 halte Beethovenstraat, bus 65 halte Scheldestraat en bus 612 halte Guido Gezellestraat"
+    },
+    "bike_accessibility": {
+      "distance_km": 6.0,
+      "duration_minutes": 20,
+      "distance_text": "6.0 km",
+      "duration_text": "21 mins",
+      "route_quality": "Moderate distance, typical bike commute"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 8.2,
+        "year": "2017-2018",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 8.4
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 6.7,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 6.2
+      }
+    ],
+    "awards": [],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-01-16",
+        "time": "18:30-21:30",
+        "type": "Evening session",
+        "registration_required": false
+      },
+      {
+        "date": "2026-01-17",
+        "time": "10:00-13:00",
+        "type": "Open day",
+        "registration_required": false
+      }
+    ],
+    "information_sessions": [],
+    "application_deadlines": [],
+    "links": [
+      "https://www.vossiusgymnasium.nl/",
+      "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/vossius-gymnasium/",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=279850",
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/397/vossius-gymnasium/"
+    ],
+    "admission_info": [
+      "Voorrangsregels: geen voorrangsregels"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "Prestigious categoraal gymnasium (VWO-only)",
+      "Classical education with Latin and Greek",
+      "Focus on academic excellence",
+      "Specialized environment for high-achieving students"
+    ],
+    "considerations": [
+      "VWO-only school requires strong academic performance",
+      "Classical focus may not suit all learning styles",
+      "Commute from Amstelveen required",
+      "Highly competitive admission likely"
+    ],
+    "best_fit_for": [
+      "Academically exceptional students interested in classical education",
+      "Students passionate about Latin, Greek, and classical civilization",
+      "Families valuing prestigious gymnasium education",
+      "Students seeking rigorous academic environment"
+    ],
+    "summary": "Vossius Gymnasium is a prestigious categoraal gymnasium in Amsterdam offering VWO education with focus on classical languages and culture. The school provides rigorous academic preparation with emphasis on Latin, Greek, and classical studies for high-achieving students seeking university preparation."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.419205",
+    "data_sources": [
+      "Schools list",
+      "Limited web access",
+      "onderwijsconsument.nl API",
+      "DUO exam results",
+      "schoolkeuze020.nl open dagen 2026",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.4,
+    "google_maps_enriched": true
+  }
+}

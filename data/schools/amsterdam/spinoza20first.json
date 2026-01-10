@@ -1,0 +1,208 @@
+{
+  "id": "spinoza20first-amsterdam",
+  "basic_info": {
+    "name": "Spinoza20first",
+    "official_name": "Spinoza20first",
+    "address": "H.J.E. Wenckebachweg 44",
+    "city": "Amsterdam",
+    "postal_code": "1096 AN",
+    "contact": {
+      "phone": "0207900300",
+      "email": "opendagen@spinoza20first.nl",
+      "website": "http://www.spinoza20first.nl"
+    },
+    "type": [
+      "VWO",
+      "HAVO",
+      "VMBO-T"
+    ],
+    "religious_affiliation": "Public (openbaar onderwijs)",
+    "enrollment": {
+      "total": 895,
+      "by_program": {
+        "vmbo_t": null,
+        "havo": null,
+        "vwo": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    },
+    "formatted_address": "Amsterdam, Netherlands"
+  },
+  "academic_performance": {
+    "exam_scores": {
+      "vmbo": {
+        "pass_rate_2024_2025": 83.9,
+        "candidates_2024_2025": 84,
+        "passed_2024_2025": 70,
+        "average_pass_rate_5yr": 89.4
+      },
+      "havo": {
+        "pass_rate_2024_2025": 78.9,
+        "candidates_2024_2025": 194,
+        "passed_2024_2025": 153,
+        "average_pass_rate_5yr": 83.1
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 91.2,
+        "candidates_2024_2025": 136,
+        "passed_2024_2025": 124,
+        "average_pass_rate_5yr": 91.1
+      }
+    },
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [
+      "21st century skills focus",
+      "Modern, innovative education approach"
+    ],
+    "extracurricular_activities": []
+  },
+  "facilities": {
+    "classrooms_labs_quality": null,
+    "sports_facilities": [],
+    "library": {},
+    "technology": {}
+  },
+  "student_support": {
+    "counseling": null,
+    "newcomers_class": null,
+    "language_support": [],
+    "special_education": [
+      "Toetstijd",
+      "Aangepaste toetsen",
+      "Digitale hulpmiddelen"
+    ],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [],
+    "diversity": {},
+    "parent_involvement": null,
+    "culture_values": "Part of Stichting Spinoza Lyceum alongside Spinoza Lyceum. Name '20first' suggests 21st century focus with modern, future-oriented education emphasizing skills for the current century."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3675734,
+      "lon": 4.9041389
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Oranjebaan (TRAM: 5)",
+        "Zuid (SUBWAY: 51)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 44,
+        "duration_text": "44 mins",
+        "transfers": 1,
+        "routes": [
+          {
+            "line": "5",
+            "vehicle": "TRAM",
+            "from": "Amstelveen, Oranjebaan",
+            "to": "Station Zuid"
+          },
+          {
+            "line": "51",
+            "vehicle": "SUBWAY",
+            "from": "Zuid",
+            "to": "Spaklerweg"
+          }
+        ],
+        "departure_time": "8:03 AM",
+        "arrival_time": "8:47 AM"
+      },
+      "accessibility_info": "tram 4 en 12 halte Victorieplein, bus 62 halte President Kennedylaan, bus 65 halte Waalstraat"
+    },
+    "bike_accessibility": {
+      "distance_km": 9.04,
+      "duration_minutes": 28,
+      "distance_text": "9.0 km",
+      "duration_text": "28 mins",
+      "route_quality": "Moderate distance, typical bike commute"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 8.0,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 7.4
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 7.1,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 5.8
+      }
+    ],
+    "awards": [],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-01-30",
+        "time": "16:00-19:30",
+        "type": "Open day",
+        "registration_required": false
+      },
+      {
+        "date": "2026-01-31",
+        "time": "10:00-14:00",
+        "type": "Open day",
+        "registration_required": false
+      }
+    ],
+    "information_sessions": [],
+    "application_deadlines": [],
+    "links": [
+      "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/spinoza20first/",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=1782877&name=havo&page=2",
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/24187/spinoza20first/"
+    ],
+    "admission_info": [
+      "Toelating: leerlingen moeten bewust kiezen voor onderzoekend en ontwerpend leren"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "21st century skills focus",
+      "Modern, future-oriented education",
+      "Part of Stichting Spinoza Lyceum",
+      "Multiple educational tracks (VMBO-T, HAVO, VWO)",
+      "Innovative, contemporary approach"
+    ],
+    "considerations": [
+      "Very limited publicly available information",
+      "Modern approach may differ from traditional schools",
+      "Commute from Amstelveen required"
+    ],
+    "best_fit_for": [
+      "Students seeking 21st century skills development",
+      "Families valuing modern, future-oriented education",
+      "Students interested in innovative approaches",
+      "Students of various academic levels",
+      "Students wanting contemporary learning environment"
+    ],
+    "summary": "Spinoza20first is a modern secondary school in Amsterdam offering VMBO-T, HAVO, and VWO education with focus on 21st century skills and future-oriented learning. Part of Stichting Spinoza Lyceum, the school emphasizes innovative, contemporary education preparing students for the current century's challenges and opportunities."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.405595",
+    "data_sources": [
+      "Schools list",
+      "onderwijsconsument.nl API",
+      "DUO exam results",
+      "schoolkeuze020.nl open dagen 2026",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.4,
+    "google_maps_enriched": true
+  }
+}

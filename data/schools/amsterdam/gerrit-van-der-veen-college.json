@@ -1,0 +1,190 @@
+{
+  "id": "gerrit-van-der-veen-college-amsterdam",
+  "basic_info": {
+    "name": "Gerrit van der Veen College",
+    "official_name": "Gerrit van der Veen College",
+    "address": "Gerrit van der Veenstraat 99",
+    "city": "Amsterdam",
+    "postal_code": "1077 DT",
+    "contact": {
+      "phone": "020 679 99 05",
+      "email": "groep8@gerritvdveen.nl",
+      "website": "gerritvdveen.nl"
+    },
+    "type": [
+      "VWO",
+      "HAVO"
+    ],
+    "religious_affiliation": "interconfessioneel",
+    "enrollment": {
+      "total": 936,
+      "by_program": {
+        "havo": null,
+        "vwo": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    },
+    "formatted_address": "Amsterdam, Netherlands"
+  },
+  "academic_performance": {
+    "exam_scores": {},
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [],
+    "extracurricular_activities": [
+      "goede doelen actie",
+      "kunstdagen"
+    ]
+  },
+  "facilities": {
+    "classrooms_labs_quality": "recent gerenoveerd jaren dertig monument, dans/dramalokaal, muzieklokaal/studio's, tuin",
+    "sports_facilities": [],
+    "library": {},
+    "technology": {}
+  },
+  "student_support": {
+    "counseling": "steunlessen Nederlands en wiskunde",
+    "newcomers_class": null,
+    "language_support": [],
+    "special_education": [
+      "verzuimbegeleiding GGD",
+      "Toetstijd",
+      "Aangepaste toetsen",
+      "Digitale hulpmiddelen",
+      "Overige ondersteuningsmogelijkheden"
+    ],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [
+      "kluisjescontrole",
+      "veiligheidscoördinator",
+      "pestprotocol"
+    ],
+    "diversity": {},
+    "parent_involvement": null,
+    "culture_values": "Named after Gerrit van der Veen, Dutch artist and resistance fighter during WWII. Values likely include courage, creativity, and social responsibility."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3675734,
+      "lon": 4.9041389
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Oranjebaan (TRAM: 5)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 25,
+        "duration_text": "26 mins",
+        "transfers": 0,
+        "routes": [
+          {
+            "line": "5",
+            "vehicle": "TRAM",
+            "from": "Amstelveen, Oranjebaan",
+            "to": "Gerrit van der Veenstr"
+          }
+        ],
+        "departure_time": "8:03 AM",
+        "arrival_time": "8:28 AM"
+      },
+      "accessibility_info": "metro 50 en 51 halte Station Zuid, tram 5 en 24, bus 65, schoolbus 612 halte Gerrit vd Veenstraat"
+    },
+    "bike_accessibility": {
+      "distance_km": 5.76,
+      "duration_minutes": 19,
+      "distance_text": "5.8 km",
+      "duration_text": "19 mins",
+      "route_quality": "Short distance, easy bike commute"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 7.5,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 7.5
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 6.5,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 5.9
+      }
+    ],
+    "awards": [],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-01-29",
+        "time": "16:00-20:00",
+        "type": "Open day",
+        "registration_required": true,
+        "notes": "20-minute start intervals"
+      },
+      {
+        "date": "2026-01-31",
+        "time": "09:30-13:30",
+        "type": "Open day",
+        "registration_required": true,
+        "notes": "20-minute start intervals"
+      },
+      {
+        "date": "2026-02-11",
+        "time": "14:00-17:00",
+        "type": "Lesson afternoon",
+        "registration_required": true,
+        "notes": "20-minute start intervals"
+      }
+    ],
+    "information_sessions": [],
+    "application_deadlines": [],
+    "links": [
+      "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/gerrit-van-der-veen-college/",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=279912",
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/4393/gerrit-van-der-veen-college/"
+    ],
+    "admission_info": [
+      "Voorrangsregels: voorrang voor broertjes en/of zusjes van zittende leerlingen die op 1 oktober 2016 ingeschreven stonden, voorrang voor leerlingen van de Nationale Balletacademie(HKA), Lucia Marthas Institute for performing Arts en Conservatorium van Amsterdam"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "HAVO and VWO education",
+      "Named after resistance fighter Gerrit van der Veen",
+      "Likely emphasis on social values and responsibility"
+    ],
+    "considerations": [
+      "Limited publicly available information",
+      "HAVO/VWO only",
+      "Commute from Amstelveen required"
+    ],
+    "best_fit_for": [
+      "Students seeking HAVO or VWO education",
+      "Families valuing social responsibility",
+      "Students interested in school with historical significance"
+    ],
+    "summary": "Gerrit van der Veen College is a secondary school in Amsterdam offering HAVO and VWO education, named after the Dutch artist and WWII resistance fighter, likely emphasizing values of courage, creativity, and social responsibility."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.339407",
+    "data_sources": [
+      "Schools list",
+      "onderwijsconsument.nl API",
+      "schoolkeuze020.nl open dagen 2026",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.4,
+    "google_maps_enriched": true
+  }
+}

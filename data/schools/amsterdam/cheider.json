@@ -1,0 +1,186 @@
+{
+  "id": "cheider-amsterdam",
+  "basic_info": {
+    "name": "Cheider",
+    "official_name": "Cheider (vo)",
+    "address": "Zeelandstraat 11",
+    "city": "Amsterdam",
+    "postal_code": "1082 BV",
+    "contact": {
+      "phone": "0206465564",
+      "email": "secretariaat@cheider.nl",
+      "website": "http://www.cheider.nl"
+    },
+    "type": [
+      "VWO",
+      "HAVO",
+      "VMBO"
+    ],
+    "religious_affiliation": "Jewish (Orthodox)",
+    "enrollment": {
+      "total": 33,
+      "by_program": {
+        "vmbo": null,
+        "havo": null,
+        "vwo": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    },
+    "formatted_address": "Amsterdam, Netherlands"
+  },
+  "academic_performance": {
+    "exam_scores": {
+      "vmbo": {
+        "pass_rate_2024_2025": null,
+        "candidates_2024_2025": null,
+        "passed_2024_2025": null,
+        "average_pass_rate_5yr": 100.0
+      },
+      "havo": {
+        "pass_rate_2024_2025": 100.0,
+        "candidates_2024_2025": 2,
+        "passed_2024_2025": 2,
+        "average_pass_rate_5yr": 100.0
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 50.0,
+        "candidates_2024_2025": 5,
+        "passed_2024_2025": 2,
+        "average_pass_rate_5yr": 90.0
+      }
+    },
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [
+      "Orthodox Jewish education",
+      "Torah studies",
+      "Hebrew language instruction"
+    ],
+    "extracurricular_activities": [
+      "Jewish cultural and religious activities",
+      "naschoolse activiteiten",
+      "vieringen feestdagen"
+    ]
+  },
+  "facilities": {
+    "classrooms_labs_quality": "schoolgebouw uit 1994, gescheiden onderwijs jongens en meisjes",
+    "sports_facilities": [],
+    "library": {},
+    "technology": {}
+  },
+  "student_support": {
+    "counseling": "remedial teacher, studielessen, extra taalondersteuning bij achterstand",
+    "newcomers_class": null,
+    "language_support": [
+      "Hebrew language instruction"
+    ],
+    "special_education": [
+      "schoolpsycholoog",
+      "verzuimbegeleiding GGD"
+    ],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [
+      "Security measures appropriate for Jewish Orthodox institution",
+      "camera's"
+    ],
+    "diversity": {
+      "note": "Orthodox Jewish community-focused school"
+    },
+    "parent_involvement": null,
+    "culture_values": "Orthodox Jewish school ('Cheider' means Jewish elementary school in Yiddish/Hebrew) offering education rooted in Orthodox Jewish values, Torah studies, and tradition. Combines secular education with intensive Jewish religious studies."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3675734,
+      "lon": 4.9041389
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Oranjebaan (TRAM: 5)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 25,
+        "duration_text": "25 mins",
+        "transfers": 0,
+        "routes": [
+          {
+            "line": "5",
+            "vehicle": "TRAM",
+            "from": "Amstelveen, Oranjebaan",
+            "to": "Van Boshuizenstraat"
+          }
+        ],
+        "departure_time": "8:03 AM",
+        "arrival_time": "8:28 AM"
+      },
+      "accessibility_info": "bus 62 halte Kastelenstraat"
+    },
+    "bike_accessibility": {
+      "distance_km": 3.65,
+      "duration_minutes": 11,
+      "distance_text": "3.6 km",
+      "duration_text": "12 mins",
+      "route_quality": "Short distance, easy bike commute"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [],
+    "student_reviews": [],
+    "awards": [],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [],
+    "information_sessions": [],
+    "application_deadlines": [],
+    "links": [
+      "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/cheider-vo/",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=280878",
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/3135/stichting-joodse-kindergemeenschap-cheider-mavo-havo-vwo/"
+    ],
+    "admission_info": [
+      "Voorrangsregels: geen voorrangsregels, geen centrale loting en matching",
+      "Toelating: toelatingsgesprek\ngeen open dag, op afspraak"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "Orthodox Jewish values-based education",
+      "Integration of Torah studies with secular curriculum",
+      "Hebrew language instruction",
+      "Strong religious and cultural identity",
+      "Multiple educational tracks (VMBO, HAVO, VWO)"
+    ],
+    "considerations": [
+      "Orthodox Jewish affiliation and strict religious requirements",
+      "Requires participation in Jewish religious observances",
+      "Commute from Amstelveen required",
+      "Limited to Orthodox Jewish community"
+    ],
+    "best_fit_for": [
+      "Orthodox Jewish families seeking religious education",
+      "Students wanting intensive Torah studies",
+      "Families valuing Orthodox Jewish values and tradition",
+      "Students seeking strong Jewish religious identity",
+      "Orthodox Jewish students of various academic levels"
+    ],
+    "summary": "Cheider is an Orthodox Jewish school in Amsterdam offering VMBO, HAVO, and VWO education rooted in Orthodox Jewish values, Torah studies, and religious tradition. The school combines secular education with intensive Jewish religious studies, Hebrew language instruction, and cultural activities for the Orthodox Jewish community."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.316192",
+    "data_sources": [
+      "Schools list",
+      "onderwijsconsument.nl API",
+      "DUO exam results",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.45,
+    "google_maps_enriched": true
+  }
+}

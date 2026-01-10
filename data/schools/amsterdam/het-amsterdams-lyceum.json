@@ -1,0 +1,202 @@
+{
+  "id": "het-amsterdams-lyceum-amsterdam",
+  "basic_info": {
+    "name": "Het Amsterdams Lyceum",
+    "official_name": "Het Amsterdams Lyceum",
+    "address": "Valeriusplein 15",
+    "city": "Amsterdam",
+    "postal_code": "1075 BJ",
+    "contact": {
+      "phone": "020-574 77 44",
+      "email": "het@amsterdamslyceum.nl",
+      "website": "https://amsterdamslyceum.nl/"
+    },
+    "type": [
+      "VWO",
+      "Gymnasium",
+      "Atheneum"
+    ],
+    "religious_affiliation": "Private non-denominational",
+    "enrollment": {
+      "total": 1087,
+      "by_program": {
+        "gymnasium": null,
+        "atheneum": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    }
+  },
+  "academic_performance": {
+    "exam_scores": {
+      "vwo": {
+        "pass_rate_2024_2025": 86.0,
+        "candidates_2024_2025": 186,
+        "passed_2024_2025": 160,
+        "average_pass_rate_5yr": 91.4
+      }
+    },
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [
+      "Gymnasium program (Latin, Greek)",
+      "Atheneum program"
+    ],
+    "extracurricular_activities": [
+      "muziekavond",
+      "pop & poëzieavond",
+      "toneelweek",
+      "sport- en artistieke interlyceale",
+      "muziekensemble"
+    ]
+  },
+  "facilities": {
+    "classrooms_labs_quality": "gerenoveerd monumentaal gebouw, glas-in-loodramen, ondergrondse gymzaal, sportvelden op Olympiaplein, nieuwe kantine",
+    "sports_facilities": [],
+    "library": {},
+    "technology": {
+      "description": "computers in de mediatheek"
+    }
+  },
+  "student_support": {
+    "counseling": "taal- en rekenondersteuning, inloopspreekuur, studie-uren onder toezicht bij onvoldoendes (klas 4 en 5)",
+    "newcomers_class": null,
+    "language_support": [],
+    "special_education": [
+      "Toetstijd",
+      "Remedial teaching",
+      "Aangepaste toetsen",
+      "Digitale hulpmiddelen"
+    ],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [
+      "anti-pestprotocol"
+    ],
+    "diversity": {},
+    "parent_involvement": null,
+    "culture_values": "Categoraal VWO-onderwijs focused on academic excellence"
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3547,
+      "lon": 4.8695
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Busstation (BUS: 357)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 37,
+        "duration_text": "37 mins",
+        "transfers": 0,
+        "routes": [
+          {
+            "line": "357",
+            "vehicle": "BUS",
+            "from": "Amstelveen, Busstation",
+            "to": "Emmastraat"
+          }
+        ],
+        "departure_time": "8:06 AM",
+        "arrival_time": "8:43 AM"
+      },
+      "accessibility_info": "tram 2 halte Valeriusplein, bus 15 halte Olympiaplein"
+    },
+    "bike_accessibility": {
+      "distance_km": 5.66,
+      "duration_minutes": 18,
+      "distance_text": "5.7 km",
+      "duration_text": "19 mins",
+      "route_quality": "Short distance, easy bike commute"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 8.1,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 8.1
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 6.9,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 6.5
+      }
+    ],
+    "awards": [],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-01-29",
+        "time": "17:00-21:00",
+        "type": "Information evening",
+        "registration_required": true
+      },
+      {
+        "date": "2026-01-30",
+        "time": "15:00-18:30",
+        "type": "Information afternoon",
+        "registration_required": true
+      },
+      {
+        "date": "2026-01-31",
+        "time": "10:00-13:00",
+        "type": "Open day",
+        "registration_required": false
+      }
+    ],
+    "information_sessions": [],
+    "application_deadlines": [],
+    "links": [
+      "https://amsterdamslyceum.nl/",
+      "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/het-amsterdams-lyceum/",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=268004",
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/691/het-amsterdams-lyceum/"
+    ],
+    "admission_info": [
+      "Voorrangsregels: voorrang voor kinderen van personeelsleden die op 1 oktober 2010 in dienst van het schoolbestuur waren"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "Categoraal VWO school (VWO-only) with focus on academic excellence",
+      "Located at Valeriusplein in Amsterdam-Zuid",
+      "Offers both Gymnasium and Atheneum tracks",
+      "Well-connected by public transport (Tram 2, 24, Bus 15)"
+    ],
+    "considerations": [
+      "VWO-only school requires strong academic performance",
+      "Commute from Amstelveen required"
+    ],
+    "best_fit_for": [
+      "Academically strong students seeking VWO education",
+      "Students interested in either classical (Gymnasium) or modern (Atheneum) pre-university track",
+      "Families preferring dedicated VWO environment"
+    ],
+    "summary": "Het Amsterdams Lyceum is a categoraal VWO school in Amsterdam-Zuid offering both Gymnasium and Atheneum tracks. The school focuses exclusively on pre-university education, providing rigorous academic preparation for university studies."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.364375",
+    "data_sources": [
+      "https://amsterdamslyceum.nl/",
+      "Web search results",
+      "onderwijsconsument.nl API",
+      "DUO exam results",
+      "schoolkeuze020.nl open dagen 2026",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.45,
+    "google_maps_enriched": true
+  }
+}

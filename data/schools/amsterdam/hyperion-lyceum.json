@@ -1,0 +1,270 @@
+{
+  "id": "hyperion-lyceum-amsterdam",
+  "basic_info": {
+    "name": "Hyperion Lyceum",
+    "official_name": "Hyperion Lyceum",
+    "address": "Badhuiskade 361",
+    "city": "Amsterdam",
+    "postal_code": "1031 KV",
+    "contact": {
+      "phone": "020-579 72 20",
+      "email": "info@hyperionlyceum.vova.nl",
+      "website": "https://www.hyperionlyceum.nl/"
+    },
+    "type": [
+      "VWO",
+      "Gymnasium",
+      "Atheneum+"
+    ],
+    "religious_affiliation": "Public (openbaar onderwijs)",
+    "enrollment": {
+      "total": 855,
+      "by_program": {
+        "gymnasium": null,
+        "atheneum_plus": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    }
+  },
+  "academic_performance": {
+    "exam_scores": {
+      "vmbo": {
+        "pass_rate_2024_2025": 84.8,
+        "candidates_2024_2025": 121,
+        "passed_2024_2025": 103,
+        "average_pass_rate_5yr": 91.1
+      },
+      "havo": {
+        "pass_rate_2024_2025": 63.5,
+        "candidates_2024_2025": 100,
+        "passed_2024_2025": 63,
+        "average_pass_rate_5yr": 72.2
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 85.2,
+        "candidates_2024_2025": 145,
+        "passed_2024_2025": 123,
+        "average_pass_rate_5yr": 87.0
+      }
+    },
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [
+      "Gymnasium program (classical education)",
+      "Atheneum+ program",
+      "Bureau V - allows students to accelerate or deepen learning",
+      "Choice lessons - students select which subjects to focus on"
+    ],
+    "extracurricular_activities": [
+      "Music studios programs",
+      "Ateliers and workshops",
+      "Auditorium events",
+      "Hyperion lezing",
+      "verkleed naar school op Halloween",
+      "Saint Patrick's day",
+      "symposium",
+      "digitale schoolkrant De Hype"
+    ]
+  },
+  "facilities": {
+    "classrooms_labs_quality": "Modern school building on Overhoeks with standard classrooms and large study labs",
+    "sports_facilities": [
+      "Gymnasiums"
+    ],
+    "library": {},
+    "technology": {
+      "study_labs": "Large study labs available",
+      "ateliers": "Ateliers and workshops for creative work",
+      "description": "computers in mediatheek"
+    },
+    "auditorium": "Auditorium for performances and events",
+    "music_studios": "Music studios available"
+  },
+  "student_support": {
+    "counseling": null,
+    "newcomers_class": null,
+    "language_support": [
+      "Classical languages (Gymnasium)"
+    ],
+    "special_education": [
+      "verzuimbegeleiding GGD; hoogbegaafdheid: Bureau V",
+      "verdieping en versnelling in vak of ontwikkeling speciale vaardigheid",
+      "Toetstijd",
+      "Aangepaste toetsen",
+      "Digitale hulpmiddelen",
+      "Overige ondersteuningsmogelijkheden"
+    ],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [
+      "informele open schoolcultuur",
+      "veiligheidscoördinator"
+    ],
+    "diversity": {},
+    "parent_involvement": "Regular news and updates for students and families",
+    "culture_values": "Guides students to become 'critical and empathetic thinkers and doers with active social involvement.' Develops engaged citizens through contemporary education methods. Public school values.",
+    "school_climate_score": 7.7,
+    "safety_score": 9.5
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3926,
+      "lon": 4.9018
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Oranjebaan (BUS: 300)",
+        "Schiphol Airport (HEAVY_RAIL: Sprinter)",
+        "Centraal Station (FERRY: F3)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 72,
+        "duration_text": "1 hour 12 mins",
+        "transfers": 2,
+        "routes": [
+          {
+            "line": "300",
+            "vehicle": "BUS",
+            "from": "Amstelveen, Oranjebaan",
+            "to": "Schiphol, Airport/Plaza"
+          },
+          {
+            "line": "Sprinter",
+            "vehicle": "HEAVY_RAIL",
+            "from": "Schiphol Airport",
+            "to": "Amsterdam Centraal"
+          },
+          {
+            "line": "F3",
+            "vehicle": "FERRY",
+            "from": "Centraal Station",
+            "to": "Buiksloterweg"
+          }
+        ],
+        "departure_time": "8:03 AM",
+        "arrival_time": "9:15 AM"
+      },
+      "accessibility_info": "pont Buiksloterweg, metro 52 halte Noorderpark, bus 38 halte Buiksloterwegveer"
+    },
+    "bike_accessibility": {
+      "distance_km": 11.15,
+      "duration_minutes": 39,
+      "distance_text": "11.1 km",
+      "duration_text": "39 mins",
+      "route_quality": "Long distance, may prefer public transport"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 8.1,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 8.0
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 6.8,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 6.5
+      }
+    ],
+    "awards": [
+      "High safety score of 9.5/10",
+      "Good school climate score of 7.7/10"
+    ],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-01-29",
+        "time": null,
+        "type": "Open Day"
+      },
+      {
+        "date": "2026-01-29",
+        "time": "19:00-21:30",
+        "type": "Evening session",
+        "registration_required": true
+      },
+      {
+        "date": "2026-01-30",
+        "time": null,
+        "type": "Open Day"
+      },
+      {
+        "date": "2026-01-31",
+        "time": null,
+        "type": "Open Day"
+      },
+      {
+        "date": "2026-01-31",
+        "time": "10:00-13:00",
+        "type": "Open day",
+        "registration_required": true
+      }
+    ],
+    "information_sessions": [],
+    "application_deadlines": [],
+    "links": [
+      "https://www.hyperionlyceum.nl/",
+      "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/hyperion-lyceum-vova/",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=1028128",
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/4463/hyperion-lyceum/"
+    ],
+    "admission_info": [
+      "Voorrangsregels: geen voorrangsregels"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "Modern building on Overhoeks with excellent facilities",
+      "Outstanding safety score (9.5/10)",
+      "Good school climate score (7.7/10)",
+      "Bureau V program for accelerated or deepened learning",
+      "Choice lessons allowing subject focus",
+      "Gymnasium and Atheneum+ tracks",
+      "Part of VOvA network (Voortgezet Onderwijs van Amsterdam)",
+      "Music studios, ateliers, workshops, and auditorium",
+      "Emphasis on developing critical, empathetic, socially-involved citizens",
+      "Contemporary education methods",
+      "Public (openbaar) school - inclusive and diverse"
+    ],
+    "considerations": [
+      "Located in Amsterdam Noord (Overhoeks) - significant commute from Amstelveen",
+      "VWO-only school",
+      "Relatively new school compared to historical gymnasiums"
+    ],
+    "best_fit_for": [
+      "Students seeking modern, contemporary educational environment",
+      "Students interested in accelerated or deepened learning (Bureau V)",
+      "Students wanting choice in subject focus",
+      "Families valuing high safety standards",
+      "Students interested in music, arts, and creative workshops",
+      "Students seeking to develop social involvement and critical thinking",
+      "Families preferring public (openbaar) education"
+    ],
+    "summary": "Hyperion Lyceum is a modern public VWO school in Amsterdam Noord (Overhoeks) offering Gymnasium and Atheneum+ tracks with exceptional facilities. Part of the VOvA network, the school guides students to become critical and empathetic thinkers with active social involvement. With an outstanding safety score of 9.5/10 and good school climate (7.7/10), Hyperion offers contemporary education including Bureau V for accelerated learning, choice lessons, and excellent facilities including music studios, ateliers, workshops, study labs, and an auditorium. The school emphasizes developing engaged citizens through modern educational methods."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.368178",
+    "data_sources": [
+      "https://www.hyperionlyceum.nl/",
+      "School website",
+      "onderwijsconsument.nl API",
+      "DUO exam results",
+      "schoolkeuze020.nl open dagen 2026",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.7,
+    "google_maps_enriched": true
+  }
+}

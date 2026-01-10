@@ -1,0 +1,232 @@
+{
+  "id": "comenius-lyceum-amsterdam",
+  "basic_info": {
+    "name": "Comenius Lyceum Amsterdam",
+    "official_name": "Comenius Lyceum Amsterdam",
+    "address": "Jacob Geelstraat 38",
+    "city": "Amsterdam",
+    "postal_code": "1065 VT",
+    "contact": {
+      "phone": "020-614 03 05",
+      "email": "comenius@comeniuslyceum.nl",
+      "website": "https://www.comeniuslyceum.nl/"
+    },
+    "type": [
+      "VWO",
+      "HAVO",
+      "MAVO"
+    ],
+    "religious_affiliation": "interconfessioneel",
+    "enrollment": {
+      "total": 831,
+      "by_program": {
+        "mavo": null,
+        "havo": null,
+        "vwo": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    },
+    "formatted_address": "Amsterdam, Netherlands"
+  },
+  "academic_performance": {
+    "exam_scores": {},
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [
+      "VWO+ Program - accelerated two-year initiative for advanced VWO students",
+      "IT/Technology Lab - applied innovation and emerging tech applications",
+      "Youth Court (Jongerenrechtbank) - officially appointed by Amsterdam district court",
+      "Language support services"
+    ],
+    "extracurricular_activities": [
+      "Youth Court experiences",
+      "Field trips and educational excursions",
+      "Student voice through intramar participation structures"
+    ]
+  },
+  "facilities": {
+    "classrooms_labs_quality": "IT/Technology Lab for applied innovation",
+    "sports_facilities": [],
+    "library": {},
+    "technology": {
+      "it_lab": "Focuses on applied innovation and emerging tech",
+      "description": "computers in de mediatheek, mavoleerlingen krijgen Chromebook in bruikleen (naast boeken)"
+    }
+  },
+  "student_support": {
+    "counseling": "Guidance programs for student development",
+    "newcomers_class": null,
+    "language_support": [
+      "Language support services available"
+    ],
+    "special_education": [
+      "Remedial teaching",
+      "Toetstijd",
+      "Aangepaste toetsen",
+      "Digitale hulpmiddelen",
+      "Schriftelijke hulpmiddelen"
+    ],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [
+      "kluisjescontrole",
+      "Ghostbuster-software voor veilig gebruik sociale media en voorkomen cyberpesten"
+    ],
+    "diversity": {},
+    "parent_involvement": null,
+    "culture_values": "Vision centers on comprehensive student development alongside academic excellence. Offers 'a strong foundation' with emphasis on pleasant atmosphere and highly engaged teaching staff. Located in Amsterdam Nieuw-West. Celebrated 25 years of operation."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3675734,
+      "lon": 4.9041389
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Oranjebaan (TRAM: 5)",
+        "Zuid (SUBWAY: 50)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 46,
+        "duration_text": "46 mins",
+        "transfers": 1,
+        "routes": [
+          {
+            "line": "5",
+            "vehicle": "TRAM",
+            "from": "Amstelveen, Oranjebaan",
+            "to": "Station Zuid"
+          },
+          {
+            "line": "50",
+            "vehicle": "SUBWAY",
+            "from": "Zuid",
+            "to": "Amsterdam Lelylaan"
+          }
+        ],
+        "departure_time": "8:03 AM",
+        "arrival_time": "8:49 AM"
+      },
+      "accessibility_info": "metro 50, tram 1, 17, bus 18, 62 en 63 halte Lelylaan of Justus Lipsiusstraat "
+    },
+    "bike_accessibility": {
+      "distance_km": 8.84,
+      "duration_minutes": 28,
+      "distance_text": "8.8 km",
+      "duration_text": "28 mins",
+      "route_quality": "Moderate distance, typical bike commute"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 7.7,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 8.1
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 6.3,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 5.7
+      }
+    ],
+    "awards": [
+      "One of Amsterdam's most sought-after secondary schools",
+      "Celebrated 25 years of operation"
+    ],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-01-21",
+        "time": "13:45-16:00",
+        "type": "Lesson afternoon + tour",
+        "registration_required": false
+      },
+      {
+        "date": "2026-01-22",
+        "time": "17:30-20:30",
+        "type": "Evening session",
+        "registration_required": false
+      },
+      {
+        "date": "2026-01-23",
+        "time": "17:30-20:30",
+        "type": "Evening session",
+        "registration_required": false
+      },
+      {
+        "date": "2026-02-11",
+        "time": "13:45-16:00",
+        "type": "Lesson afternoon + tour",
+        "registration_required": false
+      }
+    ],
+    "information_sessions": [
+      "Open evenings for prospective Grade 8 students",
+      "Online orientation materials available year-round"
+    ],
+    "application_deadlines": [],
+    "links": [
+      "https://www.comeniuslyceum.nl/",
+      "Instagram: @comeniuslyceumamsterdam",
+      "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/comenius-lyceum-amsterdam/",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=299910",
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/4436/comenius-lyceum-amsterdam/"
+    ],
+    "admission_info": [
+      "Voorrangsregels: voorrang voor broertjes en/of zusjes van zittende leerlingen die op 1 oktober 2016 ingeschreven stonden "
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "25 years of proven educational excellence",
+      "One of Amsterdam's most sought-after secondary schools",
+      "Unique Youth Court program with official district court appointment",
+      "VWO+ accelerated program for advanced students",
+      "IT/Technology Lab for innovation focus",
+      "Strong foundation with pleasant atmosphere",
+      "Highly engaged teaching staff",
+      "Comprehensive student development focus",
+      "Language support services",
+      "Student voice through participation structures",
+      "Multiple educational tracks (MAVO, HAVO, VWO)"
+    ],
+    "considerations": [
+      "Located in Amsterdam Nieuw-West - commute from Amstelveen required",
+      "Popular school may have competitive admissions"
+    ],
+    "best_fit_for": [
+      "Advanced students interested in VWO+ accelerated program",
+      "Students interested in technology and innovation",
+      "Students wanting to experience the justice system (Youth Court)",
+      "Families seeking comprehensive student development",
+      "Students who need language support",
+      "Students of various academic levels (MAVO through VWO)",
+      "Families valuing proven track record and reputation"
+    ],
+    "summary": "Comenius Lyceum Amsterdam is one of Amsterdam's most sought-after secondary schools, celebrating 25 years of educational excellence in Nieuw-West. Offering MAVO, HAVO, and VWO education with a strong foundation and highly engaged staff, the school emphasizes comprehensive student development. Unique features include an official Youth Court (Jongerenrechtbank) appointed by Amsterdam's district court, a VWO+ accelerated program for advanced students, and an IT/Technology Lab focused on innovation. The school provides language support, guidance programs, and student voice through participation structures, creating a pleasant atmosphere for learning and growth."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.318083",
+    "data_sources": [
+      "https://www.comeniuslyceum.nl/",
+      "School website",
+      "onderwijsconsument.nl API",
+      "schoolkeuze020.nl open dagen 2026",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.6,
+    "google_maps_enriched": true
+  }
+}

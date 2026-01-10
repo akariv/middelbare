@@ -1,0 +1,209 @@
+{
+  "id": "lumion-amsterdam",
+  "basic_info": {
+    "name": "Lumion",
+    "official_name": "Lumion",
+    "address": "Vlaardingenlaan 25",
+    "city": "Amsterdam",
+    "postal_code": "1062 HM",
+    "contact": {
+      "phone": "0207901777",
+      "email": "info@lumion.amsterdam",
+      "website": "https://lumion.amsterdam"
+    },
+    "type": [
+      "VWO",
+      "HAVO",
+      "VMBO-T"
+    ],
+    "religious_affiliation": "Public (openbaar onderwijs)",
+    "enrollment": {
+      "total": 1518,
+      "by_program": {
+        "vmbo_t": null,
+        "havo": null,
+        "vwo": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    },
+    "formatted_address": "Amsterdam, Netherlands"
+  },
+  "academic_performance": {
+    "exam_scores": {
+      "vmbo": {
+        "pass_rate_2024_2025": 74.2,
+        "candidates_2024_2025": 215,
+        "passed_2024_2025": 160,
+        "average_pass_rate_5yr": 77.5
+      },
+      "havo": {
+        "pass_rate_2024_2025": 71.4,
+        "candidates_2024_2025": 251,
+        "passed_2024_2025": 179,
+        "average_pass_rate_5yr": 67.1
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 61.5,
+        "candidates_2024_2025": 109,
+        "passed_2024_2025": 67,
+        "average_pass_rate_5yr": 72.8
+      }
+    },
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [],
+    "extracurricular_activities": [
+      "sportactiviteiten"
+    ]
+  },
+  "facilities": {
+    "classrooms_labs_quality": "monument (1972, architect Ben Ingwersen), renovatie met nieuwbouw en sporthal (2019, architecten Dorte Kristensen en Martijn de Visser, Atelier Pro)",
+    "sports_facilities": [],
+    "library": {},
+    "technology": {
+      "description": "iPads met digitiaal lesmateriaal via apps"
+    }
+  },
+  "student_support": {
+    "counseling": "coach (wekelijks voortgangsgesprek over resultaten, planning, studievaardigheden)",
+    "newcomers_class": null,
+    "language_support": [],
+    "special_education": [
+      "coach als leerlingbegeleider",
+      "remedial teachter voor ondersteuning bij Nederlands en Engels",
+      "verzuimbegeleiding GGD",
+      "Remedial teaching",
+      "Digitale hulpmiddelen"
+    ],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [
+      "beveiligingscamera’s",
+      "hekken",
+      "in pauze surveillance door conciërges en docenten",
+      "veligheidscoördinator"
+    ],
+    "diversity": {},
+    "parent_involvement": null,
+    "culture_values": "School name suggests focus on light, enlightenment, and illumination in education."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3675734,
+      "lon": 4.9041389
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Oranjebaan (TRAM: 5)",
+        "Zuid (SUBWAY: 50)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 36,
+        "duration_text": "36 mins",
+        "transfers": 1,
+        "routes": [
+          {
+            "line": "5",
+            "vehicle": "TRAM",
+            "from": "Amstelveen, Oranjebaan",
+            "to": "Station Zuid"
+          },
+          {
+            "line": "50",
+            "vehicle": "SUBWAY",
+            "from": "Zuid",
+            "to": "Henk Sneevlietweg"
+          }
+        ],
+        "departure_time": "8:03 AM",
+        "arrival_time": "8:39 AM"
+      },
+      "accessibility_info": "metro 50 en 51 halte Henk Sneevlietweg, bus 62 halte Vlaardingenlaan"
+    },
+    "bike_accessibility": {
+      "distance_km": 6.79,
+      "duration_minutes": 22,
+      "distance_text": "6.8 km",
+      "duration_text": "22 mins",
+      "route_quality": "Moderate distance, typical bike commute"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 7.6,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 7.7
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 7.2,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 6.4
+      }
+    ],
+    "awards": [],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-01-27",
+        "time": "18:30-21:00",
+        "type": "Evening session",
+        "registration_required": true
+      },
+      {
+        "date": "2026-02-10",
+        "time": "18:30-21:00",
+        "type": "Evening session",
+        "registration_required": true
+      }
+    ],
+    "information_sessions": [],
+    "application_deadlines": [],
+    "links": [
+      "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/calandlyceum-2",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=1268660",
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/22447/lumion/"
+    ],
+    "admission_info": [
+      "Voorrangsregels: voorrang voor kinderen van personeelsleden die op 1 oktober 2016 in dienst waren van het schoolbestuur"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "Multiple educational tracks (VMBO-T, HAVO, VWO)",
+      "Name suggests enlightenment and illumination focus"
+    ],
+    "considerations": [
+      "Very limited publicly available information",
+      "Commute from Amstelveen required"
+    ],
+    "best_fit_for": [
+      "Students of various academic levels (VMBO-T through VWO)",
+      "Students seeking comprehensive education"
+    ],
+    "summary": "Lumion is a secondary school in Amsterdam offering VMBO-T, HAVO, and VWO education, with a name suggesting focus on enlightenment and illumination in learning."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.383937",
+    "data_sources": [
+      "Schools list",
+      "onderwijsconsument.nl API",
+      "DUO exam results",
+      "schoolkeuze020.nl open dagen 2026",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.35,
+    "google_maps_enriched": true
+  }
+}

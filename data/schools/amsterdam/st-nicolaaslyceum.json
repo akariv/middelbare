@@ -1,0 +1,237 @@
+{
+  "id": "st-nicolaaslyceum-amsterdam",
+  "basic_info": {
+    "name": "St. Nicolaaslyceum",
+    "official_name": "St. Nicolaaslyceum",
+    "address": "Beethovenplein 2",
+    "city": "Amsterdam",
+    "postal_code": "1077 WM",
+    "contact": {
+      "phone": "020-644 51 51",
+      "email": "sint@nicolaas.nl",
+      "website": "https://www.nicolaas.nl/"
+    },
+    "type": [
+      "VWO",
+      "HAVO"
+    ],
+    "religious_affiliation": "Catholic (SVOAZ foundation) - open to all faiths",
+    "enrollment": {
+      "total": 1216,
+      "by_program": {
+        "havo": null,
+        "vwo": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    }
+  },
+  "academic_performance": {
+    "exam_scores": {
+      "havo": {
+        "pass_rate_2024_2025": 84.2,
+        "candidates_2024_2025": 101,
+        "passed_2024_2025": 85,
+        "average_pass_rate_5yr": 92.7
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 92.8,
+        "candidates_2024_2025": 110,
+        "passed_2024_2025": 102,
+        "average_pass_rate_5yr": 95.3
+      }
+    },
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [
+      "Tweetalig onderwijs (bilingual education)",
+      "Sport+ program for athletically-focused students",
+      "BSM Classes (Bewegen, sport en maatschappij - movement, sports, and society)",
+      "International outlook component",
+      "Talent development in sports, creative pursuits, languages"
+    ],
+    "extracurricular_activities": [
+      "GSA (Gender-Sexuality Alliance)",
+      "Sports programs",
+      "Creative pursuits programs",
+      "International programs",
+      "Topscore",
+      "atletiekdag",
+      "Artis",
+      "schoolfeest",
+      "het Grote Gebeuren (open podium en feest rond 5 december)"
+    ]
+  },
+  "facilities": {
+    "classrooms_labs_quality": "Own building in Amsterdam Zuid",
+    "sports_facilities": [
+      "Sport+ program facilities"
+    ],
+    "library": {},
+    "technology": {}
+  },
+  "student_support": {
+    "counseling": "Basic and enhanced support available",
+    "newcomers_class": null,
+    "language_support": [
+      "Bilingual education program"
+    ],
+    "special_education": [
+      "Basisondersteuning (basic support)",
+      "Extra ondersteuning (enhanced support)",
+      "orthopedagoog",
+      "verzuimbegeleiding GGD",
+      "Toetstijd",
+      "Aangepaste toetsen",
+      "Overige ondersteuningsmogelijkheden"
+    ],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [
+      "kluisjes",
+      "camera's",
+      "antipestbeleid",
+      "incidentenprotocol"
+    ],
+    "diversity": {
+      "note": "Welcomes students of all cultural backgrounds and faiths despite Catholic foundation"
+    },
+    "parent_involvement": null,
+    "culture_values": "An authentic Amsterdam secondary school operating as an open Catholic institution. Emphasizes that students and staff feel seen, heard, and safe. Part of SVOAZ foundation (Stichting V.O. Amsterdam-Zuid)."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3532,
+      "lon": 4.8824
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Oranjebaan (TRAM: 5)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 24,
+        "duration_text": "24 mins",
+        "transfers": 0,
+        "routes": [
+          {
+            "line": "5",
+            "vehicle": "TRAM",
+            "from": "Amstelveen, Oranjebaan",
+            "to": "Prinses Irenestraat"
+          }
+        ],
+        "departure_time": "8:03 AM",
+        "arrival_time": "8:27 AM"
+      },
+      "accessibility_info": "metro 50, 52, 51 halte Zuid, tram 5, bus 65 en 612 halte Prinses Irenestraat"
+    },
+    "bike_accessibility": {
+      "distance_km": 5.07,
+      "duration_minutes": 16,
+      "distance_text": "5.1 km",
+      "duration_text": "17 mins",
+      "route_quality": "Short distance, easy bike commute"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 7.6,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 7.8
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 6.5,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 5.8
+      }
+    ],
+    "awards": [],
+    "alumni_stories": [
+      "Strong alumni network (Myrakel)"
+    ]
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-01-24",
+        "time": "10:00-16:00",
+        "type": "Open day",
+        "registration_required": false,
+        "notes": "Free exploration encouraged"
+      },
+      {
+        "date": "2026-02-11",
+        "time": "",
+        "type": "Discovery tour",
+        "registration_required": true,
+        "notes": "Registration opens Feb 2"
+      }
+    ],
+    "information_sessions": [
+      "Touring program for prospective eighth-grade students",
+      "Enrollment inquiries for grades 1-6 through registration portal"
+    ],
+    "application_deadlines": [],
+    "links": [
+      "https://www.nicolaas.nl/",
+      "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/st-nicolaaslyceum/",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=275906",
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/1437/st-nicolaaslyceum/"
+    ],
+    "admission_info": [
+      "Voorrangsregels: voorrang voor kinderen van personeelsleden die op 1 oktober 2016 in dienst waren van het schoolbestuur"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "Located in Amsterdam Zuid at Beethovenplein",
+      "Part of prestigious SVOAZ foundation",
+      "Bilingual education program",
+      "Specialized Sport+ program for athletic students",
+      "Open Catholic school welcoming all cultural backgrounds and faiths",
+      "Strong emphasis on inclusion and safety",
+      "International outlook and perspective",
+      "BSM specialized tracks for sports and society",
+      "Active student organizations including GSA",
+      "Strong alumni network"
+    ],
+    "considerations": [
+      "Catholic affiliation, though open to all",
+      "Commute from Amstelveen required",
+      "HAVO/VWO only, no VMBO options"
+    ],
+    "best_fit_for": [
+      "Students interested in bilingual education",
+      "Athletically-focused students (Sport+ program)",
+      "Students from diverse cultural backgrounds",
+      "Families valuing inclusive, safe environment",
+      "Students interested in international perspectives",
+      "Students seeking sports and society focus (BSM)",
+      "Families comfortable with open Catholic values"
+    ],
+    "summary": "St. Nicolaaslyceum is an authentic Amsterdam secondary school in Zuid offering HAVO and VWO education with a welcoming, inclusive approach. Part of the SVOAZ foundation, this open Catholic school welcomes students of all cultural backgrounds and faiths. The school offers bilingual education, a specialized Sport+ program, BSM classes, and international perspectives. With strong emphasis on ensuring students and staff feel seen, heard, and safe, St. Nicolaaslyceum develops talents in sports, creative pursuits, languages, and international preparation."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.413932",
+    "data_sources": [
+      "https://www.nicolaas.nl/",
+      "https://svoaz.nl/onze-scholen",
+      "School website",
+      "onderwijsconsument.nl API",
+      "DUO exam results",
+      "schoolkeuze020.nl open dagen 2026",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.65,
+    "google_maps_enriched": true
+  }
+}

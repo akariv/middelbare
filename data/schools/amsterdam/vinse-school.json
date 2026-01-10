@@ -1,0 +1,198 @@
+{
+  "id": "vinse-school-amsterdam",
+  "basic_info": {
+    "name": "Vinse School",
+    "official_name": "Vinse School",
+    "address": "Haarlemmerstraat  132-136",
+    "city": "Amsterdam",
+    "postal_code": "1013 EX",
+    "contact": {
+      "phone": "0203031020",
+      "email": "info@vinseschool.nl",
+      "website": "http://www.vinseschool.nl"
+    },
+    "type": [
+      "VWO",
+      "HAVO",
+      "VMBO-T"
+    ],
+    "religious_affiliation": "interconfessioneel",
+    "enrollment": {
+      "total": 373,
+      "by_program": {
+        "vmbo_t": null,
+        "havo": null,
+        "vwo": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    },
+    "formatted_address": "Amsterdam, Netherlands"
+  },
+  "academic_performance": {
+    "exam_scores": {
+      "vmbo": {
+        "pass_rate_2024_2025": 89.9,
+        "candidates_2024_2025": 267,
+        "passed_2024_2025": 240,
+        "average_pass_rate_5yr": 92.4
+      },
+      "havo": {
+        "pass_rate_2024_2025": 85.0,
+        "candidates_2024_2025": 187,
+        "passed_2024_2025": 159,
+        "average_pass_rate_5yr": 84.6
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 83.8,
+        "candidates_2024_2025": 99,
+        "passed_2024_2025": 83,
+        "average_pass_rate_5yr": 90.2
+      }
+    },
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [],
+    "extracurricular_activities": [
+      "werkweek",
+      "internationale uitwisselingen"
+    ]
+  },
+  "facilities": {
+    "classrooms_labs_quality": "voormalige St. Antonia Meisjesschool",
+    "sports_facilities": [],
+    "library": {},
+    "technology": {}
+  },
+  "student_support": {
+    "counseling": null,
+    "newcomers_class": null,
+    "language_support": [],
+    "special_education": [
+      "Toetstijd",
+      "Aangepaste toetsen",
+      "Schriftelijke hulpmiddelen",
+      "Overige ondersteuningsmogelijkheden"
+    ],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [],
+    "diversity": {},
+    "parent_involvement": null,
+    "culture_values": "Secondary education school offering multiple tracks."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3675734,
+      "lon": 4.9041389
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Oranjebaan (TRAM: 5)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 53,
+        "duration_text": "54 mins",
+        "transfers": 0,
+        "routes": [
+          {
+            "line": "5",
+            "vehicle": "TRAM",
+            "from": "Amstelveen, Oranjebaan",
+            "to": "Nassaukade"
+          }
+        ],
+        "departure_time": "8:03 AM",
+        "arrival_time": "8:56 AM"
+      },
+      "accessibility_info": "bus 18, 21 en 22 halte Buiten Brouwersstraat, 10 minuten loopafstand Amsterdam CS"
+    },
+    "bike_accessibility": {
+      "distance_km": 10.66,
+      "duration_minutes": 36,
+      "distance_text": "10.7 km",
+      "duration_text": "36 mins",
+      "route_quality": "Long distance, may prefer public transport"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 8.1,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 8.5
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 7.0,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 7.0
+      }
+    ],
+    "awards": [],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-01-17",
+        "time": "11:00-12:00",
+        "type": "Open day",
+        "registration_required": true,
+        "notes": "Time slot registration"
+      },
+      {
+        "date": "2026-01-17",
+        "time": "12:00-13:00",
+        "type": "Open day",
+        "registration_required": true,
+        "notes": "Time slot registration"
+      }
+    ],
+    "information_sessions": [],
+    "application_deadlines": [],
+    "links": [
+      "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/vinse-school/",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=1775762",
+      "https://scholenopdekaart.nl/middelbare-scholen/23755/Vinse-School?school=23755&presentatie=1&sortering=2"
+    ],
+    "admission_info": [
+      "Voorrangsregels: voorrang voor broertjes en/of zusjes van zittende leerlingen die op 1 oktober 2016 ingeschreven stonden",
+      "Toelating: oriëntatie-activiteit en toelatingsgesprek (gekeken wordt naar belangstelling kunstvakken en technieken, eigenzinnigheid, nieuwsgierigheid en bereidheid samen te werken)"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "Multiple educational tracks (VMBO-T, HAVO, VWO)",
+      "Comprehensive education offering"
+    ],
+    "considerations": [
+      "Very limited publicly available information",
+      "Commute from Amstelveen required"
+    ],
+    "best_fit_for": [
+      "Students of various academic levels (VMBO-T through VWO)",
+      "Students seeking comprehensive secondary education"
+    ],
+    "summary": "Vinse School is a secondary school in Amsterdam offering VMBO-T, HAVO, and VWO education across multiple educational tracks."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.417935",
+    "data_sources": [
+      "Schools list",
+      "onderwijsconsument.nl API",
+      "DUO exam results",
+      "schoolkeuze020.nl open dagen 2026",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.35,
+    "google_maps_enriched": true
+  }
+}

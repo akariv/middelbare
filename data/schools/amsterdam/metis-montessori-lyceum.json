@@ -1,0 +1,220 @@
+{
+  "id": "metis-montessori-lyceum-amsterdam",
+  "basic_info": {
+    "name": "Metis Montessori Lyceum",
+    "official_name": "Metis Montessori Lyceum",
+    "address": "Mauritskade 58",
+    "city": "Amsterdam",
+    "postal_code": "1092 AD",
+    "contact": {
+      "phone": "0205979300",
+      "email": "info.mml@msa.nl",
+      "website": "http://www.hetmml.nl"
+    },
+    "type": [
+      "VWO",
+      "HAVO"
+    ],
+    "religious_affiliation": "None (Montessori)",
+    "enrollment": {
+      "total": 1035,
+      "by_program": {
+        "havo": null,
+        "vwo": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    },
+    "formatted_address": "Amsterdam, Netherlands"
+  },
+  "academic_performance": {
+    "exam_scores": {
+      "vmbo": {
+        "pass_rate_2024_2025": 92.0,
+        "candidates_2024_2025": 237,
+        "passed_2024_2025": 218,
+        "average_pass_rate_5yr": 93.7
+      },
+      "havo": {
+        "pass_rate_2024_2025": 78.2,
+        "candidates_2024_2025": 310,
+        "passed_2024_2025": 242,
+        "average_pass_rate_5yr": 83.0
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 86.4,
+        "candidates_2024_2025": 257,
+        "passed_2024_2025": 222,
+        "average_pass_rate_5yr": 87.1
+      }
+    },
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [
+      "Montessori education methodology",
+      "Self-directed learning approach"
+    ],
+    "extracurricular_activities": [
+      "projecten",
+      "workshops",
+      "cursussen",
+      "evenementen"
+    ]
+  },
+  "facilities": {
+    "classrooms_labs_quality": "Montessori learning environment",
+    "sports_facilities": [],
+    "library": {},
+    "technology": {
+      "description": "smartboards, laptops, iPads"
+    }
+  },
+  "student_support": {
+    "counseling": "mentor helpt met zelfstandig werken volgens montessoriconcept",
+    "newcomers_class": null,
+    "language_support": [],
+    "special_education": [
+      "autiklas (onderbouw)",
+      "verzuimbegeleiding GGD",
+      "Toetstijd",
+      "Aangepaste toetsen",
+      "Digitale hulpmiddelen"
+    ],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [
+      "kluisjes",
+      "problemen bespreekbaar maken",
+      "Nederlands spreken"
+    ],
+    "diversity": {},
+    "parent_involvement": "Active parent involvement typical of Montessori schools",
+    "culture_values": "Montessori pedagogy emphasizing self-directed learning, independence, and personal development in HAVO/VWO environment."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3675734,
+      "lon": 4.9041389
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Oranjebaan (TRAM: 5)",
+        "Roelof Hartplein (TRAM: 3)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 53,
+        "duration_text": "54 mins",
+        "transfers": 0,
+        "routes": [
+          {
+            "line": "5",
+            "vehicle": "TRAM",
+            "from": "Amstelveen, Oranjebaan",
+            "to": "Roelof Hartplein"
+          },
+          {
+            "line": "3",
+            "vehicle": "TRAM",
+            "from": "Roelof Hartplein",
+            "to": "Beukenweg"
+          }
+        ],
+        "departure_time": "8:03 AM",
+        "arrival_time": "8:56 AM"
+      },
+      "accessibility_info": "metro 51, 53, 54 halte Weesperplein, tram 1 en 3 halte Beukenweg, tram 7 halte Weesperplein, tram 14 en 19 halte Alexanderplein, bus 37 halte Beukenplein"
+    },
+    "bike_accessibility": {
+      "distance_km": 10.45,
+      "duration_minutes": 33,
+      "distance_text": "10.5 km",
+      "duration_text": "33 mins",
+      "route_quality": "Long distance, may prefer public transport"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 8.6,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 9.1
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 7.1,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 6.9
+      }
+    ],
+    "awards": [],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-01-22",
+        "time": "18:00-20:30",
+        "type": "Evening session",
+        "registration_required": true,
+        "notes": "Time slot registration"
+      },
+      {
+        "date": "2026-01-23",
+        "time": "15:00-18:00",
+        "type": "Open day",
+        "registration_required": true,
+        "notes": "Time slot registration"
+      }
+    ],
+    "information_sessions": [],
+    "application_deadlines": [],
+    "links": [
+      "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/metis-montessori-lyceum-havo-vwo",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=277044",
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/686/metis-montessori-lyceum-vwo-havo/"
+    ],
+    "admission_info": [
+      "Voorrangsregels: voorrang voor leerlingen van een montessoribasisschool "
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "Montessori methodology for HAVO/VWO students",
+      "Self-directed learning approach",
+      "Focus on independence and personal development",
+      "Student-centered education"
+    ],
+    "considerations": [
+      "HAVO/VWO only, no VMBO options",
+      "Montessori approach requires self-motivation",
+      "Commute from Amstelveen required",
+      "Limited publicly available information"
+    ],
+    "best_fit_for": [
+      "Students thriving with Montessori self-directed learning",
+      "Independent, self-motivated HAVO/VWO students",
+      "Families valuing progressive education",
+      "Students seeking student-centered environment"
+    ],
+    "summary": "Metis Montessori Lyceum is a Montessori secondary school in Amsterdam offering HAVO and VWO education with emphasis on self-directed learning, independence, and personal development through the Montessori methodology."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.386108",
+    "data_sources": [
+      "Schools list",
+      "onderwijsconsument.nl API",
+      "DUO exam results",
+      "schoolkeuze020.nl open dagen 2026",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.4,
+    "google_maps_enriched": true
+  }
+}

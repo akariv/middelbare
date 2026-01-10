@@ -1,0 +1,222 @@
+{
+  "id": "spinoza-lyceum-amsterdam",
+  "basic_info": {
+    "name": "Spinoza Lyceum",
+    "official_name": "Het Dalton Spinoza Lyceum",
+    "address": "Peter van Anrooystraat 8",
+    "city": "Amsterdam",
+    "postal_code": "1076 BH",
+    "contact": {
+      "phone": "020-577 74 44",
+      "email": "info@spinozalyceum.nl",
+      "website": "https://www.spinozalyceum.nl/"
+    },
+    "type": [
+      "VWO",
+      "HAVO",
+      "VMBO-T",
+      "Gymnasium"
+    ],
+    "religious_affiliation": "Public (openbaar onderwijs)",
+    "enrollment": {
+      "total": 1307,
+      "by_program": {
+        "vmbo_t": null,
+        "havo": null,
+        "vwo": null,
+        "gymnasium": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    }
+  },
+  "academic_performance": {
+    "exam_scores": {},
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [
+      "Dalton education - individualized learning and student autonomy",
+      "Gymnasium track",
+      "Arts and cultural education (Kunst- en cultuurschool)",
+      "KuBv (visual arts program)",
+      "Erasmus+ international exchange programs",
+      "Global citizenship (wereldburgerschap) projects"
+    ],
+    "extracurricular_activities": [
+      "International exchange programs (Erasmus+)",
+      "Arts and cultural programs",
+      "Visual arts (KuBv)",
+      "Student council (leerlingenraad)",
+      "topscore",
+      "brugklasmusical",
+      "grote musical- en dansproducties",
+      "open podium",
+      "Rozentuinfestival"
+    ]
+  },
+  "facilities": {
+    "classrooms_labs_quality": "Dalton learning environment with focus on autonomy",
+    "sports_facilities": [],
+    "library": {},
+    "technology": {
+      "virtual_tours": "Virtual campus tours available",
+      "description": "mediatheek met iMacs, verplicht iPads voor brugklas"
+    }
+  },
+  "student_support": {
+    "counseling": "Comprehensive student guidance services",
+    "newcomers_class": null,
+    "language_support": [
+      "Classical languages (Gymnasium)",
+      "International programs"
+    ],
+    "special_education": [
+      "faalangstreductiebegeleiding",
+      "verzuimbegeleiding GGD",
+      "Digitale hulpmiddelen"
+    ],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [
+      "kluisjescontrole",
+      "veiligheidscoördinator"
+    ],
+    "diversity": {},
+    "parent_involvement": null,
+    "culture_values": "Motto: 'de kunst van het leren' (the art of learning). Operates as Dalton education institution focusing on individualized learning approaches and student autonomy. Emphasis on global citizenship through international projects. Part of Stichting Spinoza Lyceum."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3492,
+      "lon": 4.8576
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Oranjebaan (TRAM: 5)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 28,
+        "duration_text": "29 mins",
+        "transfers": 0,
+        "routes": [
+          {
+            "line": "5",
+            "vehicle": "TRAM",
+            "from": "Amstelveen, Oranjebaan",
+            "to": "Parnassusweg"
+          }
+        ],
+        "departure_time": "8:03 AM",
+        "arrival_time": "8:31 AM"
+      },
+      "accessibility_info": "trein, metro 50 en 51, tram 5 en 6 halte Station Zuid, tram 24 halte Olympiaplein, bus 15, 45, 55, 62, 65, 244, 341, 346 halte Station Zuid"
+    },
+    "bike_accessibility": {
+      "distance_km": 4.7,
+      "duration_minutes": 15,
+      "distance_text": "4.7 km",
+      "duration_text": "15 mins",
+      "route_quality": "Short distance, easy bike commute"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 8.6,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 9.2
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 7.0,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 5.9
+      }
+    ],
+    "awards": [],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-02-05",
+        "time": "18:30-21:00",
+        "type": "Open Day"
+      },
+      {
+        "date": "2026-02-06",
+        "time": "15:00-17:30",
+        "type": "Open Day"
+      },
+      {
+        "date": "2026-02-07",
+        "time": "10:00-13:00",
+        "type": "Open Day"
+      }
+    ],
+    "information_sessions": [
+      "Information for group 8 students available",
+      "Virtual campus tours available"
+    ],
+    "application_deadlines": [],
+    "links": [
+      "https://www.spinozalyceum.nl/",
+      "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/spinoza-lyceum/",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=279864",
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/2400/spinoza-lyceum-amsterdam/"
+    ],
+    "admission_info": [
+      "Voorrangsregels: voorrang voor leerlingen die van een daltonbasisschool komen",
+      "Toelating: leerlingen moeten bewust kiezen voor kunstklassen mavo (vmbo-t en vmbo-t/havo), auditie voor muziek+ (extra uren muziek voor havo en vwo leerlingen)\n"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "Dalton education approach with individualized learning and student autonomy",
+      "Arts and cultural education focus (Kunst- en cultuurschool)",
+      "Gymnasium track available",
+      "Erasmus+ international exchange programs",
+      "Global citizenship emphasis",
+      "Visual arts program (KuBv)",
+      "Multiple educational tracks (VMBO-T through Gymnasium)",
+      "Located in Amsterdam Zuid",
+      "Active student council involvement",
+      "Comprehensive student guidance services",
+      "Part of Stichting Spinoza Lyceum alongside Spinoza20first"
+    ],
+    "considerations": [
+      "Dalton method requires student self-direction and independence",
+      "Amsterdam Zuid location - commute from Amstelveen required",
+      "Arts and culture focus may appeal to specific student interests"
+    ],
+    "best_fit_for": [
+      "Self-directed, independent learners who thrive with autonomy",
+      "Students interested in arts and cultural education",
+      "Students seeking international experiences (Erasmus+)",
+      "Families valuing global citizenship development",
+      "Students interested in visual arts",
+      "Students wanting individualized learning approaches",
+      "Students of various academic levels (VMBO-T through Gymnasium)"
+    ],
+    "summary": "Het Dalton Spinoza Lyceum is an arts and cultural education school in Amsterdam Zuid offering VMBO-T, HAVO, VWO, and Gymnasium with the motto 'de kunst van het leren' (the art of learning). Operating under the Dalton education philosophy, the school emphasizes individualized learning, student autonomy, and global citizenship. Special programs include Erasmus+ international exchanges, visual arts (KuBv), and comprehensive arts and cultural education. Part of Stichting Spinoza Lyceum, the school provides comprehensive student guidance while developing independent, globally-minded learners."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.404058",
+    "data_sources": [
+      "https://www.spinozalyceum.nl/",
+      "School website",
+      "onderwijsconsument.nl API",
+      "schoolkeuze020.nl open dagen 2026",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.6,
+    "google_maps_enriched": true
+  }
+}

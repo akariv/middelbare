@@ -1,0 +1,22 @@
+# Python dependencies for school research tool
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Google Maps API client
+googlemaps>=4.10.0
+
+# Web scraping
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+lxml>=4.9.0
+
+# Data processing
+pandas>=2.0.0
+openpyxl>=3.1.0  # For reading Excel files
+
+# Web application
+streamlit>=1.30.0
+
+# Calendar/ICS file generation
+icalendar>=5.0.0

@@ -1,0 +1,190 @@
+{
+  "id": "montessori-lyceum-amsterdam",
+  "basic_info": {
+    "name": "Montessori Lyceum Amsterdam",
+    "official_name": "Montessori Lyceum Amsterdam (MLA)",
+    "address": "Pieter de Hoochstraat (main), Van Ostadestraat (lower grades)",
+    "city": "Amsterdam",
+    "postal_code": null,
+    "contact": {
+      "phone": "0206767855",
+      "email": "info.mla@msa.nl",
+      "website": "https://montessorilyceumamsterdam.nl/"
+    },
+    "type": [
+      "VWO",
+      "HAVO",
+      "VMBO-T",
+      "Gymnasium"
+    ],
+    "religious_affiliation": "None (Montessori)",
+    "enrollment": {
+      "total": 1028,
+      "by_program": {
+        "vmbo_t": null,
+        "havo": null,
+        "vwo": null,
+        "gymnasium": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    }
+  },
+  "academic_performance": {
+    "exam_scores": {
+      "note": "Scores at or around benchmark for all departments (recent year)"
+    },
+    "graduation_rates": {},
+    "student_teacher_ratio": 11.1,
+    "special_programs": [
+      "Montessori education methodology",
+      "Gymnasium program",
+      "Atheneum program"
+    ],
+    "extracurricular_activities": [
+      "bezoek voorstellingen en tentoonstellingen",
+      "diverse cursussen",
+      "eigen toneel- en muziekuitvoeringen"
+    ]
+  },
+  "facilities": {
+    "classrooms_labs_quality": "Currently under renovation, using temporary locations (2024-2025)",
+    "sports_facilities": [],
+    "library": {},
+    "technology": {
+      "description": "Magister voor opdrachten en toetsen, inzage cijfers (verslagen), absentie en voor plannen werktijd"
+    }
+  },
+  "student_support": {
+    "counseling": "mentor helpt met zelfstandig werken volgens montessorisysteem",
+    "newcomers_class": null,
+    "language_support": [],
+    "special_education": [
+      "verzuimbegeleiding GGD",
+      "Toetstijd",
+      "Aangepaste toetsen"
+    ],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [
+      "kluisjes",
+      "camera's",
+      "mediacoaches",
+      "vertrouwenspersonen",
+      "veiligheidscoördinator"
+    ],
+    "diversity": {},
+    "parent_involvement": null,
+    "culture_values": "First Montessori secondary school in the world. Montessori pedagogy emphasizing self-directed learning, hands-on activities, and collaborative play."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3515,
+      "lon": 4.8847
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Oranjebaan (TRAM: 5)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 34,
+        "duration_text": "34 mins",
+        "transfers": 0,
+        "routes": [
+          {
+            "line": "5",
+            "vehicle": "TRAM",
+            "from": "Amstelveen, Oranjebaan",
+            "to": "Concertgebouw"
+          }
+        ],
+        "departure_time": "8:03 AM",
+        "arrival_time": "8:37 AM"
+      },
+      "accessibility_info": "metro 52 halte De Pijp, tram 3, 5, 12 en 24 halte RoelofHartplein "
+    },
+    "bike_accessibility": {
+      "distance_km": 7.44,
+      "duration_minutes": 25,
+      "distance_text": "7.4 km",
+      "duration_text": "26 mins",
+      "route_quality": "Moderate distance, typical bike commute"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 8.0,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 7.9
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 6.8,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 6.2
+      }
+    ],
+    "awards": [
+      "First Montessori secondary school in the world"
+    ],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [],
+    "information_sessions": [],
+    "application_deadlines": [],
+    "links": [
+      "https://montessorilyceumamsterdam.nl/",
+      "https://www.hetmla.nl",
+      "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/montessori-lyceum-amsterdam-mla",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=277038",
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/684/montessori-lyceum-amsterdam-hoofdlocatie/"
+    ],
+    "admission_info": [
+      "Voorrangsregels: voorrang voor leerlingen van een montessoribasisschool"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "Historic significance as first Montessori secondary school globally",
+      "Proven Montessori methodology for secondary education",
+      "Multiple educational tracks (VMBO-T, HAVO, VWO, Gymnasium)",
+      "Good student-teacher ratio (11.1:1)",
+      "Located in Amsterdam-Zuid",
+      "Large school with 1526 students and 137 teachers"
+    ],
+    "considerations": [
+      "Currently undergoing renovation with temporary locations",
+      "Montessori approach may not suit all learning styles",
+      "Self-directed learning requires student motivation and independence"
+    ],
+    "best_fit_for": [
+      "Students who thrive with Montessori self-directed learning approach",
+      "Families valuing progressive, student-centered education",
+      "Students who benefit from hands-on, collaborative learning",
+      "Students of various academic levels (VMBO-T through Gymnasium)"
+    ],
+    "summary": "Montessori Lyceum Amsterdam (MLA) is the world's first Montessori secondary school, offering education from VMBO-T through Gymnasium using the renowned Montessori methodology. With 1526 students and a good teacher ratio, MLA provides a student-centered, self-directed learning environment in Amsterdam-Zuid. The school is currently undergoing renovations to improve facilities."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.389240",
+    "data_sources": [
+      "https://montessorilyceumamsterdam.nl/",
+      "Web search results",
+      "Scholen op de kaart",
+      "AlleCijfers.nl",
+      "onderwijsconsument.nl API",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.55,
+    "google_maps_enriched": true
+  }
+}

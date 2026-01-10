@@ -1,0 +1,191 @@
+{
+  "id": "hervormd-lyceum-zuid-amsterdam",
+  "basic_info": {
+    "name": "HLZ",
+    "official_name": "Het HLZ (Hervormd Lyceum Zuid)",
+    "address": "Brahmsstraat 7",
+    "city": "Amsterdam",
+    "postal_code": "1077 HE",
+    "contact": {
+      "phone": "020-662 79 83",
+      "email": null,
+      "website": "https://www.hlz.nl/"
+    },
+    "type": [
+      "VWO",
+      "HAVO"
+    ],
+    "religious_affiliation": "Protestant (Hervormd)",
+    "enrollment": {
+      "total": 963,
+      "by_program": {
+        "havo": null,
+        "vwo": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    }
+  },
+  "academic_performance": {
+    "exam_scores": {},
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [
+      "Transition norms for lower secondary students",
+      "Lateral entry opportunities for mid-stream enrollment"
+    ],
+    "extracurricular_activities": [
+      "Christmas musical performances",
+      "Purple Friday inclusion events",
+      "Class parties and social events",
+      "Instagram and TikTok community engagement"
+    ]
+  },
+  "facilities": {
+    "classrooms_labs_quality": "Small, atmospheric school buildings in the middle of Amsterdam South",
+    "sports_facilities": [],
+    "library": {},
+    "technology": {},
+    "additional_locations": "Dependance at Jan van Eijckstraat 21, 1077 LG Amsterdam"
+  },
+  "student_support": {
+    "counseling": "Student wellbeing protocols",
+    "newcomers_class": null,
+    "language_support": [],
+    "special_education": [],
+    "after_school_programs": [
+      "Study help and guidance services"
+    ]
+  },
+  "environment": {
+    "safety_measures": [
+      "Suspension and removal procedures documented"
+    ],
+    "diversity": {
+      "note": "Welcomes diverse students: From adventurer to study enthusiast and from quiet achiever to wise guy"
+    },
+    "parent_involvement": null,
+    "culture_values": "A pleasant and committed school where students can explore where their talents, weaknesses and possibilities lie. Values diversity and helps students grow both personally and in academic ambitions."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3512,
+      "lon": 4.8807
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Oranjebaan (TRAM: 5)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 26,
+        "duration_text": "26 mins",
+        "transfers": 0,
+        "routes": [
+          {
+            "line": "5",
+            "vehicle": "TRAM",
+            "from": "Amstelveen, Oranjebaan",
+            "to": "Gerrit van der Veenstr"
+          }
+        ],
+        "departure_time": "8:03 AM",
+        "arrival_time": "8:29 AM"
+      }
+    },
+    "bike_accessibility": {
+      "distance_km": 5.87,
+      "duration_minutes": 19,
+      "distance_text": "5.9 km",
+      "duration_text": "20 mins",
+      "route_quality": "Short distance, easy bike commute"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 7.2,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 6.5
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 6.4,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 5.7
+      }
+    ],
+    "awards": [
+      "Rosa Training School for educator development"
+    ],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-01-27",
+        "time": "16:00-20:00",
+        "type": "Open day",
+        "registration_required": false
+      },
+      {
+        "date": "2026-01-28",
+        "time": "13:30-17:00",
+        "type": "Open day",
+        "registration_required": false
+      }
+    ],
+    "information_sessions": [
+      "Open days available",
+      "Viewing days for prospective students",
+      "Trial lessons for grade 7/8 students"
+    ],
+    "application_deadlines": [],
+    "links": [
+      "https://www.hlz.nl/"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "Small, atmospheric buildings providing intimate learning environment",
+      "Located in desirable Amsterdam Zuid area",
+      "Part of Cedergroep school network providing resources and support",
+      "Rosa Training School designation showing commitment to teaching excellence",
+      "Strong focus on personal growth alongside academic development",
+      "Welcomes diverse student personalities and learning styles",
+      "Active community engagement through social media and events",
+      "Lateral entry opportunities for flexible enrollment"
+    ],
+    "considerations": [
+      "Protestant affiliation may be factor for some families",
+      "HAVO/VWO only, no VMBO options",
+      "Commute from Amstelveen required",
+      "Small school size may have limited facilities compared to larger schools"
+    ],
+    "best_fit_for": [
+      "Students seeking small, personal learning environment",
+      "Families valuing Protestant Christian education",
+      "Students who need to explore and discover their talents",
+      "Students wanting community-focused, intimate school culture",
+      "Families preferring Amsterdam Zuid location",
+      "Students with diverse personalities from quiet achievers to enthusiastic learners"
+    ],
+    "summary": "HLZ (Hervormd Lyceum Zuid) is a pleasant and committed Protestant school in Amsterdam Zuid offering HAVO and VWO education in small, atmospheric buildings. Part of the Cedergroep network and designated as a Rosa Training School, HLZ provides an intimate learning environment where students can explore their talents, weaknesses, and possibilities. The school welcomes diverse student personalities and emphasizes both personal and academic growth in a supportive community setting."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.358842",
+    "data_sources": [
+      "https://www.hlz.nl/",
+      "School website",
+      "schoolkeuze020.nl open dagen 2026",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.55,
+    "google_maps_enriched": true
+  }
+}

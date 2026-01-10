@@ -1,0 +1,157 @@
+{
+  "id": "vox-college-amsterdam",
+  "basic_info": {
+    "name": "Vox College",
+    "official_name": "Vox College",
+    "address": "Meeuwenlaan 132",
+    "city": "Amsterdam",
+    "postal_code": "1022 AM",
+    "contact": {
+      "phone": null,
+      "email": null,
+      "website": null
+    },
+    "type": [
+      "VWO",
+      "HAVO",
+      "VMBO"
+    ],
+    "religious_affiliation": "None",
+    "enrollment": {
+      "total": null,
+      "by_program": {
+        "vmbo": null,
+        "havo": null,
+        "vwo": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    },
+    "formatted_address": "Amsterdam, Netherlands"
+  },
+  "academic_performance": {
+    "exam_scores": {
+      "vmbo": {
+        "pass_rate_2024_2025": 84.8,
+        "candidates_2024_2025": 121,
+        "passed_2024_2025": 103,
+        "average_pass_rate_5yr": 91.1
+      },
+      "havo": {
+        "pass_rate_2024_2025": 63.5,
+        "candidates_2024_2025": 100,
+        "passed_2024_2025": 63,
+        "average_pass_rate_5yr": 72.2
+      },
+      "vwo": {
+        "pass_rate_2024_2025": 85.2,
+        "candidates_2024_2025": 145,
+        "passed_2024_2025": 123,
+        "average_pass_rate_5yr": 87.0
+      }
+    },
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [],
+    "extracurricular_activities": []
+  },
+  "facilities": {
+    "classrooms_labs_quality": null,
+    "sports_facilities": [],
+    "library": {},
+    "technology": {}
+  },
+  "student_support": {
+    "counseling": null,
+    "newcomers_class": null,
+    "language_support": [],
+    "special_education": [],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [],
+    "diversity": {},
+    "parent_involvement": null,
+    "culture_values": "School name 'Vox' (Latin for voice) suggests emphasis on student voice, expression, and communication."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3675734,
+      "lon": 4.9041389
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Oranjebaan (TRAM: 5)",
+        "Zuid (SUBWAY: 52)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 56,
+        "duration_text": "57 mins",
+        "transfers": 1,
+        "routes": [
+          {
+            "line": "5",
+            "vehicle": "TRAM",
+            "from": "Amstelveen, Oranjebaan",
+            "to": "Station Zuid"
+          },
+          {
+            "line": "52",
+            "vehicle": "SUBWAY",
+            "from": "Zuid",
+            "to": "Noorderpark"
+          }
+        ],
+        "departure_time": "8:03 AM",
+        "arrival_time": "8:59 AM"
+      }
+    },
+    "bike_accessibility": {
+      "distance_km": 12.84,
+      "duration_minutes": 45,
+      "distance_text": "12.8 km",
+      "duration_text": "45 mins",
+      "route_quality": "Long distance, may prefer public transport"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [],
+    "student_reviews": [],
+    "awards": [],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [],
+    "information_sessions": [],
+    "application_deadlines": [],
+    "links": []
+  },
+  "ai_analysis": {
+    "strengths": [
+      "Multiple educational tracks (VMBO, HAVO, VWO)",
+      "Name suggests emphasis on student voice and expression"
+    ],
+    "considerations": [
+      "Very limited publicly available information",
+      "Commute from Amstelveen required"
+    ],
+    "best_fit_for": [
+      "Students seeking to develop their voice and communication skills",
+      "Students of various academic levels",
+      "Students valuing expression and student input"
+    ],
+    "summary": "Vox College is a secondary school in Amsterdam offering VMBO, HAVO, and VWO education, with a name suggesting emphasis on student voice, expression, and communication."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:22:36.789468",
+    "data_sources": [
+      "Schools list",
+      "DUO exam results"
+    ],
+    "completeness_score": 0.35,
+    "google_maps_enriched": true
+  }
+}

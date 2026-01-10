@@ -1,0 +1,201 @@
+{
+  "id": "berlage-lyceum-amsterdam",
+  "basic_info": {
+    "name": "Berlage Lyceum",
+    "official_name": "Berlage Lyceum",
+    "address": "Pieter Lodewijk Takstraat 33",
+    "city": "Amsterdam",
+    "postal_code": "1073 KJ",
+    "contact": {
+      "phone": "0205721200",
+      "email": "info@berlage.espritscholen.nl",
+      "website": "https://berlage.espritscholen.nl"
+    },
+    "type": [
+      "VWO",
+      "HAVO",
+      "VMBO-T"
+    ],
+    "religious_affiliation": "Private non-denominational",
+    "enrollment": {
+      "total": 1209,
+      "by_program": {
+        "vmbo_t": null,
+        "havo": null,
+        "vwo": null
+      }
+    },
+    "hours": {
+      "school_days": "Monday-Friday",
+      "school_hours": null
+    },
+    "formatted_address": "Amsterdam, Netherlands"
+  },
+  "academic_performance": {
+    "exam_scores": {},
+    "graduation_rates": {},
+    "student_teacher_ratio": null,
+    "special_programs": [],
+    "extracurricular_activities": [
+      "Topscore",
+      "sportdagen",
+      "open podium"
+    ]
+  },
+  "facilities": {
+    "classrooms_labs_quality": "twee monumentale panden",
+    "sports_facilities": [],
+    "library": {},
+    "technology": {
+      "description": "iPads"
+    }
+  },
+  "student_support": {
+    "counseling": null,
+    "newcomers_class": null,
+    "language_support": [],
+    "special_education": [
+      "verzuimbegeleiding GGD",
+      "Remedial teaching",
+      "Toetstijd",
+      "Aangepaste toetsen",
+      "Digitale hulpmiddelen",
+      "Schriftelijke hulpmiddelen"
+    ],
+    "after_school_programs": []
+  },
+  "environment": {
+    "safety_measures": [
+      "videobewaking"
+    ],
+    "diversity": {},
+    "parent_involvement": null,
+    "culture_values": "School offering comprehensive education across multiple tracks."
+  },
+  "location": {
+    "coordinates": {
+      "lat": 52.3675734,
+      "lon": 4.9041389
+    },
+    "public_transport": {
+      "nearest_stops": [
+        "Amstelveen, Oranjebaan (TRAM: 5)",
+        "Museumplein (TRAM: 12)"
+      ],
+      "commute_from_home": {
+        "duration_minutes": 48,
+        "duration_text": "49 mins",
+        "transfers": 0,
+        "routes": [
+          {
+            "line": "5",
+            "vehicle": "TRAM",
+            "from": "Amstelveen, Oranjebaan",
+            "to": "Museumplein"
+          },
+          {
+            "line": "12",
+            "vehicle": "TRAM",
+            "from": "Museumplein",
+            "to": "Waalstraat"
+          }
+        ],
+        "departure_time": "8:03 AM",
+        "arrival_time": "8:51 AM"
+      },
+      "accessibility_info": "tram 3, 4, 12 en bus 62, 65, 245, 246, 284 halte Waalstraat of Amstelkade"
+    },
+    "bike_accessibility": {
+      "distance_km": 7.37,
+      "duration_minutes": 25,
+      "distance_text": "7.4 km",
+      "duration_text": "25 mins",
+      "route_quality": "Moderate distance, typical bike commute"
+    },
+    "accessibility_disabilities": null
+  },
+  "reviews_reputation": {
+    "parent_reviews": [
+      {
+        "overall_rating": 7.7,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "would_recommend": 7.6
+      }
+    ],
+    "student_reviews": [
+      {
+        "overall_rating": 6.4,
+        "year": "2021-2022",
+        "source": "onderwijsconsument.nl",
+        "voice_matters": 5.0
+      }
+    ],
+    "awards": [],
+    "alumni_stories": []
+  },
+  "practical_info": {
+    "open_days": [
+      {
+        "date": "2026-01-21",
+        "time": "14:00-16:00",
+        "type": "Lesson afternoon",
+        "registration_required": true
+      },
+      {
+        "date": "2026-02-05",
+        "time": "16:00-20:30",
+        "type": "Open day",
+        "registration_required": true
+      },
+      {
+        "date": "2026-02-06",
+        "time": "15:00-20:30",
+        "type": "Open day",
+        "registration_required": true
+      },
+      {
+        "date": "2026-02-07",
+        "time": "10:00-13:00",
+        "type": "Open day",
+        "registration_required": true
+      }
+    ],
+    "information_sessions": [],
+    "application_deadlines": [],
+    "links": [
+      "https://schoolwijzer.amsterdam.nl/nl/vo/vestiging/berlage-lyceum/",
+      "https://toezichtresultaten.onderwijsinspectie.nl/detail?id=1100730&name=havo&page=1",
+      "https://scholenopdekaart.nl/middelbare-scholen/amsterdam/1268/berlage-lyceum/"
+    ],
+    "admission_info": [
+      "Voorrangsregels: voorrang voor broertjes en/of zusjes van zittende leerlingen die op 1 oktober 2016 ingeschreven stonden"
+    ]
+  },
+  "ai_analysis": {
+    "strengths": [
+      "Multiple educational tracks (VMBO-T, HAVO, VWO)",
+      "Comprehensive education offering"
+    ],
+    "considerations": [
+      "Limited publicly available information",
+      "Commute from Amstelveen required"
+    ],
+    "best_fit_for": [
+      "Students seeking VMBO-T, HAVO, or VWO education",
+      "Students of various academic levels"
+    ],
+    "summary": "Berlage Lyceum is a secondary school in Amsterdam offering VMBO-T, HAVO, and VWO education across multiple educational tracks."
+  },
+  "metadata": {
+    "last_updated": "2026-01-09T18:47:51.308984",
+    "data_sources": [
+      "Schools list",
+      "onderwijsconsument.nl API",
+      "schoolkeuze020.nl open dagen 2026",
+      "onderwijsconsument.nl jaren/vo"
+    ],
+    "completeness_score": 0.35,
+    "google_maps_enriched": true
+  }
+}
