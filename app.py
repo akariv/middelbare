@@ -848,8 +848,7 @@ elif page == "⚙️ Customize Weights":
             st.rerun()
 
     with col2:
-        if st.button("📊 Apply & View Rankings"):
-            st.switch_page("app.py")
+        st.info("💡 Changes are applied automatically. Use the sidebar to view rankings.")
 
     # Show current weight distribution
     st.markdown("### Current Weight Distribution")
