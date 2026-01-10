@@ -155,7 +155,8 @@ def generate_ics_file(schools):
             event.add('dtstamp', datetime.now(amsterdam_tz))
 
             # Add unique ID
-            uid = f"{date_str}-{school['id']}-{time_str.replace(':', '')}@school-selector"
+            time_part = (time_str or '').replace(':', '') or 'no-time'
+            uid = f"{date_str}-{school['id']}-{time_part}@school-selector"
             event.add('uid', uid)
 
             cal.add_component(event)
