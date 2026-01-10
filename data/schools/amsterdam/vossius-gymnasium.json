@@ -108,9 +108,9 @@
       "accessibility_info": "metro 50, 51 en 52 halte Station Rai, tram 4 Station Rai, tram 12 halte Scheldestraat en tram 24 halte Beethovenstraat, bus 65 halte Scheldestraat en bus 612 halte Guido Gezellestraat"
     },
     "bike_accessibility": {
-      "distance_km": 6.0,
-      "duration_minutes": 20,
-      "distance_text": "6.0 km",
+      "distance_km": 6.11,
+      "duration_minutes": 21,
+      "distance_text": "6.1 km",
       "duration_text": "21 mins",
       "route_quality": "Moderate distance, typical bike commute"
     },
@@ -185,7 +185,7 @@
     "summary": "Vossius Gymnasium is a prestigious categoraal gymnasium in Amsterdam offering VWO education with focus on classical languages and culture. The school provides rigorous academic preparation with emphasis on Latin, Greek, and classical studies for high-achieving students seeking university preparation."
   },
   "metadata": {
-    "last_updated": "2026-01-09T18:47:51.419205",
+    "last_updated": "2026-01-10T17:10:25.110288",
     "data_sources": [
       "Schools list",
       "Limited web access",
