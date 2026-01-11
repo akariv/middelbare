@@ -48,10 +48,17 @@ class SchoolScorer:
         if not exam_scores:
             return {'score': None, 'details': 'No exam data available'}
 
-        # Extract pass rates
-        pass_rates = []
+        # Extract pass rates with level tracking
+        level_data = {}
         five_year_avgs = []
         candidate_counts = []
+
+        # Weights for different education levels (VWO weighted highest)
+        level_weights = {
+            'vmbo': 0.7,   # Prevocational - lower weight
+            'havo': 1.0,   # Senior general - standard weight
+            'vwo': 1.5     # Pre-university - higher weight
+        }
 
         for level in ['vmbo', 'havo', 'vwo']:
             if level in exam_scores:
@@ -60,21 +67,23 @@ class SchoolScorer:
                 candidates = exam_scores[level].get('candidates_2024_2025')
 
                 if rate:
-                    pass_rates.append(rate)
+                    level_data[level] = rate
                 if avg_5yr:
                     five_year_avgs.append(avg_5yr)
                 if candidates:
                     candidate_counts.append(candidates)
 
-        if not pass_rates:
+        if not level_data:
             return {'score': None, 'details': 'No pass rate data'}
 
-        # Calculate weighted average (prefer VWO if available)
-        if len(pass_rates) == 1:
-            current_rate = pass_rates[0]
+        # Calculate weighted average based on education level
+        if len(level_data) == 1:
+            current_rate = list(level_data.values())[0]
         else:
-            # Weight VWO higher if multiple levels
-            current_rate = statistics.mean(pass_rates)
+            # Apply weights: VWO gets higher weight than HAVO/VMBO
+            weighted_sum = sum(rate * level_weights[level] for level, rate in level_data.items())
+            total_weight = sum(level_weights[level] for level in level_data.keys())
+            current_rate = weighted_sum / total_weight
 
         # Factor in 5-year average for consistency
         if five_year_avgs:
