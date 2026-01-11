@@ -122,8 +122,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3537377,
-      "lon": 4.806117899999999
+      "lat": 52.3536247,
+      "lon": 4.8060211
     },
     "public_transport": {
       "nearest_stops": [
@@ -161,9 +161,9 @@
       "accessibility_info": "tram 1, 17, bus 61, 63 en 69 halte Meer en Vaart of Louis Davidsstraat "
     },
     "bike_accessibility": {
-      "distance_km": 9.55,
+      "distance_km": 9.52,
       "duration_minutes": 32,
-      "distance_text": "9.6 km",
+      "distance_text": "9.5 km",
       "duration_text": "33 mins",
       "route_quality": "Moderate distance, typical bike commute"
     },
@@ -250,7 +250,7 @@
     "summary": "Calandlyceum is an established school (nearly 60 years) in Amsterdam Nieuw-West offering VMBO-T, HAVO, and VWO education with three distinctive specialized programs: Technasium (technology focus), Topsport Talentschool (integrated athletic training), and Kunstatelier (arts curriculum). Part of Stichting Progresso, the school provides Passend Onderwijs support for dyslexia and gifted students, uses blended learning approaches, and offers a mentor system for guidance. With separate facilities for younger students, an on-campus library, healthy canteen, and diverse extracurriculars (theater, kart racing, debate, sports), Calandlyceum caters to students with varied interests and abilities."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:36.085720",
+    "last_updated": "2026-01-11T15:06:40.435429",
     "data_sources": [
       "https://www.calandlyceum.nl/",
       "School website",

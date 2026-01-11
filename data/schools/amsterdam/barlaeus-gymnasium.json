@@ -86,8 +86,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3622504,
-      "lon": 4.8849068
+      "lat": 52.36229410000001,
+      "lon": 4.884759
     },
     "public_transport": {
       "nearest_stops": [
@@ -111,7 +111,7 @@
       "accessibility_info": "tram 1, 2, 5, 11, 12, halte Leidseplein, tram 1, 7 en 19 halte spiegelgracht, en diverse buslijnen"
     },
     "bike_accessibility": {
-      "distance_km": 7.83,
+      "distance_km": 7.8,
       "duration_minutes": 26,
       "distance_text": "7.8 km",
       "duration_text": "27 mins",
@@ -202,7 +202,7 @@
     "summary": "Barlaeus Gymnasium is one of the Netherlands' most prestigious and oldest educational institutions, with roots dating to 1342 as a Latin school. This mid-sized categoraal gymnasium serves approximately 800 students with an excellent 8.9:1 student-teacher ratio in central Amsterdam. Emphasizing a 'smart, flexible, and beautiful' approach, Barlaeus provides rigorous classical education with Latin and Greek. The central location offers students unique access to Amsterdam's cultural and academic resources while maintaining nearly 700 years of educational tradition and excellence."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:34.747719",
+    "last_updated": "2026-01-11T15:06:39.099259",
     "data_sources": [
       "https://www.barlaeus.nl/",
       "School website",

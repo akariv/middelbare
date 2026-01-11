@@ -96,8 +96,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3267168,
-      "lon": 4.879029600000001
+      "lat": 52.3267053,
+      "lon": 4.8791231
     },
     "public_transport": {
       "nearest_stops": [
@@ -121,7 +121,7 @@
       "accessibility_info": "bus 62 halte Kastelenstraat"
     },
     "bike_accessibility": {
-      "distance_km": 3.65,
+      "distance_km": 3.61,
       "duration_minutes": 11,
       "distance_text": "3.6 km",
       "duration_text": "12 mins",
@@ -174,7 +174,7 @@
     "summary": "Cheider is an Orthodox Jewish school in Amsterdam offering VMBO, HAVO, and VWO education rooted in Orthodox Jewish values, Torah studies, and religious tradition. The school combines secular education with intensive Jewish religious studies, Hebrew language instruction, and cultural activities for the Orthodox Jewish community."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:37.497746",
+    "last_updated": "2026-01-11T15:06:41.722285",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

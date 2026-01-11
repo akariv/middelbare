@@ -27,7 +27,7 @@
       "school_days": "Monday-Friday",
       "school_hours": null
     },
-    "formatted_address": "1025 KM Amsterdam, Netherlands"
+    "formatted_address": "Rode Kruisstraat 83, 1025 KM Amsterdam, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -92,8 +92,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3943501,
-      "lon": 4.9317107
+      "lat": 52.395277,
+      "lon": 4.927338799999999
     },
     "public_transport": {
       "nearest_stops": [
@@ -131,10 +131,10 @@
       "accessibility_info": "metro 52 halte Noord, bus 35, 38, 301, 315 halte Rode Kruisstraat"
     },
     "bike_accessibility": {
-      "distance_km": 13.71,
+      "distance_km": 13.67,
       "duration_minutes": 47,
       "distance_text": "13.7 km",
-      "duration_text": "48 mins",
+      "duration_text": "47 mins",
       "route_quality": "Long distance, may prefer public transport"
     },
     "accessibility_disabilities": null
@@ -225,7 +225,7 @@
     "summary": "Damstede Lyceum is a secondary school in Amsterdam offering HAVO and VWO education with the motto 'Discover your talent at Damstede.' The school emphasizes talent development and helping students discover their abilities and interests."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:40.822066",
+    "last_updated": "2026-01-11T15:06:45.233440",
     "data_sources": [
       "https://www.damstedelyceum.nl/",
       "Limited web access",

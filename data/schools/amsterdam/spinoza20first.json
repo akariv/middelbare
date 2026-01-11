@@ -29,7 +29,7 @@
       "school_days": "Monday-Friday",
       "school_hours": null
     },
-    "formatted_address": "H.J.E. Wenckebachweg 44, 1096 AN Amsterdam, Netherlands"
+    "formatted_address": "H.J.E. Wenckebachweg 40, 44 Amsterdam, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -85,8 +85,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3363192,
-      "lon": 4.9255605
+      "lat": 52.3359615,
+      "lon": 4.9257821
     },
     "public_transport": {
       "nearest_stops": [
@@ -117,7 +117,7 @@
       "accessibility_info": "tram 4 en 12 halte Victorieplein, bus 62 halte President Kennedylaan, bus 65 halte Waalstraat"
     },
     "bike_accessibility": {
-      "distance_km": 9.04,
+      "distance_km": 9.0,
       "duration_minutes": 28,
       "distance_text": "9.0 km",
       "duration_text": "28 mins",
@@ -195,7 +195,7 @@
     "summary": "Spinoza20first is a modern secondary school in Amsterdam offering VMBO-T, HAVO, and VWO education with focus on 21st century skills and future-oriented learning. Part of Stichting Spinoza Lyceum, the school emphasizes innovative, contemporary education preparing students for the current century's challenges and opportunities."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:58.122621",
+    "last_updated": "2026-01-11T15:07:02.153235",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

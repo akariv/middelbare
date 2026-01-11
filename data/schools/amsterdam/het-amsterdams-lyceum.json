@@ -83,8 +83,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.351107,
-      "lon": 4.864954600000001
+      "lat": 52.3511412,
+      "lon": 4.864976200000001
     },
     "public_transport": {
       "nearest_stops": [
@@ -108,9 +108,9 @@
       "accessibility_info": "tram 2 halte Valeriusplein, bus 15 halte Olympiaplein"
     },
     "bike_accessibility": {
-      "distance_km": 5.66,
+      "distance_km": 5.62,
       "duration_minutes": 18,
-      "distance_text": "5.7 km",
+      "distance_text": "5.6 km",
       "duration_text": "19 mins",
       "route_quality": "Short distance, easy bike commute"
     },
@@ -188,7 +188,7 @@
     "summary": "Het Amsterdams Lyceum is a categoraal VWO school in Amsterdam-Zuid offering both Gymnasium and Atheneum tracks. The school focuses exclusively on pre-university education, providing rigorous academic preparation for university studies."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:46.933283",
+    "last_updated": "2026-01-11T15:06:51.279086",
     "data_sources": [
       "https://amsterdamslyceum.nl/",
       "Web search results",

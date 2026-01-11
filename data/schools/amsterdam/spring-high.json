@@ -29,7 +29,7 @@
       "school_days": "Monday-Friday",
       "school_hours": null
     },
-    "formatted_address": "Herman Poortstraat 17, 1064 BR Amsterdam, Netherlands"
+    "formatted_address": "Herman Poortstraat 17, 1064 BB Amsterdam, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -78,8 +78,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3765072,
-      "lon": 4.8310662
+      "lat": 52.3767264,
+      "lon": 4.8310203
     },
     "public_transport": {
       "nearest_stops": [
@@ -110,10 +110,10 @@
       "accessibility_info": "metro 50 en 51 halte Jan van Galenstraat, tram 13 halte Jan van Galenstraat, tram 7, bus 21, 80 halte Burgemeester Fockstraat"
     },
     "bike_accessibility": {
-      "distance_km": 10.83,
+      "distance_km": 10.8,
       "duration_minutes": 35,
       "distance_text": "10.8 km",
-      "duration_text": "36 mins",
+      "duration_text": "35 mins",
       "route_quality": "Long distance, may prefer public transport"
     },
     "accessibility_disabilities": null
@@ -169,7 +169,7 @@
     "summary": "Spring High is a secondary school in Amsterdam offering VMBO-T, HAVO, and VWO education, with a name suggesting emphasis on fresh starts, growth, and student development."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:58.853634",
+    "last_updated": "2026-01-11T15:07:02.905089",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

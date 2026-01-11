@@ -91,8 +91,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3496627,
-      "lon": 4.8740545
+      "lat": 52.3496687,
+      "lon": 4.8740942
     },
     "public_transport": {
       "nearest_stops": [
@@ -116,7 +116,7 @@
       "accessibility_info": "tram 5, 24, bus 15, 65, schoolbus 612 halte Gerrit vd Veenstraat"
     },
     "bike_accessibility": {
-      "distance_km": 6.0,
+      "distance_km": 5.96,
       "duration_minutes": 20,
       "distance_text": "6.0 km",
       "duration_text": "21 mins",
@@ -198,7 +198,7 @@
     "summary": "St. Ignatiusgymnasium is a prestigious small-scale gymnasium in Amsterdam-South offering classical education. With its focus on curiosity, independence, and responsibility, it provides rigorous VWO education enriched by Latin, Greek, and classical studies. The school emphasizes personalized attention and developing self-conscious, critically thinking adults. Best suited for academically strong students interested in classical humanities."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:48.458738",
+    "last_updated": "2026-01-11T15:06:52.629766",
     "data_sources": [
       "https://www.ignatius.nl/",
       "School website",

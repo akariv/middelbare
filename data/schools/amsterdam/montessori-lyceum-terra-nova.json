@@ -29,7 +29,7 @@
       "school_days": "Monday-Friday",
       "school_hours": null
     },
-    "formatted_address": "Pampuslaan 1, 1087 KM Amsterdam, Netherlands"
+    "formatted_address": "Pampuslaan 1, 1087 HP Amsterdam, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -94,8 +94,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3513721,
-      "lon": 5.003805
+      "lat": 52.3515224,
+      "lon": 5.004086399999999
     },
     "public_transport": {
       "nearest_stops": [
@@ -133,10 +133,10 @@
       "accessibility_info": "tram 26 halte IJburg, bus 66 halte Pieter Oosterhuisstraat"
     },
     "bike_accessibility": {
-      "distance_km": 16.24,
+      "distance_km": 16.21,
       "duration_minutes": 52,
       "distance_text": "16.2 km",
-      "duration_text": "53 mins",
+      "duration_text": "52 mins",
       "route_quality": "Long distance, may prefer public transport"
     },
     "accessibility_disabilities": null
@@ -210,7 +210,7 @@
     "summary": "Montessori Lyceum Terra Nova is a Montessori secondary school in Amsterdam offering VMBO, HAVO, and VWO education using the Montessori methodology. With a name meaning 'new earth,' the school emphasizes self-directed learning, hands-on activities, and individual development in a fresh, student-centered environment."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:55.357541",
+    "last_updated": "2026-01-11T15:06:59.362489",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

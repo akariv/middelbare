@@ -112,8 +112,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.30196609999999,
-      "lon": 4.8509006
+      "lat": 52.3022005,
+      "lon": 4.850327099999999
     },
     "public_transport": {
       "nearest_stops": [
@@ -137,9 +137,9 @@
       "accessibility_info": null
     },
     "bike_accessibility": {
-      "distance_km": 1.93,
+      "distance_km": 1.98,
       "duration_minutes": 6,
-      "distance_text": "1.9 km",
+      "distance_text": "2.0 km",
       "duration_text": "7 mins",
       "route_quality": "Very short distance, local biking"
     },
@@ -224,7 +224,7 @@
     "summary": "Keizer Karel College is a distinguished Roman Catholic secondary school in Amstelveen offering HAVO and VWO education with multiple specialized tracks. With UNESCO school status and Begaafdheidsprofielschool certification, the school combines academic excellence with a strong commitment to global citizenship, peace, human rights, and sustainability. The school offers diverse pathways including Gymnasium, Technasium, and standard tracks, all enhanced by ICT integration and Cambridge English programs. With approximately 1,900 students, it provides a robust educational environment while maintaining its motto 'Met oog voor jou' - emphasizing individual attention and care. The comprehensive student support system includes remedial teachers, school psychologists, and specialized programs for test anxiety and social skills. Best suited for academically strong students living in the Amstelveen region who value both traditional academic rigor and progressive global citizenship education."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:33.403987",
+    "last_updated": "2026-01-11T15:06:37.670905",
     "data_sources": [
       "User-provided school information",
       "http://www.keizerkarelcollege.nl",

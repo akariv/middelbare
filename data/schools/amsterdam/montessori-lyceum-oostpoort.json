@@ -101,8 +101,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3582051,
-      "lon": 4.9292406
+      "lat": 52.35815059999999,
+      "lon": 4.9291089
     },
     "public_transport": {
       "nearest_stops": [
@@ -133,10 +133,10 @@
       "accessibility_info": "trein halte Muiderpoort, tram 19 halte Oostpoort, bus 37 halte Muiderpoort en bus 41 halte Oostpoort"
     },
     "bike_accessibility": {
-      "distance_km": 10.06,
+      "distance_km": 10.03,
       "duration_minutes": 33,
-      "distance_text": "10.1 km",
-      "duration_text": "34 mins",
+      "distance_text": "10.0 km",
+      "duration_text": "33 mins",
       "route_quality": "Long distance, may prefer public transport"
     },
     "accessibility_disabilities": null
@@ -207,7 +207,7 @@
     "summary": "Montessori Lyceum Oostpoort is a Montessori secondary school in Amsterdam Oost offering VMBO, HAVO, and VWO education using the proven Montessori methodology. The school emphasizes self-directed learning, hands-on activities, and collaborative work while fostering independence and personal responsibility in a student-centered environment."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:54.077974",
+    "last_updated": "2026-01-11T15:06:58.014743",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

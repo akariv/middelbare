@@ -95,8 +95,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.37788159999999,
-      "lon": 4.8760731
+      "lat": 52.37798799999999,
+      "lon": 4.876187199999999
     },
     "public_transport": {
       "nearest_stops": [
@@ -120,9 +120,9 @@
       "accessibility_info": "tram 3, bus 18 en 21 halte Frederik Hendrikplantsoen "
     },
     "bike_accessibility": {
-      "distance_km": 9.97,
-      "duration_minutes": 35,
-      "distance_text": "10.0 km",
+      "distance_km": 9.93,
+      "duration_minutes": 34,
+      "distance_text": "9.9 km",
       "duration_text": "35 mins",
       "route_quality": "Moderate distance, typical bike commute"
     },
@@ -202,7 +202,7 @@
     "summary": "Cartesius Lyceum is a secondary school in Amsterdam offering HAVO and VWO education, named after philosopher René Descartes, likely emphasizing critical thinking, analytical skills, rational thought, and the scientific method."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:36.864122",
+    "last_updated": "2026-01-11T15:06:41.092475",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

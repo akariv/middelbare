@@ -29,7 +29,7 @@
       "school_days": "Monday-Friday",
       "school_hours": null
     },
-    "formatted_address": "Pieter Lodewijk Takstraat 33, 1073 KJ Amsterdam, Netherlands"
+    "formatted_address": "Pieter Lodewijk Takstraat 33/34, 1073 KJ Amsterdam, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -93,8 +93,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3489567,
-      "lon": 4.9004224
+      "lat": 52.3488169,
+      "lon": 4.8994275
     },
     "public_transport": {
       "nearest_stops": [
@@ -125,9 +125,9 @@
       "accessibility_info": "tram 3, 4, 12 en bus 62, 65, 245, 246, 284 halte Waalstraat of Amstelkade"
     },
     "bike_accessibility": {
-      "distance_km": 7.37,
-      "duration_minutes": 25,
-      "distance_text": "7.4 km",
+      "distance_km": 7.33,
+      "duration_minutes": 24,
+      "distance_text": "7.3 km",
       "duration_text": "25 mins",
       "route_quality": "Moderate distance, typical bike commute"
     },
@@ -208,7 +208,7 @@
     "summary": "Berlage Lyceum is a secondary school in Amsterdam offering VMBO-T, HAVO, and VWO education across multiple educational tracks."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:35.381983",
+    "last_updated": "2026-01-11T15:06:39.785328",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

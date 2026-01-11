@@ -123,7 +123,7 @@
       "accessibility_info": "tram 26 halte Bob Haarmslaan en bus 37 halte Zuiderzeeweg"
     },
     "bike_accessibility": {
-      "distance_km": 14.21,
+      "distance_km": 14.18,
       "duration_minutes": 48,
       "distance_text": "14.2 km",
       "duration_text": "48 mins",
@@ -195,7 +195,7 @@
     "summary": "ALASCA is a secondary school in Amsterdam offering HAVO and VWO education with an alternative or specialized educational approach."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:34.071877",
+    "last_updated": "2026-01-11T15:06:38.401662",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

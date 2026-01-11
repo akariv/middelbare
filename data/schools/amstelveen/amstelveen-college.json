@@ -98,8 +98,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.290024,
-      "lon": 4.8505692
+      "lat": 52.29019899999999,
+      "lon": 4.850711
     },
     "public_transport": {
       "nearest_stops": [
@@ -123,7 +123,7 @@
       "accessibility_info": "bus 242, 347, 348, 357, 358 halte Sportlaan"
     },
     "bike_accessibility": {
-      "distance_km": 3.08,
+      "distance_km": 3.15,
       "duration_minutes": 10,
       "distance_text": "3.1 km",
       "duration_text": "11 mins",
@@ -199,7 +199,7 @@
     "summary": "Amstelveen College is a welcoming public school offering MAVO, HAVO, and VWO education with innovative plusprofielen programs for personalized enrichment. Located very close to the student's home address, it provides excellent proximity advantage while offering quality education across multiple tracks. The school emphasizes creating a comfortable, inclusive environment where students can be themselves."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:31.994919",
+    "last_updated": "2026-01-11T15:06:36.348208",
     "data_sources": [
       "https://amstelveencollege.nl/",
       "School website",

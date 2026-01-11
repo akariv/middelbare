@@ -89,8 +89,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3486949,
-      "lon": 4.8743016
+      "lat": 52.34867389999999,
+      "lon": 4.874355
     },
     "public_transport": {
       "nearest_stops": [
@@ -114,9 +114,9 @@
       "accessibility_info": "metro 50 en 51 halte Station Zuid, tram 5 en 24, bus 65, schoolbus 612 halte Gerrit vd Veenstraat"
     },
     "bike_accessibility": {
-      "distance_km": 5.76,
+      "distance_km": 5.73,
       "duration_minutes": 19,
-      "distance_text": "5.8 km",
+      "distance_text": "5.7 km",
       "duration_text": "19 mins",
       "route_quality": "Short distance, easy bike commute"
     },
@@ -197,7 +197,7 @@
     "summary": "Gerrit van der Veen College is a secondary school in Amsterdam offering HAVO and VWO education, named after the Dutch artist and WWII resistance fighter, likely emphasizing values of courage, creativity, and social responsibility."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:44.278527",
+    "last_updated": "2026-01-11T15:06:48.657081",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

@@ -122,9 +122,9 @@
       "accessibility_info": "metro 50, 51 halte Sloterdijk, bus 61, 69 halte Naritaweg"
     },
     "bike_accessibility": {
-      "distance_km": 9.57,
+      "distance_km": 9.53,
       "duration_minutes": 30,
-      "distance_text": "9.6 km",
+      "distance_text": "9.5 km",
       "duration_text": "31 mins",
       "route_quality": "Moderate distance, typical bike commute"
     },
@@ -179,7 +179,7 @@
     "summary": "Cornelius Haga Lyceum is an Islamic school in Amsterdam offering VMBO-T, HAVO, and VWO education rooted in Islamic values and principles, combining secular education with Islamic studies for Muslim students and families."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:38.864173",
+    "last_updated": "2026-01-11T15:06:43.218141",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

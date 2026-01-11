@@ -29,7 +29,7 @@
       "school_days": "Monday-Friday",
       "school_hours": null
     },
-    "formatted_address": "Schoenerstraat 7, 1034 XZ Amsterdam, Netherlands"
+    "formatted_address": "Elzenhagenpad 2, 1025 WL Amsterdam, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -84,8 +84,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.4038292,
-      "lon": 4.909229
+      "lat": 52.3991128,
+      "lon": 4.9261351
     },
     "public_transport": {
       "nearest_stops": [
@@ -123,9 +123,9 @@
       "accessibility_info": "bus 34 en 36 (vanaf metrostation Noord)"
     },
     "bike_accessibility": {
-      "distance_km": 14.35,
+      "distance_km": 14.32,
       "duration_minutes": 49,
-      "distance_text": "14.4 km",
+      "distance_text": "14.3 km",
       "duration_text": "50 mins",
       "route_quality": "Long distance, may prefer public transport"
     },
@@ -207,7 +207,7 @@
     "summary": "Xplore - Agora Amsterdam is an innovative school offering VMBO-T, HAVO, and VWO education using the Agora education model. The school emphasizes student autonomy, self-directed learning, and exploration through self-chosen challenges and projects. With coaches instead of traditional teachers, Xplore provides a non-traditional learning environment focused on discovery, independence, and project-based learning for highly motivated students."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:24:02.877912",
+    "last_updated": "2026-01-11T15:07:06.873841",
     "data_sources": [
       "Schools list",
       "Agora education model knowledge",

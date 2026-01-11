@@ -96,8 +96,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3618237,
-      "lon": 4.9183379
+      "lat": 52.3617704,
+      "lon": 4.9182157
     },
     "public_transport": {
       "nearest_stops": [
@@ -128,9 +128,9 @@
       "accessibility_info": "metro 51, 53, 54 halte Weesperplein, tram 1 en 3 halte Beukenweg, tram 7 halte Weesperplein, tram 14 en 19 halte Alexanderplein, bus 37 halte Beukenplein"
     },
     "bike_accessibility": {
-      "distance_km": 10.45,
+      "distance_km": 10.42,
       "duration_minutes": 33,
-      "distance_text": "10.5 km",
+      "distance_text": "10.4 km",
       "duration_text": "33 mins",
       "route_quality": "Long distance, may prefer public transport"
     },
@@ -207,7 +207,7 @@
     "summary": "Metis Montessori Lyceum is a Montessori secondary school in Amsterdam offering HAVO and VWO education with emphasis on self-directed learning, independence, and personal development through the Montessori methodology."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:51.951535",
+    "last_updated": "2026-01-11T15:06:55.930517",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

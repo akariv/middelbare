@@ -83,8 +83,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3662363,
-      "lon": 4.8373495
+      "lat": 52.3660872,
+      "lon": 4.837125299999999
     },
     "public_transport": {
       "nearest_stops": [
@@ -115,7 +115,7 @@
       "accessibility_info": "metro 50 en 51 halte Postjesweg, tram 13 halte Jan Voermanstraat"
     },
     "bike_accessibility": {
-      "distance_km": 8.79,
+      "distance_km": 8.75,
       "duration_minutes": 28,
       "distance_text": "8.8 km",
       "duration_text": "28 mins",
@@ -184,7 +184,7 @@
     "summary": "DENISE is an alternative education school in Amsterdam offering VMBO-T, HAVO, and VWO education with focus on individual learning paths and non-traditional approaches."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:42.144426",
+    "last_updated": "2026-01-11T15:06:46.577672",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

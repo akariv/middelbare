@@ -99,8 +99,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.28743,
-      "lon": 4.855929
+      "lat": 52.2874106,
+      "lon": 4.8548858
     },
     "public_transport": {
       "nearest_stops": [
@@ -123,9 +123,9 @@
       }
     },
     "bike_accessibility": {
-      "distance_km": 3.21,
+      "distance_km": 3.29,
       "duration_minutes": 10,
-      "distance_text": "3.2 km",
+      "distance_text": "3.3 km",
       "duration_text": "11 mins",
       "route_quality": "Short distance, easy bike commute"
     },
@@ -195,7 +195,7 @@
     "summary": "Hermann Wesselink College is a large, modern Christian school in Amstelveen offering comprehensive education from VMBO-T through Gymnasium, including bilingual options. Located very close to the student's home, it features a new energy-neutral building with excellent facilities. With its motto 'everyone is equal, but nobody is the same,' the school balances Christian values with inclusive individuality. Strong support systems and international orientation make it suitable for diverse learners."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:32.673121",
+    "last_updated": "2026-01-11T15:06:36.998262",
     "data_sources": [
       "https://www.hethwc.nl/",
       "Wikipedia",

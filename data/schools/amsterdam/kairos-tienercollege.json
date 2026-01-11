@@ -109,9 +109,9 @@
       }
     },
     "bike_accessibility": {
-      "distance_km": 12.95,
+      "distance_km": 12.92,
       "duration_minutes": 45,
-      "distance_text": "13.0 km",
+      "distance_text": "12.9 km",
       "duration_text": "45 mins",
       "route_quality": "Long distance, may prefer public transport"
     },
@@ -163,7 +163,7 @@
     "summary": "Kairos Tienercollege is a secondary school in Amsterdam offering VMBO-T, HAVO, and VWO education, with 'Kairos' (opportune moment) suggesting emphasis on seizing educational opportunities at the right developmental moment for teenagers."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:50.627082",
+    "last_updated": "2026-01-11T15:06:54.585123",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

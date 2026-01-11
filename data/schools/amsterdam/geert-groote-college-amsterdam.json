@@ -90,8 +90,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3415063,
-      "lon": 4.8625257
+      "lat": 52.3414721,
+      "lon": 4.8625169
     },
     "public_transport": {
       "nearest_stops": [
@@ -115,9 +115,9 @@
       "accessibility_info": "metro 50 en 51 halte Amstelveenseweg en 50, tram 24 halte Amstelveenseweg, bus 62, 244, 347 halte Amstelveenseweg "
     },
     "bike_accessibility": {
-      "distance_km": 4.88,
+      "distance_km": 4.85,
       "duration_minutes": 15,
-      "distance_text": "4.9 km",
+      "distance_text": "4.8 km",
       "duration_text": "16 mins",
       "route_quality": "Short distance, easy bike commute"
     },
@@ -176,7 +176,7 @@
     "summary": "Geert Groote College Amsterdam is a Catholic school offering VMBO-T, HAVO, and VWO education with values-based approach in a community-focused environment."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:43.657785",
+    "last_updated": "2026-01-11T15:06:48.021155",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

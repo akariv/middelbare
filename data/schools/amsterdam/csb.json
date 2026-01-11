@@ -78,8 +78,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3233135,
-      "lon": 4.8675387
+      "lat": 52.3232767,
+      "lon": 4.8675329
     },
     "public_transport": {
       "nearest_stops": [
@@ -102,9 +102,9 @@
       }
     },
     "bike_accessibility": {
-      "distance_km": 2.68,
+      "distance_km": 2.65,
       "duration_minutes": 8,
-      "distance_text": "2.7 km",
+      "distance_text": "2.6 km",
       "duration_text": "8 mins",
       "route_quality": "Very short distance, local biking"
     },
@@ -175,7 +175,7 @@
     "summary": "CSB (Christelijke Scholengemeenschap Buitenveldert) is a Christian Protestant school in Amsterdam Zuid offering VMBO-T, HAVO, and VWO education with values-based approach in the Buitenveldert area."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:39.476660",
+    "last_updated": "2026-01-11T15:06:43.839442",
     "data_sources": [
       "Schools list",
       "schoolkeuze020.nl open dagen 2026",

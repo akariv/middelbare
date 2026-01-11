@@ -85,8 +85,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3481824,
-      "lon": 4.878794
+      "lat": 52.348181,
+      "lon": 4.8787917
     },
     "public_transport": {
       "nearest_stops": [
@@ -109,9 +109,9 @@
       }
     },
     "bike_accessibility": {
-      "distance_km": 5.87,
+      "distance_km": 5.84,
       "duration_minutes": 19,
-      "distance_text": "5.9 km",
+      "distance_text": "5.8 km",
       "duration_text": "20 mins",
       "route_quality": "Short distance, easy bike commute"
     },
@@ -192,7 +192,7 @@
     "summary": "HLZ (Hervormd Lyceum Zuid) is a pleasant and committed Protestant school in Amsterdam Zuid offering HAVO and VWO education in small, atmospheric buildings. Part of the Cedergroep network and designated as a Rosa Training School, HLZ provides an intimate learning environment where students can explore their talents, weaknesses, and possibilities. The school welcomes diverse student personalities and emphasizes both personal and academic growth in a supportive community setting."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:45.658175",
+    "last_updated": "2026-01-11T15:06:49.955598",
     "data_sources": [
       "https://www.hlz.nl/",
       "School website",

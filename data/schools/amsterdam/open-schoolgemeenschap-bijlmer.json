@@ -110,8 +110,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3186399,
-      "lon": 4.9654341
+      "lat": 52.31859679999999,
+      "lon": 4.9652866
     },
     "public_transport": {
       "nearest_stops": [
@@ -149,9 +149,9 @@
       "accessibility_info": "metro 53 halte Ganzenhoef, bus 41, 47 en 66 halte Tulastraat"
     },
     "bike_accessibility": {
-      "distance_km": 8.6,
+      "distance_km": 8.67,
       "duration_minutes": 29,
-      "distance_text": "8.6 km",
+      "distance_text": "8.7 km",
       "duration_text": "29 mins",
       "route_quality": "Moderate distance, typical bike commute"
     },
@@ -234,7 +234,7 @@
     "summary": "Open Schoolgemeenschap Bijlmer (OSB) is a challenging public school in Amsterdam Bijlmer offering VMBO, HAVO, and VWO education with a unique 'Willen is kunnen' (willing is being able) motto. The school creates a mini-society learning environment with strong emphasis on practical experience, workplace exposure, and early career exploration. Through its OSB Extra program, students can engage in sport, arts, culture, and music while following customized learning paths. OSB prepares students not just academically but for resilience and adaptability in a changing world."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:56.102244",
+    "last_updated": "2026-01-11T15:07:00.046097",
     "data_sources": [
       "https://osbijlmer.nl/",
       "School website",

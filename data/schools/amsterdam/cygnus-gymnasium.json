@@ -98,8 +98,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3550795,
-      "lon": 4.912351000000001
+      "lat": 52.3550459,
+      "lon": 4.9123581
     },
     "public_transport": {
       "nearest_stops": [
@@ -130,7 +130,7 @@
       "accessibility_info": "metro 51, 53 en 54, tram 3 halte Wibautstraat"
     },
     "bike_accessibility": {
-      "distance_km": 9.42,
+      "distance_km": 9.38,
       "duration_minutes": 29,
       "distance_text": "9.4 km",
       "duration_text": "30 mins",
@@ -215,7 +215,7 @@
     "summary": "Cygnus Gymnasium is a categoraal gymnasium in Amsterdam offering VWO education with focus on classical languages and culture. The school provides rigorous academic preparation with emphasis on Latin, Greek, and classical studies for high-achieving students."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:40.191175",
+    "last_updated": "2026-01-11T15:06:44.485835",
     "data_sources": [
       "https://www.cygnusgymnasium.nl/",
       "Limited web access",

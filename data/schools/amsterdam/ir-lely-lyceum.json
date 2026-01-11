@@ -95,8 +95,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.2973472,
-      "lon": 4.9783955
+      "lat": 52.2968605,
+      "lon": 4.977632
     },
     "public_transport": {
       "nearest_stops": [
@@ -127,9 +127,9 @@
       "accessibility_info": "metro 50 en 54 en bus 47 halte Reigersbos"
     },
     "bike_accessibility": {
-      "distance_km": 10.12,
-      "duration_minutes": 33,
-      "distance_text": "10.1 km",
+      "distance_km": 10.19,
+      "duration_minutes": 34,
+      "distance_text": "10.2 km",
       "duration_text": "34 mins",
       "route_quality": "Long distance, may prefer public transport"
     },
@@ -200,7 +200,7 @@
     "summary": "Ir. Lely Lyceum is a secondary school in Amsterdam offering VMBO-T, HAVO, and VWO education, named after the famous Dutch engineer Cornelis Lely, likely emphasizing innovation, engineering thinking, and achievement."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:49.133190",
+    "last_updated": "2026-01-11T15:06:53.276402",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

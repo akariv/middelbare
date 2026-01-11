@@ -152,8 +152,15 @@ def enrich_school_with_gmaps(school_file, home_coords):
     print(f"  Address: {school_address}")
 
     # Always geocode school address to ensure accurate coordinates
+    # Try with school name first for better accuracy
     print(f"  📍 Geocoding address...")
-    geocode_result = geocode_address(school_address)
+    school_query = f"{school_name}, {school_address}"
+    geocode_result = geocode_address(school_query)
+
+    # If that fails, try just the address
+    if not geocode_result:
+        print(f"  ⚠️  Trying address only...")
+        geocode_result = geocode_address(school_address)
 
     if geocode_result:
         old_coords = data['location']['coordinates']

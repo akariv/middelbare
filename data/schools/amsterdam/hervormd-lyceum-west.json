@@ -123,8 +123,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3623798,
-      "lon": 4.8256482
+      "lat": 52.3625104,
+      "lon": 4.826719
     },
     "public_transport": {
       "nearest_stops": [
@@ -155,7 +155,7 @@
       "accessibility_info": "metro 50 en 51 halte Postjesweg of Lelylaan, tram 1 en 17, bus 18 en 63 halte Johan Huizingalaan"
     },
     "bike_accessibility": {
-      "distance_km": 9.19,
+      "distance_km": 9.16,
       "duration_minutes": 30,
       "distance_text": "9.2 km",
       "duration_text": "31 mins",
@@ -257,7 +257,7 @@
     "summary": "Hervormd Lyceum West is a comprehensive Protestant secondary school in Amsterdam Nieuw-West offering education from MAVO through Gymnasium. With its innovative DigiTech program, bilingual TTO track, and historic gymnasium program (65+ years), HLW combines traditional values with modern educational approaches. The school emphasizes personal growth and provides strong student support including remedial instruction and trajectklas. Its blended learning environment integrates technology while maintaining focus on individual development."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:44.908867",
+    "last_updated": "2026-01-11T15:06:49.299026",
     "data_sources": [
       "https://www.hlw.nl/",
       "School website",

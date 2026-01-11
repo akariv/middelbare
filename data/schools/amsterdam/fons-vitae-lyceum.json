@@ -126,7 +126,7 @@
       "accessibility_info": "tram 5, 12, 24 halte Roelof Hartplein, schoolbus 612 halte Gerrit vd Veenstraat"
     },
     "bike_accessibility": {
-      "distance_km": 6.5,
+      "distance_km": 6.46,
       "duration_minutes": 21,
       "distance_text": "6.5 km",
       "duration_text": "21 mins",
@@ -207,7 +207,7 @@
     "summary": "Fons Vitae Lyceum is a vibrant Catholic school in Amsterdam-Zuid offering HAVO, Atheneum, and Gymnasium education. Part of the SVOAZ foundation, the school has a long tradition emphasizing involvement and talent development. The school focuses on helping students discover and develop their interests, talents, and intellectual abilities in a supportive, values-based environment."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:42.904496",
+    "last_updated": "2026-01-11T15:06:47.284533",
     "data_sources": [
       "https://svoaz.nl/onze-scholen",
       "https://schoolwijzer.amsterdam.nl/nl/vo",

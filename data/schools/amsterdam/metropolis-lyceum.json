@@ -102,9 +102,9 @@
       }
     },
     "bike_accessibility": {
-      "distance_km": 10.95,
+      "distance_km": 10.92,
       "duration_minutes": 38,
-      "distance_text": "11.0 km",
+      "distance_text": "10.9 km",
       "duration_text": "39 mins",
       "route_quality": "Long distance, may prefer public transport"
     },
@@ -158,7 +158,7 @@
     "summary": "Metropolis Lyceum is a secondary school in Amsterdam offering VMBO-T, HAVO, and VWO education, with a name suggesting an urban, cosmopolitan environment emphasizing diversity and modern, city-connected perspectives."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:52.675597",
+    "last_updated": "2026-01-11T15:06:56.624540",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

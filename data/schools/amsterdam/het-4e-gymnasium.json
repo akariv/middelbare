@@ -109,10 +109,10 @@
       "accessibility_info": "bus 22 (Spaarndammerstraat) en bus 48 (Haparandaweg), veerpont vanuit NDSM en Distelweg naar de Pontsteiger"
     },
     "bike_accessibility": {
-      "distance_km": 12.72,
+      "distance_km": 12.69,
       "duration_minutes": 44,
       "distance_text": "12.7 km",
-      "duration_text": "45 mins",
+      "duration_text": "44 mins",
       "route_quality": "Long distance, may prefer public transport"
     },
     "accessibility_disabilities": null
@@ -190,7 +190,7 @@
     "summary": "Het 4e Gymnasium is Amsterdam's fourth gymnasium, offering VWO education with focus on classical languages and culture. The school provides rigorous academic preparation with emphasis on Latin, Greek, and classical studies."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:46.302686",
+    "last_updated": "2026-01-11T15:06:50.651087",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

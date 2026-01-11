@@ -86,8 +86,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.30970050000001,
-      "lon": 5.03031
+      "lat": 52.3097892,
+      "lon": 5.0303262
     },
     "public_transport": {
       "nearest_stops": [
@@ -124,9 +124,9 @@
       }
     },
     "bike_accessibility": {
-      "distance_km": 15.95,
+      "distance_km": 16.02,
       "duration_minutes": 53,
-      "distance_text": "15.9 km",
+      "distance_text": "16.0 km",
       "duration_text": "53 mins",
       "route_quality": "Long distance, may prefer public transport"
     },
@@ -192,7 +192,7 @@
     "summary": "Vechtstede College is a secondary school in Amsterdam offering VMBO-T, HAVO, and VWO education across multiple educational tracks."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:24:00.178534",
+    "last_updated": "2026-01-11T15:07:04.211674",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

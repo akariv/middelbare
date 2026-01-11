@@ -125,7 +125,7 @@
       "accessibility_info": "metro 52 halte De Pijp, tram 3, 5, 12 en 24 halte RoelofHartplein "
     },
     "bike_accessibility": {
-      "distance_km": 7.44,
+      "distance_km": 7.41,
       "duration_minutes": 25,
       "distance_text": "7.4 km",
       "duration_text": "26 mins",
@@ -194,7 +194,7 @@
     "summary": "Montessori Lyceum Amsterdam (MLA) is the world's first Montessori secondary school, offering education from VMBO-T through Gymnasium using the renowned Montessori methodology. With 1526 students and a good teacher ratio, MLA provides a student-centered, self-directed learning environment in Amsterdam-Zuid. The school is currently undergoing renovations to improve facilities."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:53.340172",
+    "last_updated": "2026-01-11T15:06:57.346115",
     "data_sources": [
       "https://montessorilyceumamsterdam.nl/",
       "Web search results",

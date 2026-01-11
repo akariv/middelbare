@@ -60,8 +60,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3890757,
-      "lon": 4.926597999999999
+      "lat": 52.388724,
+      "lon": 4.9255945
     },
     "public_transport": {
       "nearest_stops": [
@@ -91,7 +91,7 @@
       }
     },
     "bike_accessibility": {
-      "distance_km": 12.84,
+      "distance_km": 12.8,
       "duration_minutes": 45,
       "distance_text": "12.8 km",
       "duration_text": "45 mins",
@@ -132,7 +132,7 @@
     "summary": "De nieuwe Havo is an innovative secondary school in Amsterdam offering HAVO and VWO education with contemporary methods and a fresh perspective on secondary education, particularly focused on reinventing the HAVO experience."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:41.448551",
+    "last_updated": "2026-01-11T15:06:45.896569",
     "data_sources": [
       "Schools list"
     ],

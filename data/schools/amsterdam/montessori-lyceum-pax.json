@@ -81,8 +81,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3725672,
-      "lon": 4.9381749
+      "lat": 52.3725305,
+      "lon": 4.938129099999999
     },
     "public_transport": {
       "nearest_stops": [
@@ -119,9 +119,9 @@
       }
     },
     "bike_accessibility": {
-      "distance_km": 12.96,
+      "distance_km": 12.93,
       "duration_minutes": 40,
-      "distance_text": "13.0 km",
+      "distance_text": "12.9 km",
       "duration_text": "41 mins",
       "route_quality": "Long distance, may prefer public transport"
     },
@@ -178,7 +178,7 @@
     "summary": "Montessori Lyceum Pax is a Montessori secondary school in Amsterdam offering VMBO-T, HAVO, and VWO education using the Montessori methodology. With 'Pax' meaning peace, the school emphasizes self-directed learning and individual development in a peaceful, harmonious environment."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:54.727073",
+    "last_updated": "2026-01-11T15:06:58.717482",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

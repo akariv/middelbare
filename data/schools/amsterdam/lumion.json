@@ -93,8 +93,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3462968,
-      "lon": 4.8353888
+      "lat": 52.3461759,
+      "lon": 4.8354555
     },
     "public_transport": {
       "nearest_stops": [
@@ -125,7 +125,7 @@
       "accessibility_info": "metro 50 en 51 halte Henk Sneevlietweg, bus 62 halte Vlaardingenlaan"
     },
     "bike_accessibility": {
-      "distance_km": 6.79,
+      "distance_km": 6.75,
       "duration_minutes": 22,
       "distance_text": "6.8 km",
       "duration_text": "22 mins",
@@ -196,7 +196,7 @@
     "summary": "Lumion is a secondary school in Amsterdam offering VMBO-T, HAVO, and VWO education, with a name suggesting focus on enlightenment and illumination in learning."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:51.258537",
+    "last_updated": "2026-01-11T15:06:55.241003",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

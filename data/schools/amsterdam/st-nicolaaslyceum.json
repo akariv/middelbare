@@ -105,8 +105,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3414779,
-      "lon": 4.8777636
+      "lat": 52.3414756,
+      "lon": 4.8775986
     },
     "public_transport": {
       "nearest_stops": [
@@ -130,8 +130,8 @@
       "accessibility_info": "metro 50, 52, 51 halte Zuid, tram 5, bus 65 en 612 halte Prinses Irenestraat"
     },
     "bike_accessibility": {
-      "distance_km": 5.07,
-      "duration_minutes": 16,
+      "distance_km": 5.11,
+      "duration_minutes": 17,
       "distance_text": "5.1 km",
       "duration_text": "17 mins",
       "route_quality": "Short distance, easy bike commute"
@@ -222,7 +222,7 @@
     "summary": "St. Nicolaaslyceum is an authentic Amsterdam secondary school in Zuid offering HAVO and VWO education with a welcoming, inclusive approach. Part of the SVOAZ foundation, this open Catholic school welcomes students of all cultural backgrounds and faiths. The school offers bilingual education, a specialized Sport+ program, BSM classes, and international perspectives. With strong emphasis on ensuring students and staff feel seen, heard, and safe, St. Nicolaaslyceum develops talents in sports, creative pursuits, languages, and international preparation."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:59.529057",
+    "last_updated": "2026-01-11T15:07:03.548233",
     "data_sources": [
       "https://www.nicolaas.nl/",
       "https://svoaz.nl/onze-scholen",

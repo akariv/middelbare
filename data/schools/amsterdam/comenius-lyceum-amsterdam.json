@@ -101,8 +101,8 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3617529,
-      "lon": 4.8309541
+      "lat": 52.3617273,
+      "lon": 4.830835299999999
     },
     "public_transport": {
       "nearest_stops": [
@@ -133,7 +133,7 @@
       "accessibility_info": "metro 50, tram 1, 17, bus 18, 62 en 63 halte Lelylaan of Justus Lipsiusstraat "
     },
     "bike_accessibility": {
-      "distance_km": 8.84,
+      "distance_km": 8.8,
       "duration_minutes": 28,
       "distance_text": "8.8 km",
       "duration_text": "28 mins",
@@ -238,7 +238,7 @@
     "summary": "Comenius Lyceum Amsterdam is one of Amsterdam's most sought-after secondary schools, celebrating 25 years of educational excellence in Nieuw-West. Offering MAVO, HAVO, and VWO education with a strong foundation and highly engaged staff, the school emphasizes comprehensive student development. Unique features include an official Youth Court (Jongerenrechtbank) appointed by Amsterdam's district court, a VWO+ accelerated program for advanced students, and an IT/Technology Lab focused on innovation. The school provides language support, guidance programs, and student voice through participation structures, creating a pleasant atmosphere for learning and growth."
   },
   "metadata": {
-    "last_updated": "2026-01-11T10:23:38.137872",
+    "last_updated": "2026-01-11T15:06:42.448611",
     "data_sources": [
       "https://www.comeniuslyceum.nl/",
       "School website",
