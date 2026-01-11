@@ -28,7 +28,8 @@
     "hours": {
       "school_days": "Monday-Friday",
       "school_hours": null
-    }
+    },
+    "formatted_address": "Gulden Kruis 5, 1103 BE Amsterdam-Zuidoost, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -109,34 +110,41 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3137,
-      "lon": 4.9484
+      "lat": 52.3186399,
+      "lon": 4.9654341
     },
     "public_transport": {
       "nearest_stops": [
-        "Amstelveen, Busstation (BUS: 356)",
-        "Station Bijlmer ArenA (BUS: 66)"
+        "Onderuit (TRAM: 25)",
+        "Amstelveen, Ouderkerkerlaan (BUS: 356)",
+        "Station Bijlmer ArenA (BUS: 47)"
       ],
       "commute_from_home": {
-        "duration_minutes": 44,
-        "duration_text": "44 mins",
-        "transfers": 0,
+        "duration_minutes": 41,
+        "duration_text": "42 mins",
+        "transfers": 2,
         "routes": [
+          {
+            "line": "25",
+            "vehicle": "TRAM",
+            "from": "Onderuit",
+            "to": "Ouderkerkerlaan"
+          },
           {
             "line": "356",
             "vehicle": "BUS",
-            "from": "Amstelveen, Busstation",
+            "from": "Amstelveen, Ouderkerkerlaan",
             "to": "Station Bijlmer ArenA"
           },
           {
-            "line": "66",
+            "line": "47",
             "vehicle": "BUS",
             "from": "Station Bijlmer ArenA",
             "to": "Tulastraat"
           }
         ],
-        "departure_time": "8:05 AM",
-        "arrival_time": "8:50 AM"
+        "departure_time": "8:02 AM",
+        "arrival_time": "8:44 AM"
       },
       "accessibility_info": "metro 53 halte Ganzenhoef, bus 41, 47 en 66 halte Tulastraat"
     },
@@ -226,7 +234,7 @@
     "summary": "Open Schoolgemeenschap Bijlmer (OSB) is a challenging public school in Amsterdam Bijlmer offering VMBO, HAVO, and VWO education with a unique 'Willen is kunnen' (willing is being able) motto. The school creates a mini-society learning environment with strong emphasis on practical experience, workplace exposure, and early career exploration. Through its OSB Extra program, students can engage in sport, arts, culture, and music while following customized learning paths. OSB prepares students not just academically but for resilience and adaptability in a changing world."
   },
   "metadata": {
-    "last_updated": "2026-01-10T18:49:24.509529",
+    "last_updated": "2026-01-11T10:23:56.102244",
     "data_sources": [
       "https://osbijlmer.nl/",
       "School website",

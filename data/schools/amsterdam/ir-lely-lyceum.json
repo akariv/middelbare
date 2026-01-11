@@ -29,7 +29,7 @@
       "school_days": "Monday-Friday",
       "school_hours": null
     },
-    "formatted_address": "Amsterdam, Netherlands"
+    "formatted_address": "Ravenswaaipad 3, 1106 AW Amsterdam, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -95,33 +95,33 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3675734,
-      "lon": 4.9041389
+      "lat": 52.2973472,
+      "lon": 4.9783955
     },
     "public_transport": {
       "nearest_stops": [
-        "Amstelveen, Busstation (BUS: 300)",
-        "Bijlmer ArenA (SUBWAY: 50)"
+        "Onderuit (TRAM: 25)",
+        "Zuid (SUBWAY: 50)"
       ],
       "commute_from_home": {
-        "duration_minutes": 47,
-        "duration_text": "47 mins",
+        "duration_minutes": 45,
+        "duration_text": "45 mins",
         "transfers": 1,
         "routes": [
           {
-            "line": "300",
-            "vehicle": "BUS",
-            "from": "Amstelveen, Busstation",
-            "to": "Station Bijlmer ArenA"
+            "line": "25",
+            "vehicle": "TRAM",
+            "from": "Onderuit",
+            "to": "Station Zuid"
           },
           {
             "line": "50",
             "vehicle": "SUBWAY",
-            "from": "Bijlmer ArenA",
+            "from": "Zuid",
             "to": "Reigersbos"
           }
         ],
-        "departure_time": "8:04 AM",
+        "departure_time": "8:07 AM",
         "arrival_time": "8:52 AM"
       },
       "accessibility_info": "metro 50 en 54 en bus 47 halte Reigersbos"
@@ -200,7 +200,7 @@
     "summary": "Ir. Lely Lyceum is a secondary school in Amsterdam offering VMBO-T, HAVO, and VWO education, named after the famous Dutch engineer Cornelis Lely, likely emphasizing innovation, engineering thinking, and achievement."
   },
   "metadata": {
-    "last_updated": "2026-01-10T18:49:24.362721",
+    "last_updated": "2026-01-11T10:23:49.133190",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

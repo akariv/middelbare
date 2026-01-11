@@ -30,7 +30,8 @@
     "hours": {
       "school_days": "Monday-Friday",
       "school_hours": "08:30-"
-    }
+    },
+    "formatted_address": "Elegast 5, 1185 AA Amstelveen, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -111,27 +112,27 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.302299,
-      "lon": 4.8498301
+      "lat": 52.30196609999999,
+      "lon": 4.8509006
     },
     "public_transport": {
       "nearest_stops": [
-        "Amstelveen, Binnenhof (BUS: 171)"
+        "Onderuit (TRAM: 25)"
       ],
       "commute_from_home": {
-        "duration_minutes": 22,
-        "duration_text": "23 mins",
+        "duration_minutes": 26,
+        "duration_text": "26 mins",
         "transfers": 0,
         "routes": [
           {
-            "line": "171",
-            "vehicle": "BUS",
-            "from": "Amstelveen, Binnenhof",
-            "to": "Amstelveen, Keizer Karelplein"
+            "line": "25",
+            "vehicle": "TRAM",
+            "from": "Onderuit",
+            "to": "Ouderkerkerlaan"
           }
         ],
-        "departure_time": "8:09 AM",
-        "arrival_time": "8:32 AM"
+        "departure_time": "8:02 AM",
+        "arrival_time": "8:28 AM"
       },
       "accessibility_info": null
     },
@@ -223,7 +224,7 @@
     "summary": "Keizer Karel College is a distinguished Roman Catholic secondary school in Amstelveen offering HAVO and VWO education with multiple specialized tracks. With UNESCO school status and Begaafdheidsprofielschool certification, the school combines academic excellence with a strong commitment to global citizenship, peace, human rights, and sustainability. The school offers diverse pathways including Gymnasium, Technasium, and standard tracks, all enhanced by ICT integration and Cambridge English programs. With approximately 1,900 students, it provides a robust educational environment while maintaining its motto 'Met oog voor jou' - emphasizing individual attention and care. The comprehensive student support system includes remedial teachers, school psychologists, and specialized programs for test anxiety and social skills. Best suited for academically strong students living in the Amstelveen region who value both traditional academic rigor and progressive global citizenship education."
   },
   "metadata": {
-    "last_updated": "2026-01-10T18:49:24.019154",
+    "last_updated": "2026-01-11T10:23:33.403987",
     "data_sources": [
       "User-provided school information",
       "http://www.keizerkarelcollege.nl",

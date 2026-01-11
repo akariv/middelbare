@@ -29,7 +29,7 @@
       "school_days": "Monday-Friday",
       "school_hours": null
     },
-    "formatted_address": "Amsterdam, Netherlands"
+    "formatted_address": "Amstellandlaan 1A, 1382 CD Weesp, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -86,23 +86,30 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3675734,
-      "lon": 4.9041389
+      "lat": 52.30970050000001,
+      "lon": 5.03031
     },
     "public_transport": {
       "nearest_stops": [
-        "Amstelveen, Busstation (BUS: 300)",
+        "Onderuit (TRAM: 25)",
+        "Amstelveen, Oranjebaan (BUS: 300)",
         "Station Bijlmer ArenA (BUS: 49)"
       ],
       "commute_from_home": {
-        "duration_minutes": 63,
-        "duration_text": "1 hour 4 mins",
-        "transfers": 0,
+        "duration_minutes": 58,
+        "duration_text": "58 mins",
+        "transfers": 2,
         "routes": [
+          {
+            "line": "25",
+            "vehicle": "TRAM",
+            "from": "Onderuit",
+            "to": "Amstelveen, Oranjebaan"
+          },
           {
             "line": "300",
             "vehicle": "BUS",
-            "from": "Amstelveen, Busstation",
+            "from": "Amstelveen, Oranjebaan",
             "to": "Station Bijlmer ArenA"
           },
           {
@@ -112,8 +119,8 @@
             "to": "Weesp, Casparuslaan"
           }
         ],
-        "departure_time": "8:11 AM",
-        "arrival_time": "9:15 AM"
+        "departure_time": "8:02 AM",
+        "arrival_time": "9:00 AM"
       }
     },
     "bike_accessibility": {
@@ -185,7 +192,7 @@
     "summary": "Vechtstede College is a secondary school in Amsterdam offering VMBO-T, HAVO, and VWO education across multiple educational tracks."
   },
   "metadata": {
-    "last_updated": "2026-01-10T18:49:24.570228",
+    "last_updated": "2026-01-11T10:24:00.178534",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

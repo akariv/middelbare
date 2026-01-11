@@ -29,7 +29,7 @@
       "school_days": "Monday-Friday",
       "school_hours": null
     },
-    "formatted_address": "Amsterdam, Netherlands"
+    "formatted_address": "Meeuwenlaan 136, 1022 AM Amsterdam, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -78,23 +78,23 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3675734,
-      "lon": 4.9041389
+      "lat": 52.3905031,
+      "lon": 4.925951
     },
     "public_transport": {
       "nearest_stops": [
-        "Amstelveen, Oranjebaan (TRAM: 5)",
+        "Onderuit (TRAM: 5)",
         "Zuid (SUBWAY: 52)"
       ],
       "commute_from_home": {
-        "duration_minutes": 54,
-        "duration_text": "55 mins",
+        "duration_minutes": 45,
+        "duration_text": "46 mins",
         "transfers": 1,
         "routes": [
           {
             "line": "5",
             "vehicle": "TRAM",
-            "from": "Amstelveen, Oranjebaan",
+            "from": "Onderuit",
             "to": "Station Zuid"
           },
           {
@@ -104,8 +104,8 @@
             "to": "Noorderpark"
           }
         ],
-        "departure_time": "8:03 AM",
-        "arrival_time": "8:58 AM"
+        "departure_time": "8:02 AM",
+        "arrival_time": "8:48 AM"
       }
     },
     "bike_accessibility": {
@@ -163,7 +163,7 @@
     "summary": "Kairos Tienercollege is a secondary school in Amsterdam offering VMBO-T, HAVO, and VWO education, with 'Kairos' (opportune moment) suggesting emphasis on seizing educational opportunities at the right developmental moment for teenagers."
   },
   "metadata": {
-    "last_updated": "2026-01-10T18:49:24.379290",
+    "last_updated": "2026-01-11T10:23:50.627082",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

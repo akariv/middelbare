@@ -29,7 +29,7 @@
       "school_days": "Monday-Friday",
       "school_hours": null
     },
-    "formatted_address": "Amsterdam, Netherlands"
+    "formatted_address": "Herman Poortstraat 17, 1064 BR Amsterdam, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -78,34 +78,34 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3675734,
-      "lon": 4.9041389
+      "lat": 52.3765072,
+      "lon": 4.8310662
     },
     "public_transport": {
       "nearest_stops": [
-        "Amstelveen, Oranjebaan (BUS: 300)",
-        "Knooppunt Schiphol Nrd (BUS: 369)"
+        "Onderuit (TRAM: 5)",
+        "Zuid (SUBWAY: 50)"
       ],
       "commute_from_home": {
-        "duration_minutes": 57,
-        "duration_text": "57 mins",
-        "transfers": 0,
+        "duration_minutes": 45,
+        "duration_text": "46 mins",
+        "transfers": 1,
         "routes": [
           {
-            "line": "300",
-            "vehicle": "BUS",
-            "from": "Amstelveen, Oranjebaan",
-            "to": "Knooppunt Schiphol Nrd"
+            "line": "5",
+            "vehicle": "TRAM",
+            "from": "Onderuit",
+            "to": "Station Zuid"
           },
           {
-            "line": "369",
-            "vehicle": "BUS",
-            "from": "Knooppunt Schiphol Nrd",
-            "to": "Burgemeester Röellstraat"
+            "line": "50",
+            "vehicle": "SUBWAY",
+            "from": "Zuid",
+            "to": "De Vlugtlaan"
           }
         ],
-        "departure_time": "8:03 AM",
-        "arrival_time": "9:00 AM"
+        "departure_time": "8:02 AM",
+        "arrival_time": "8:48 AM"
       },
       "accessibility_info": "metro 50 en 51 halte Jan van Galenstraat, tram 13 halte Jan van Galenstraat, tram 7, bus 21, 80 halte Burgemeester Fockstraat"
     },
@@ -169,7 +169,7 @@
     "summary": "Spring High is a secondary school in Amsterdam offering VMBO-T, HAVO, and VWO education, with a name suggesting emphasis on fresh starts, growth, and student development."
   },
   "metadata": {
-    "last_updated": "2026-01-10T18:49:24.541266",
+    "last_updated": "2026-01-11T10:23:58.853634",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

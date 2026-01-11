@@ -28,7 +28,8 @@
     "hours": {
       "school_days": "Monday-Friday",
       "school_hours": null
-    }
+    },
+    "formatted_address": "Sportlaan 27, 1185 TB Amstelveen, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -97,27 +98,27 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3007,
-      "lon": 4.8647
+      "lat": 52.290024,
+      "lon": 4.8505692
     },
     "public_transport": {
       "nearest_stops": [
-        "Amstelveen, Heemraadschapslaan (BUS: 178)"
+        "Onderuit (TRAM: 25)"
       ],
       "commute_from_home": {
-        "duration_minutes": 23,
-        "duration_text": "23 mins",
+        "duration_minutes": 18,
+        "duration_text": "19 mins",
         "transfers": 0,
         "routes": [
           {
-            "line": "178",
-            "vehicle": "BUS",
-            "from": "Amstelveen, Heemraadschapslaan",
+            "line": "25",
+            "vehicle": "TRAM",
+            "from": "Onderuit",
             "to": "Amstelveen, Sportlaan"
           }
         ],
-        "departure_time": "8:00 AM",
-        "arrival_time": "8:23 AM"
+        "departure_time": "8:02 AM",
+        "arrival_time": "8:21 AM"
       },
       "accessibility_info": "bus 242, 347, 348, 357, 358 halte Sportlaan"
     },
@@ -198,7 +199,7 @@
     "summary": "Amstelveen College is a welcoming public school offering MAVO, HAVO, and VWO education with innovative plusprofielen programs for personalized enrichment. Located very close to the student's home address, it provides excellent proximity advantage while offering quality education across multiple tracks. The school emphasizes creating a comfortable, inclusive environment where students can be themselves."
   },
   "metadata": {
-    "last_updated": "2026-01-10T18:49:24.004283",
+    "last_updated": "2026-01-11T10:23:31.994919",
     "data_sources": [
       "https://amstelveencollege.nl/",
       "School website",

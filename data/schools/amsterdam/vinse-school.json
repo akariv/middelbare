@@ -29,7 +29,7 @@
       "school_days": "Monday-Friday",
       "school_hours": null
     },
-    "formatted_address": "Amsterdam, Netherlands"
+    "formatted_address": "Haarlemmerstraat 132, 1013 EX Amsterdam, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -86,27 +86,27 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3675734,
-      "lon": 4.9041389
+      "lat": 52.3812144,
+      "lon": 4.8900497
     },
     "public_transport": {
       "nearest_stops": [
-        "Amstelveen, Oranjebaan (TRAM: 5)"
+        "Onderuit (TRAM: 5)"
       ],
       "commute_from_home": {
-        "duration_minutes": 53,
-        "duration_text": "54 mins",
+        "duration_minutes": 44,
+        "duration_text": "45 mins",
         "transfers": 0,
         "routes": [
           {
             "line": "5",
             "vehicle": "TRAM",
-            "from": "Amstelveen, Oranjebaan",
+            "from": "Onderuit",
             "to": "Nassaukade"
           }
         ],
-        "departure_time": "8:03 AM",
-        "arrival_time": "8:56 AM"
+        "departure_time": "8:02 AM",
+        "arrival_time": "8:46 AM"
       },
       "accessibility_info": "bus 18, 21 en 22 halte Buiten Brouwersstraat, 10 minuten loopafstand Amsterdam CS"
     },
@@ -185,7 +185,7 @@
     "summary": "Vinse School is a secondary school in Amsterdam offering VMBO-T, HAVO, and VWO education across multiple educational tracks."
   },
   "metadata": {
-    "last_updated": "2026-01-10T18:49:24.577874",
+    "last_updated": "2026-01-11T10:24:00.878212",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

@@ -29,7 +29,7 @@
       "school_days": "Monday-Friday",
       "school_hours": null
     },
-    "formatted_address": "Amsterdam, Netherlands"
+    "formatted_address": "Noordbrabantstraat 15-17, 1083 BE Amsterdam, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -110,27 +110,34 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3675734,
-      "lon": 4.9041389
+      "lat": 52.3255816,
+      "lon": 4.8871619
     },
     "public_transport": {
       "nearest_stops": [
-        "Amstelveen, Oranjebaan (TRAM: 5)"
+        "Onderuit (TRAM: 5)",
+        "Station Zuid (BUS: 62)"
       ],
       "commute_from_home": {
-        "duration_minutes": 32,
-        "duration_text": "32 mins",
-        "transfers": 0,
+        "duration_minutes": 26,
+        "duration_text": "26 mins",
+        "transfers": 1,
         "routes": [
           {
             "line": "5",
             "vehicle": "TRAM",
-            "from": "Amstelveen, Oranjebaan",
-            "to": "Van Boshuizenstraat"
+            "from": "Onderuit",
+            "to": "Station Zuid"
+          },
+          {
+            "line": "62",
+            "vehicle": "BUS",
+            "from": "Station Zuid",
+            "to": "Van Heenvlietlaan"
           }
         ],
-        "departure_time": "8:03 AM",
-        "arrival_time": "8:35 AM"
+        "departure_time": "8:02 AM",
+        "arrival_time": "8:28 AM"
       },
       "accessibility_info": "metro 51, tram 5 en 6 halte Van Boshuizenstraat, bus 62 halte Nieuw Herlaer"
     },
@@ -203,7 +210,7 @@
     "summary": "Joodse Scholengemeenschap Maimonides is a Jewish school in Amsterdam offering VMBO, HAVO, and VWO education rooted in Jewish values, culture, and tradition. The school combines secular education with Jewish studies, Hebrew language instruction, and cultural activities, providing a strong Jewish community identity and values-based education for students."
   },
   "metadata": {
-    "last_updated": "2026-01-10T18:49:24.370949",
+    "last_updated": "2026-01-11T10:23:49.834314",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

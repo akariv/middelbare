@@ -17,6 +17,7 @@ load_dotenv()
 
 # Configuration
 HOME_ADDRESS = "Judith Leijsterweg 30, 1181 TC Amstelveen, Netherlands"
+TRANSIT_START = "Onderuit, Amstelveen, Netherlands"  # Tram stop for public transport
 API_KEY = os.getenv('GOOGLE_MAPS_API_KEY')
 
 if not API_KEY:
@@ -43,17 +44,23 @@ def geocode_address(address):
         print(f"  ⚠️  Geocoding error: {e}")
     return None
 
-def get_commute_info(origin, destination):
-    """Get detailed commute information for bike and public transit."""
+def get_commute_info(bike_origin, transit_origin, destination):
+    """Get detailed commute information for bike and public transit.
+
+    Args:
+        bike_origin: Starting point for bike route (home address)
+        transit_origin: Starting point for transit route (tram stop)
+        destination: School address
+    """
     commute_data = {
         'bike': None,
         'transit': None
     }
 
-    # Get biking directions
+    # Get biking directions from home
     try:
         bike_directions = gmaps.directions(
-            origin,
+            bike_origin,
             destination,
             mode="bicycling",
             departure_time=datetime(2026, 2, 10, 8, 0)  # Monday morning
@@ -70,10 +77,10 @@ def get_commute_info(origin, destination):
     except Exception as e:
         print(f"  ⚠️  Bike routing error: {e}")
 
-    # Get public transit directions
+    # Get public transit directions from tram stop
     try:
         transit_directions = gmaps.directions(
-            origin,
+            transit_origin,
             destination,
             mode="transit",
             departure_time=datetime(2026, 2, 10, 8, 0),  # Monday morning
@@ -144,25 +151,33 @@ def enrich_school_with_gmaps(school_file, home_coords):
     print(f"Processing: {school_name}")
     print(f"  Address: {school_address}")
 
-    # Geocode school address if coordinates missing or inaccurate
-    if not data['location']['coordinates'].get('lat') or not data['location']['coordinates'].get('lon'):
-        print(f"  📍 Geocoding address...")
-        geocode_result = geocode_address(school_address)
+    # Always geocode school address to ensure accurate coordinates
+    print(f"  📍 Geocoding address...")
+    geocode_result = geocode_address(school_address)
 
-        if geocode_result:
-            data['location']['coordinates'] = {
-                'lat': geocode_result['lat'],
-                'lon': geocode_result['lon']
-            }
-            data['basic_info']['formatted_address'] = geocode_result['formatted_address']
-            print(f"  ✓ Coordinates: {geocode_result['lat']:.4f}, {geocode_result['lon']:.4f}")
+    if geocode_result:
+        old_coords = data['location']['coordinates']
+        data['location']['coordinates'] = {
+            'lat': geocode_result['lat'],
+            'lon': geocode_result['lon']
+        }
+        data['basic_info']['formatted_address'] = geocode_result['formatted_address']
+
+        # Show if coordinates changed
+        if old_coords.get('lat') and old_coords.get('lon'):
+            if abs(old_coords['lat'] - geocode_result['lat']) > 0.001 or abs(old_coords['lon'] - geocode_result['lon']) > 0.001:
+                print(f"  ⚠️  Coordinates updated: {old_coords['lat']:.4f},{old_coords['lon']:.4f} → {geocode_result['lat']:.4f},{geocode_result['lon']:.4f}")
+            else:
+                print(f"  ✓ Coordinates confirmed: {geocode_result['lat']:.4f}, {geocode_result['lon']:.4f}")
         else:
-            print(f"  ❌ Geocoding failed")
-            return False
+            print(f"  ✓ Coordinates: {geocode_result['lat']:.4f}, {geocode_result['lon']:.4f}")
+    else:
+        print(f"  ❌ Geocoding failed")
+        return False
 
     # Get commute information
     print(f"  🚴 Calculating routes...")
-    commute_data = get_commute_info(HOME_ADDRESS, school_address)
+    commute_data = get_commute_info(HOME_ADDRESS, TRANSIT_START, school_address)
 
     # Update bike accessibility
     if commute_data['bike']:
@@ -231,7 +246,8 @@ def enrich_all_schools():
     print("=" * 70)
     print("Google Maps Commute Calculator")
     print("=" * 70)
-    print(f"Home: {HOME_ADDRESS}\n")
+    print(f"Home (bike): {HOME_ADDRESS}")
+    print(f"Transit start: {TRANSIT_START}\n")
 
     # Geocode home address
     print("Geocoding home address...")

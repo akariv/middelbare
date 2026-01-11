@@ -29,7 +29,7 @@
       "school_days": "Monday-Friday",
       "school_hours": null
     },
-    "formatted_address": "Amsterdam, Netherlands"
+    "formatted_address": "De Cuserstraat 3, 1081 CK Amsterdam, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -78,27 +78,27 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3675734,
-      "lon": 4.9041389
+      "lat": 52.3233135,
+      "lon": 4.8675387
     },
     "public_transport": {
       "nearest_stops": [
-        "Amstelveen, Oranjebaan (TRAM: 5)"
+        "Onderuit (TRAM: 5)"
       ],
       "commute_from_home": {
-        "duration_minutes": 16,
-        "duration_text": "17 mins",
+        "duration_minutes": 8,
+        "duration_text": "8 mins",
         "transfers": 0,
         "routes": [
           {
             "line": "5",
             "vehicle": "TRAM",
-            "from": "Amstelveen, Oranjebaan",
+            "from": "Onderuit",
             "to": "Amstelveen, Uilenstede"
           }
         ],
-        "departure_time": "8:03 AM",
-        "arrival_time": "8:20 AM"
+        "departure_time": "8:02 AM",
+        "arrival_time": "8:10 AM"
       }
     },
     "bike_accessibility": {
@@ -175,7 +175,7 @@
     "summary": "CSB (Christelijke Scholengemeenschap Buitenveldert) is a Christian Protestant school in Amsterdam Zuid offering VMBO-T, HAVO, and VWO education with values-based approach in the Buitenveldert area."
   },
   "metadata": {
-    "last_updated": "2026-01-10T18:53:53.257199",
+    "last_updated": "2026-01-11T10:23:39.476660",
     "data_sources": [
       "Schools list",
       "schoolkeuze020.nl open dagen 2026",

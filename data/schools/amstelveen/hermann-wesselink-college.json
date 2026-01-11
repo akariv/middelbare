@@ -31,7 +31,8 @@
     "hours": {
       "school_days": "Weekdays",
       "school_hours": "8:00-16:30"
-    }
+    },
+    "formatted_address": "Startbaan 3, 1185 XP Amstelveen, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -98,26 +99,26 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.2973,
-      "lon": 4.8632
+      "lat": 52.28743,
+      "lon": 4.855929
     },
     "public_transport": {
       "nearest_stops": [
-        "Amstelveen, Heemraadschapslaan (BUS: 178)"
+        "Onderuit (TRAM: 25)"
       ],
       "commute_from_home": {
-        "duration_minutes": 20,
-        "duration_text": "21 mins",
+        "duration_minutes": 18,
+        "duration_text": "19 mins",
         "transfers": 0,
         "routes": [
           {
-            "line": "178",
-            "vehicle": "BUS",
-            "from": "Amstelveen, Heemraadschapslaan",
-            "to": "Amstelveen, Startbaan"
+            "line": "25",
+            "vehicle": "TRAM",
+            "from": "Onderuit",
+            "to": "Amstelveen, Sportlaan"
           }
         ],
-        "departure_time": "8:00 AM",
+        "departure_time": "8:02 AM",
         "arrival_time": "8:20 AM"
       }
     },
@@ -194,7 +195,7 @@
     "summary": "Hermann Wesselink College is a large, modern Christian school in Amstelveen offering comprehensive education from VMBO-T through Gymnasium, including bilingual options. Located very close to the student's home, it features a new energy-neutral building with excellent facilities. With its motto 'everyone is equal, but nobody is the same,' the school balances Christian values with inclusive individuality. Strong support systems and international orientation make it suitable for diverse learners."
   },
   "metadata": {
-    "last_updated": "2026-01-10T18:49:24.012312",
+    "last_updated": "2026-01-11T10:23:32.673121",
     "data_sources": [
       "https://www.hethwc.nl/",
       "Wikipedia",

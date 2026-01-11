@@ -26,7 +26,7 @@
       "school_days": "Monday-Friday",
       "school_hours": null
     },
-    "formatted_address": "Amsterdam, Netherlands"
+    "formatted_address": "Archangelweg 4, 1014 ZA Amsterdam, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -84,27 +84,27 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3675734,
-      "lon": 4.9041389
+      "lat": 52.3942463,
+      "lon": 4.8728724
     },
     "public_transport": {
       "nearest_stops": [
-        "Amstelveen, Oranjebaan (TRAM: 5)"
+        "Onderuit (TRAM: 5)"
       ],
       "commute_from_home": {
-        "duration_minutes": 66,
-        "duration_text": "1 hour 6 mins",
+        "duration_minutes": 57,
+        "duration_text": "58 mins",
         "transfers": 0,
         "routes": [
           {
             "line": "5",
             "vehicle": "TRAM",
-            "from": "Amstelveen, Oranjebaan",
+            "from": "Onderuit",
             "to": "Van Limburg Stirumstraat"
           }
         ],
-        "departure_time": "8:03 AM",
-        "arrival_time": "9:09 AM"
+        "departure_time": "8:02 AM",
+        "arrival_time": "8:59 AM"
       },
       "accessibility_info": "bus 22 (Spaarndammerstraat) en bus 48 (Haparandaweg), veerpont vanuit NDSM en Distelweg naar de Pontsteiger"
     },
@@ -190,7 +190,7 @@
     "summary": "Het 4e Gymnasium is Amsterdam's fourth gymnasium, offering VWO education with focus on classical languages and culture. The school provides rigorous academic preparation with emphasis on Latin, Greek, and classical studies."
   },
   "metadata": {
-    "last_updated": "2026-01-10T18:49:24.323123",
+    "last_updated": "2026-01-11T10:23:46.302686",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

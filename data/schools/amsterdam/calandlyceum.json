@@ -29,7 +29,8 @@
     "hours": {
       "school_days": "Monday-Friday",
       "school_hours": null
-    }
+    },
+    "formatted_address": "Pieter Calandlaan 182, 1068 NT Amsterdam, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -121,19 +122,26 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3547,
-      "lon": 4.7953
+      "lat": 52.3537377,
+      "lon": 4.806117899999999
     },
     "public_transport": {
       "nearest_stops": [
+        "Onderuit (TRAM: 25)",
         "Amstelveen, Oranjebaan (BUS: 300)",
         "Knooppunt Schiphol Nrd (BUS: 369)"
       ],
       "commute_from_home": {
-        "duration_minutes": 38,
-        "duration_text": "39 mins",
-        "transfers": 0,
+        "duration_minutes": 39,
+        "duration_text": "40 mins",
+        "transfers": 2,
         "routes": [
+          {
+            "line": "25",
+            "vehicle": "TRAM",
+            "from": "Onderuit",
+            "to": "Amstelveen, Oranjebaan"
+          },
           {
             "line": "300",
             "vehicle": "BUS",
@@ -147,7 +155,7 @@
             "to": "Louis Davidsstraat"
           }
         ],
-        "departure_time": "8:03 AM",
+        "departure_time": "8:02 AM",
         "arrival_time": "8:42 AM"
       },
       "accessibility_info": "tram 1, 17, bus 61, 63 en 69 halte Meer en Vaart of Louis Davidsstraat "
@@ -242,7 +250,7 @@
     "summary": "Calandlyceum is an established school (nearly 60 years) in Amsterdam Nieuw-West offering VMBO-T, HAVO, and VWO education with three distinctive specialized programs: Technasium (technology focus), Topsport Talentschool (integrated athletic training), and Kunstatelier (arts curriculum). Part of Stichting Progresso, the school provides Passend Onderwijs support for dyslexia and gifted students, uses blended learning approaches, and offers a mentor system for guidance. With separate facilities for younger students, an on-campus library, healthy canteen, and diverse extracurriculars (theater, kart racing, debate, sports), Calandlyceum caters to students with varied interests and abilities."
   },
   "metadata": {
-    "last_updated": "2026-01-10T18:49:24.050955",
+    "last_updated": "2026-01-11T10:23:36.085720",
     "data_sources": [
       "https://www.calandlyceum.nl/",
       "School website",

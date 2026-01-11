@@ -27,7 +27,7 @@
       "school_days": "Monday-Friday",
       "school_hours": null
     },
-    "formatted_address": "Amsterdam, Netherlands"
+    "formatted_address": "Gerrit van der Veenstraat 99, 1077 DT Amsterdam, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -89,27 +89,27 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3675734,
-      "lon": 4.9041389
+      "lat": 52.3486949,
+      "lon": 4.8743016
     },
     "public_transport": {
       "nearest_stops": [
-        "Amstelveen, Oranjebaan (TRAM: 5)"
+        "Onderuit (TRAM: 5)"
       ],
       "commute_from_home": {
-        "duration_minutes": 25,
-        "duration_text": "26 mins",
+        "duration_minutes": 16,
+        "duration_text": "17 mins",
         "transfers": 0,
         "routes": [
           {
             "line": "5",
             "vehicle": "TRAM",
-            "from": "Amstelveen, Oranjebaan",
+            "from": "Onderuit",
             "to": "Gerrit van der Veenstr"
           }
         ],
-        "departure_time": "8:03 AM",
-        "arrival_time": "8:28 AM"
+        "departure_time": "8:02 AM",
+        "arrival_time": "8:18 AM"
       },
       "accessibility_info": "metro 50 en 51 halte Station Zuid, tram 5 en 24, bus 65, schoolbus 612 halte Gerrit vd Veenstraat"
     },
@@ -197,7 +197,7 @@
     "summary": "Gerrit van der Veen College is a secondary school in Amsterdam offering HAVO and VWO education, named after the Dutch artist and WWII resistance fighter, likely emphasizing values of courage, creativity, and social responsibility."
   },
   "metadata": {
-    "last_updated": "2026-01-10T18:49:24.268910",
+    "last_updated": "2026-01-11T10:23:44.278527",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

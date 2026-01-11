@@ -29,7 +29,7 @@
       "school_days": "Monday-Friday",
       "school_hours": null
     },
-    "formatted_address": "Amsterdam, Netherlands"
+    "formatted_address": "Pampuslaan 1, 1087 KM Amsterdam, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -94,34 +94,41 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3675734,
-      "lon": 4.9041389
+      "lat": 52.3513721,
+      "lon": 5.003805
     },
     "public_transport": {
       "nearest_stops": [
-        "Amstelveen, Busstation (BUS: 356)",
-        "Station Bijlmer ArenA (BUS: 360)"
+        "Onderuit (TRAM: 25)",
+        "Station Zuid (BUS: 321)",
+        "Diemen, Diemerknoop (BUS: 360)"
       ],
       "commute_from_home": {
-        "duration_minutes": 66,
-        "duration_text": "1 hour 7 mins",
-        "transfers": 0,
+        "duration_minutes": 54,
+        "duration_text": "54 mins",
+        "transfers": 2,
         "routes": [
           {
-            "line": "356",
+            "line": "25",
+            "vehicle": "TRAM",
+            "from": "Onderuit",
+            "to": "Station Zuid"
+          },
+          {
+            "line": "321",
             "vehicle": "BUS",
-            "from": "Amstelveen, Busstation",
-            "to": "Station Bijlmer ArenA"
+            "from": "Station Zuid",
+            "to": "Diemen, Diemerknoop"
           },
           {
             "line": "360",
             "vehicle": "BUS",
-            "from": "Station Bijlmer ArenA",
+            "from": "Diemen, Diemerknoop",
             "to": "Peter Martensstraat"
           }
         ],
-        "departure_time": "8:05 AM",
-        "arrival_time": "9:12 AM"
+        "departure_time": "8:07 AM",
+        "arrival_time": "9:01 AM"
       },
       "accessibility_info": "tram 26 halte IJburg, bus 66 halte Pieter Oosterhuisstraat"
     },
@@ -203,7 +210,7 @@
     "summary": "Montessori Lyceum Terra Nova is a Montessori secondary school in Amsterdam offering VMBO, HAVO, and VWO education using the Montessori methodology. With a name meaning 'new earth,' the school emphasizes self-directed learning, hands-on activities, and individual development in a fresh, student-centered environment."
   },
   "metadata": {
-    "last_updated": "2026-01-10T18:49:24.501091",
+    "last_updated": "2026-01-11T10:23:55.357541",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

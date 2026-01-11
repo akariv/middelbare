@@ -33,7 +33,8 @@
     "hours": {
       "school_days": "Monday-Friday",
       "school_hours": "Absence reporting before 08:30 AM"
-    }
+    },
+    "formatted_address": "Hemsterhuisstraat 79, 1065 JX Amsterdam, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -122,23 +123,23 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3674,
-      "lon": 4.7934
+      "lat": 52.3623798,
+      "lon": 4.8256482
     },
     "public_transport": {
       "nearest_stops": [
-        "Amstelveen, Oranjebaan (TRAM: 5)",
+        "Onderuit (TRAM: 5)",
         "Zuid (SUBWAY: 50)"
       ],
       "commute_from_home": {
-        "duration_minutes": 51,
-        "duration_text": "51 mins",
+        "duration_minutes": 42,
+        "duration_text": "43 mins",
         "transfers": 1,
         "routes": [
           {
             "line": "5",
             "vehicle": "TRAM",
-            "from": "Amstelveen, Oranjebaan",
+            "from": "Onderuit",
             "to": "Station Zuid"
           },
           {
@@ -148,8 +149,8 @@
             "to": "Postjesweg"
           }
         ],
-        "departure_time": "8:03 AM",
-        "arrival_time": "8:54 AM"
+        "departure_time": "8:02 AM",
+        "arrival_time": "8:44 AM"
       },
       "accessibility_info": "metro 50 en 51 halte Postjesweg of Lelylaan, tram 1 en 17, bus 18 en 63 halte Johan Huizingalaan"
     },
@@ -256,7 +257,7 @@
     "summary": "Hervormd Lyceum West is a comprehensive Protestant secondary school in Amsterdam Nieuw-West offering education from MAVO through Gymnasium. With its innovative DigiTech program, bilingual TTO track, and historic gymnasium program (65+ years), HLW combines traditional values with modern educational approaches. The school emphasizes personal growth and provides strong student support including remedial instruction and trajectklas. Its blended learning environment integrates technology while maintaining focus on individual development."
   },
   "metadata": {
-    "last_updated": "2026-01-10T18:49:24.277663",
+    "last_updated": "2026-01-11T10:23:44.908867",
     "data_sources": [
       "https://www.hlw.nl/",
       "School website",

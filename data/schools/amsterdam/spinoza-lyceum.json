@@ -30,7 +30,8 @@
     "hours": {
       "school_days": "Monday-Friday",
       "school_hours": null
-    }
+    },
+    "formatted_address": "Peter van Anrooystraat 8, 1076 BH Amsterdam, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -109,27 +110,27 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3492,
-      "lon": 4.8576
+      "lat": 52.3429679,
+      "lon": 4.8658484
     },
     "public_transport": {
       "nearest_stops": [
-        "Amstelveen, Oranjebaan (TRAM: 5)"
+        "Onderuit (TRAM: 5)"
       ],
       "commute_from_home": {
-        "duration_minutes": 28,
-        "duration_text": "29 mins",
+        "duration_minutes": 19,
+        "duration_text": "20 mins",
         "transfers": 0,
         "routes": [
           {
             "line": "5",
             "vehicle": "TRAM",
-            "from": "Amstelveen, Oranjebaan",
+            "from": "Onderuit",
             "to": "Parnassusweg"
           }
         ],
-        "departure_time": "8:03 AM",
-        "arrival_time": "8:31 AM"
+        "departure_time": "8:02 AM",
+        "arrival_time": "8:21 AM"
       },
       "accessibility_info": "trein, metro 50 en 51, tram 5 en 6 halte Station Zuid, tram 24 halte Olympiaplein, bus 15, 45, 55, 62, 65, 244, 341, 346 halte Station Zuid"
     },
@@ -228,7 +229,7 @@
     "summary": "Het Dalton Spinoza Lyceum is an arts and cultural education school in Amsterdam Zuid offering VMBO-T, HAVO, VWO, and Gymnasium with the motto 'de kunst van het leren' (the art of learning). Operating under the Dalton education philosophy, the school emphasizes individualized learning, student autonomy, and global citizenship. Special programs include Erasmus+ international exchanges, visual arts (KuBv), and comprehensive arts and cultural education. Part of Stichting Spinoza Lyceum, the school provides comprehensive student guidance while developing independent, globally-minded learners."
   },
   "metadata": {
-    "last_updated": "2026-01-10T18:49:24.525488",
+    "last_updated": "2026-01-11T10:23:57.461463",
     "data_sources": [
       "https://www.spinozalyceum.nl/",
       "School website",

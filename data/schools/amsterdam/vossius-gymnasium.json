@@ -26,7 +26,7 @@
       "school_days": "Monday-Friday",
       "school_hours": null
     },
-    "formatted_address": "Amsterdam, Netherlands"
+    "formatted_address": "Messchaertstraat 1, 1077 WS Amsterdam, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -83,34 +83,34 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3675734,
-      "lon": 4.9041389
+      "lat": 52.3457468,
+      "lon": 4.8841436
     },
     "public_transport": {
       "nearest_stops": [
-        "Amstelveen, Oranjebaan (TRAM: 5)"
+        "Onderuit (TRAM: 5)"
       ],
       "commute_from_home": {
-        "duration_minutes": 30,
-        "duration_text": "30 mins",
+        "duration_minutes": 21,
+        "duration_text": "22 mins",
         "transfers": 0,
         "routes": [
           {
             "line": "5",
             "vehicle": "TRAM",
-            "from": "Amstelveen, Oranjebaan",
+            "from": "Onderuit",
             "to": "Prinses Irenestraat"
           }
         ],
-        "departure_time": "8:03 AM",
-        "arrival_time": "8:33 AM"
+        "departure_time": "8:02 AM",
+        "arrival_time": "8:23 AM"
       },
       "accessibility_info": "metro 50, 51 en 52 halte Station Rai, tram 4 Station Rai, tram 12 halte Scheldestraat en tram 24 halte Beethovenstraat, bus 65 halte Scheldestraat en bus 612 halte Guido Gezellestraat"
     },
     "bike_accessibility": {
-      "distance_km": 6.11,
-      "duration_minutes": 21,
-      "distance_text": "6.1 km",
+      "distance_km": 6.0,
+      "duration_minutes": 20,
+      "distance_text": "6.0 km",
       "duration_text": "21 mins",
       "route_quality": "Moderate distance, typical bike commute"
     },
@@ -186,7 +186,7 @@
     "summary": "Vossius Gymnasium is a prestigious categoraal gymnasium in Amsterdam offering VWO education with focus on classical languages and culture. The school provides rigorous academic preparation with emphasis on Latin, Greek, and classical studies for high-achieving students seeking university preparation."
   },
   "metadata": {
-    "last_updated": "2026-01-10T18:49:24.583397",
+    "last_updated": "2026-01-11T10:24:01.510057",
     "data_sources": [
       "Schools list",
       "Limited web access",

@@ -27,7 +27,7 @@
       "school_days": "Monday-Friday",
       "school_hours": null
     },
-    "formatted_address": "Amsterdam, Netherlands"
+    "formatted_address": "1025 KM Amsterdam, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -92,24 +92,24 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3675734,
-      "lon": 4.9041389
+      "lat": 52.3943501,
+      "lon": 4.9317107
     },
     "public_transport": {
       "nearest_stops": [
-        "Amstelveen, Oranjebaan (TRAM: 25)",
+        "Onderuit (TRAM: 25)",
         "Zuid (SUBWAY: 52)",
         "Noorderpark (BUS: 35)"
       ],
       "commute_from_home": {
-        "duration_minutes": 59,
-        "duration_text": "1 hour 0 mins",
+        "duration_minutes": 51,
+        "duration_text": "51 mins",
         "transfers": 2,
         "routes": [
           {
             "line": "25",
             "vehicle": "TRAM",
-            "from": "Amstelveen, Oranjebaan",
+            "from": "Onderuit",
             "to": "Station Zuid"
           },
           {
@@ -125,8 +125,8 @@
             "to": "Rode Kruisstraat"
           }
         ],
-        "departure_time": "8:08 AM",
-        "arrival_time": "9:08 AM"
+        "departure_time": "8:07 AM",
+        "arrival_time": "8:58 AM"
       },
       "accessibility_info": "metro 52 halte Noord, bus 35, 38, 301, 315 halte Rode Kruisstraat"
     },
@@ -225,7 +225,7 @@
     "summary": "Damstede Lyceum is a secondary school in Amsterdam offering HAVO and VWO education with the motto 'Discover your talent at Damstede.' The school emphasizes talent development and helping students discover their abilities and interests."
   },
   "metadata": {
-    "last_updated": "2026-01-10T18:49:24.167404",
+    "last_updated": "2026-01-11T10:23:40.822066",
     "data_sources": [
       "https://www.damstedelyceum.nl/",
       "Limited web access",

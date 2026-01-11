@@ -28,7 +28,8 @@
     "hours": {
       "school_days": "Monday-Friday",
       "school_hours": null
-    }
+    },
+    "formatted_address": "Nobelweg 6, 1097 AR Amsterdam, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -105,23 +106,23 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3478,
-      "lon": 4.9436
+      "lat": 52.349761,
+      "lon": 4.923935999999999
     },
     "public_transport": {
       "nearest_stops": [
-        "Amstelveen, Oranjebaan (TRAM: 5)",
+        "Onderuit (TRAM: 5)",
         "Zuid (SUBWAY: 51)"
       ],
       "commute_from_home": {
-        "duration_minutes": 47,
-        "duration_text": "47 mins",
+        "duration_minutes": 38,
+        "duration_text": "38 mins",
         "transfers": 1,
         "routes": [
           {
             "line": "5",
             "vehicle": "TRAM",
-            "from": "Amstelveen, Oranjebaan",
+            "from": "Onderuit",
             "to": "Station Zuid"
           },
           {
@@ -131,8 +132,8 @@
             "to": "Amstelstation"
           }
         ],
-        "departure_time": "8:03 AM",
-        "arrival_time": "8:50 AM"
+        "departure_time": "8:02 AM",
+        "arrival_time": "8:40 AM"
       },
       "accessibility_info": "trein, metro 54 en 50, tram 12, bus 37, 40, 62, 65, 79, 320 halte Amstelstation"
     },
@@ -236,7 +237,7 @@
     "summary": "Pieter Nieuwland College is a HAVO/VWO school in Amsterdam Oost with the motto 'Helder en Afwisselend' (Clear and Varied). The school offers an enhanced VWO-plus program for high-achieving students and emphasizes art and creative expression. With its transparent educational approach and diverse learning experiences, the school provides flexible entry options including mid-year admission. The school maintains an active online presence and welcomes students with the message 'You've landed at the right school.'"
   },
   "metadata": {
-    "last_updated": "2026-01-10T18:49:24.517771",
+    "last_updated": "2026-01-11T10:23:56.759257",
     "data_sources": [
       "https://www.pieternieuwland.nl/",
       "School website",

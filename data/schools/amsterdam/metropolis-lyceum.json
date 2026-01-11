@@ -29,7 +29,7 @@
       "school_days": "Monday-Friday",
       "school_hours": null
     },
-    "formatted_address": "Amsterdam, Netherlands"
+    "formatted_address": "Overhoeksplein 2, 1031 KS Amsterdam, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {},
@@ -64,31 +64,31 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3675734,
-      "lon": 4.9041389
+      "lat": 52.384201,
+      "lon": 4.902864
     },
     "public_transport": {
       "nearest_stops": [
-        "Amstelveen, Oranjebaan (BUS: 300)",
-        "Schiphol Airport (HEAVY_RAIL: Sprinter)",
+        "Onderuit (TRAM: 5)",
+        "Museumplein (TRAM: 2)",
         "Centraal Station (FERRY: F3)"
       ],
       "commute_from_home": {
-        "duration_minutes": 69,
-        "duration_text": "1 hour 10 mins",
-        "transfers": 2,
+        "duration_minutes": 58,
+        "duration_text": "59 mins",
+        "transfers": 1,
         "routes": [
           {
-            "line": "300",
-            "vehicle": "BUS",
-            "from": "Amstelveen, Oranjebaan",
-            "to": "Schiphol, Airport/Plaza"
+            "line": "5",
+            "vehicle": "TRAM",
+            "from": "Onderuit",
+            "to": "Museumplein"
           },
           {
-            "line": "Sprinter",
-            "vehicle": "HEAVY_RAIL",
-            "from": "Schiphol Airport",
-            "to": "Amsterdam Centraal"
+            "line": "2",
+            "vehicle": "TRAM",
+            "from": "Museumplein",
+            "to": "Centraal Station"
           },
           {
             "line": "F3",
@@ -97,8 +97,8 @@
             "to": "Buiksloterweg"
           }
         ],
-        "departure_time": "8:03 AM",
-        "arrival_time": "9:12 AM"
+        "departure_time": "8:02 AM",
+        "arrival_time": "9:00 AM"
       }
     },
     "bike_accessibility": {
@@ -158,7 +158,7 @@
     "summary": "Metropolis Lyceum is a secondary school in Amsterdam offering VMBO-T, HAVO, and VWO education, with a name suggesting an urban, cosmopolitan environment emphasizing diversity and modern, city-connected perspectives."
   },
   "metadata": {
-    "last_updated": "2026-01-10T17:10:14.509880",
+    "last_updated": "2026-01-11T10:23:52.675597",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",

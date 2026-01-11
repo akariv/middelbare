@@ -29,7 +29,7 @@
       "school_days": "Monday-Friday",
       "school_hours": null
     },
-    "formatted_address": "Amsterdam, Netherlands"
+    "formatted_address": "Reinaert de Vosstraat 27, 1055 CL Amsterdam, Netherlands"
   },
   "academic_performance": {
     "exam_scores": {
@@ -90,23 +90,23 @@
   },
   "location": {
     "coordinates": {
-      "lat": 52.3675734,
-      "lon": 4.9041389
+      "lat": 52.3783039,
+      "lon": 4.8545416
     },
     "public_transport": {
       "nearest_stops": [
-        "Amstelveen, Oranjebaan (TRAM: 5)",
+        "Onderuit (TRAM: 5)",
         "Leidseplein (TRAM: 19)"
       ],
       "commute_from_home": {
-        "duration_minutes": 52,
-        "duration_text": "52 mins",
+        "duration_minutes": 43,
+        "duration_text": "43 mins",
         "transfers": 0,
         "routes": [
           {
             "line": "5",
             "vehicle": "TRAM",
-            "from": "Amstelveen, Oranjebaan",
+            "from": "Onderuit",
             "to": "Leidseplein"
           },
           {
@@ -116,8 +116,8 @@
             "to": "Karel Doormanstraat"
           }
         ],
-        "departure_time": "8:03 AM",
-        "arrival_time": "8:55 AM"
+        "departure_time": "8:02 AM",
+        "arrival_time": "8:45 AM"
       },
       "accessibility_info": "metro 50, 51 halte Sloterdijk, bus 61, 69 halte Naritaweg"
     },
@@ -179,7 +179,7 @@
     "summary": "Cornelius Haga Lyceum is an Islamic school in Amsterdam offering VMBO-T, HAVO, and VWO education rooted in Islamic values and principles, combining secular education with Islamic studies for Muslim students and families."
   },
   "metadata": {
-    "last_updated": "2026-01-10T18:49:24.114767",
+    "last_updated": "2026-01-11T10:23:38.864173",
     "data_sources": [
       "Schools list",
       "onderwijsconsument.nl API",
