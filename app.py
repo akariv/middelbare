@@ -311,6 +311,16 @@ def render_school_details(school):
         affiliation = school['basic_info'].get('religious_affiliation', 'N/A')
         st.write(affiliation)
 
+    # Map
+    coordinates = school.get('location', {}).get('coordinates', {})
+    if coordinates.get('lat') and coordinates.get('lon'):
+        st.markdown("**Location Map**")
+        map_data = pd.DataFrame({
+            'lat': [coordinates['lat']],
+            'lon': [coordinates['lon']]
+        })
+        st.map(map_data, zoom=14)
+
     # Academic Performance
     st.markdown("**Academic Performance**")
     exam_scores = school.get('academic_performance', {}).get('exam_scores', {})
